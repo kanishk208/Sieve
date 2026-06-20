@@ -1,0 +1,3884 @@
+[
+  {
+    "variation_id": "4818722",
+    "title": "NM_000520.6(HEXA):c.1451T>C (p.Leu484Pro)",
+    "significance": "Likely pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "L484P, L495P",
+    "gene_id": "HEXA",
+    "location": "00000000000072345521"
+  },
+  {
+    "variation_id": "4818715",
+    "title": "NM_000520.6(HEXA):c.1260G>T (p.Trp420Cys)",
+    "significance": "Likely pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "W420C, W431C",
+    "gene_id": "HEXA",
+    "location": "00000000000072346597"
+  },
+  {
+    "variation_id": "4814268",
+    "title": "NM_000520.6(HEXA):c.623A>T (p.Asp208Val)",
+    "significance": "Likely pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "D208V, D219V",
+    "gene_id": "HEXA",
+    "location": "00000000000072351182"
+  },
+  {
+    "variation_id": "4814261",
+    "title": "NM_000520.6(HEXA):c.488A>G (p.Asp163Gly)",
+    "significance": "Likely pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "D163G, D174G",
+    "gene_id": "HEXA",
+    "location": "00000000000072353150"
+  },
+  {
+    "variation_id": "4814260",
+    "title": "NM_000520.6(HEXA):c.412G>A (p.Gly138Ser)",
+    "significance": "Likely pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "G138S, G149S",
+    "gene_id": "HEXA",
+    "location": "00000000000072355559"
+  },
+  {
+    "variation_id": "4806000",
+    "title": "NM_000520.6(HEXA):c.457A>G (p.Thr153Ala)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "T153A, T164A",
+    "gene_id": "HEXA",
+    "location": "00000000000072353693"
+  },
+  {
+    "variation_id": "4802394",
+    "title": "NM_000520.6(HEXA):c.1559G>C (p.Gly520Ala)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "G520A, G531A",
+    "gene_id": "HEXA",
+    "location": "00000000000072344108"
+  },
+  {
+    "variation_id": "4777398",
+    "title": "NM_000520.6(HEXA):c.1382G>A (p.Gly461Glu)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "G461E, G472E",
+    "gene_id": "HEXA",
+    "location": "00000000000072346274"
+  },
+  {
+    "variation_id": "4750167",
+    "title": "NM_000520.6(HEXA):c.100G>C (p.Asp34His)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "D34H",
+    "gene_id": "HEXA",
+    "location": "00000000000072375873"
+  },
+  {
+    "variation_id": "4710195",
+    "title": "NM_000520.6(HEXA):c.755G>T (p.Arg252Leu)",
+    "significance": "Pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "R252L, R263L",
+    "gene_id": "HEXA",
+    "location": "00000000000072350568"
+  },
+  {
+    "variation_id": "4293778",
+    "title": "NM_000520.6(HEXA):c.987G>C (p.Trp329Cys)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "W329C, W340C",
+    "gene_id": "HEXA",
+    "location": "00000000000072348134"
+  },
+  {
+    "variation_id": "4292144",
+    "title": "NM_000520.6(HEXA):c.1259G>C (p.Trp420Ser)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "W420S, W431S",
+    "gene_id": "HEXA",
+    "location": "00000000000072346598"
+  },
+  {
+    "variation_id": "4081704",
+    "title": "NM_000520.6(HEXA):c.1412C>T (p.Pro471Leu)",
+    "significance": "Likely pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "P471L, P482L",
+    "gene_id": "HEXA",
+    "location": "00000000000072346244"
+  },
+  {
+    "variation_id": "3911942",
+    "title": "NM_000520.6(HEXA):c.1384G>A (p.Glu462Lys)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not specified"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "E462K, E473K",
+    "gene_id": "HEXA",
+    "location": "00000000000072346272"
+  },
+  {
+    "variation_id": "3730787",
+    "title": "NM_000520.6(HEXA):c.629C>G (p.Ser210Cys)",
+    "significance": "Likely pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "S221C, S210C",
+    "gene_id": "HEXA",
+    "location": "00000000000072351176"
+  },
+  {
+    "variation_id": "3719775",
+    "title": "NM_000520.6(HEXA):c.1395C>G (p.Asp465Glu)",
+    "significance": "Likely pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "D476E, D465E",
+    "gene_id": "HEXA",
+    "location": "00000000000072346261"
+  },
+  {
+    "variation_id": "3660130",
+    "title": "NM_000520.6(HEXA):c.1423C>T (p.Pro475Ser)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "P475S, P486S",
+    "gene_id": "HEXA",
+    "location": "00000000000072345549"
+  },
+  {
+    "variation_id": "3626784",
+    "title": "NM_000520.6(HEXA):c.511_513delinsAAA (p.Gly171Lys)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "G171K, G182K",
+    "gene_id": "HEXA",
+    "location": "00000000000072353125"
+  },
+  {
+    "variation_id": "3572745",
+    "title": "NM_000520.6(HEXA):c.1566T>G (p.Cys522Trp)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "C522W, C533W",
+    "gene_id": "HEXA",
+    "location": "00000000000072344101"
+  },
+  {
+    "variation_id": "3392646",
+    "title": "NM_000520.6(HEXA):c.1461C>G (p.Asn487Lys)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "N487K, N498K",
+    "gene_id": "HEXA",
+    "location": "00000000000072345511"
+  },
+  {
+    "variation_id": "3366875",
+    "title": "NM_000520.6(HEXA):c.161C>T (p.Ala54Val)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "A54V",
+    "gene_id": "HEXA",
+    "location": "00000000000072375812"
+  },
+  {
+    "variation_id": "3251555",
+    "title": "NM_000520.6(HEXA):c.677C>T (p.Ser226Phe)",
+    "significance": "Conflicting classifications of pathogenicity",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Tay-Sachs disease",
+      "not specified"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "S226F, S237F",
+    "gene_id": "HEXA",
+    "location": "00000000000072350646"
+  },
+  {
+    "variation_id": "2965563",
+    "title": "NM_000520.6(HEXA):c.965A>G (p.Asp322Gly)",
+    "significance": "Pathogenic/Likely pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "D333G, D322G",
+    "gene_id": "HEXA",
+    "location": "00000000000072349100"
+  },
+  {
+    "variation_id": "2910381",
+    "title": "NM_000520.6(HEXA):c.1031T>C (p.Phe344Ser)",
+    "significance": "Likely pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "F355S, F344S",
+    "gene_id": "HEXA",
+    "location": "00000000000072348090"
+  },
+  {
+    "variation_id": "2903868",
+    "title": "NM_000520.6(HEXA):c.848C>T (p.Pro283Leu)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "P283L, P294L",
+    "gene_id": "HEXA",
+    "location": "00000000000072349217"
+  },
+  {
+    "variation_id": "2788439",
+    "title": "NM_000520.6(HEXA):c.638A>G (p.Tyr213Cys)",
+    "significance": "Likely pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "Y224C, Y213C",
+    "gene_id": "HEXA",
+    "location": "00000000000072351167"
+  },
+  {
+    "variation_id": "2748492",
+    "title": "NM_000520.6(HEXA):c.996C>A (p.Asn332Lys)",
+    "significance": "Conflicting classifications of pathogenicity",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "N343K, N332K",
+    "gene_id": "HEXA",
+    "location": "00000000000072348125"
+  },
+  {
+    "variation_id": "2736240",
+    "title": "NM_000520.6(HEXA):c.814G>A (p.Gly272Arg)",
+    "significance": "Likely pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "G272R, G283R",
+    "gene_id": "HEXA",
+    "location": "00000000000072349251"
+  },
+  {
+    "variation_id": "2736238",
+    "title": "NM_000520.6(HEXA):c.1363G>A (p.Gly455Arg)",
+    "significance": "Likely pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "G466R, G455R",
+    "gene_id": "HEXA",
+    "location": "00000000000072346293"
+  },
+  {
+    "variation_id": "2585376",
+    "title": "NM_000520.6(HEXA):c.1412C>G (p.Pro471Arg)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "P471R, P482R",
+    "gene_id": "HEXA",
+    "location": "00000000000072346244"
+  },
+  {
+    "variation_id": "2585252",
+    "title": "NM_000520.6(HEXA):c.1121A>G (p.Gln374Arg)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "Q374R, Q385R",
+    "gene_id": "HEXA",
+    "location": "00000000000072347711"
+  },
+  {
+    "variation_id": "2584782",
+    "title": "NM_000520.6(HEXA):c.1329A>C (p.Glu443Asp)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "E443D, E454D",
+    "gene_id": "HEXA",
+    "location": "00000000000072346528"
+  },
+  {
+    "variation_id": "2445713",
+    "title": "NM_000520.6(HEXA):c.778C>T (p.Pro260Ser)",
+    "significance": "Conflicting classifications of pathogenicity",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Tay-Sachs disease",
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "P260S, P271S",
+    "gene_id": "HEXA",
+    "location": "00000000000072350545"
+  },
+  {
+    "variation_id": "2429157",
+    "title": "NC_000015.9:g.(72636482_72637786)_(72639052_72640026)del",
+    "significance": "Likely pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [],
+    "protein_change": "",
+    "gene_id": "HEXA",
+    "location": "99999999999999999999"
+  },
+  {
+    "variation_id": "2423998",
+    "title": "NM_000520.6(HEXA):c.472A>G (p.Lys158Glu)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "K158E, K169E",
+    "gene_id": "HEXA",
+    "location": "00000000000072353166"
+  },
+  {
+    "variation_id": "2419972",
+    "title": "NM_000520.6(HEXA):c.1556T>C (p.Val519Ala)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "V519A, V530A",
+    "gene_id": "HEXA",
+    "location": "00000000000072344111"
+  },
+  {
+    "variation_id": "2418591",
+    "title": "NM_000520.6(HEXA):c.1336C>T (p.Pro446Ser)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "P457S, P446S",
+    "gene_id": "HEXA",
+    "location": "00000000000072346320"
+  },
+  {
+    "variation_id": "2418401",
+    "title": "NM_000520.6(HEXA):c.1439T>C (p.Val480Ala)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Inborn genetic diseases",
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "V480A, V491A",
+    "gene_id": "HEXA",
+    "location": "00000000000072345533"
+  },
+  {
+    "variation_id": "2415082",
+    "title": "NM_000520.6(HEXA):c.1346A>G (p.Lys449Arg)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Tay-Sachs disease",
+      "Inborn genetic diseases"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "K449R, K460R",
+    "gene_id": "HEXA",
+    "location": "00000000000072346310"
+  },
+  {
+    "variation_id": "2202531",
+    "title": "NM_000520.6(HEXA):c.668G>A (p.Arg223Lys)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "R223K, R234K",
+    "gene_id": "HEXA",
+    "location": "00000000000072351137"
+  },
+  {
+    "variation_id": "2201383",
+    "title": "NM_000520.6(HEXA):c.308G>A (p.Gly103Glu)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "G114E, G103E",
+    "gene_id": "HEXA",
+    "location": "00000000000072356563"
+  },
+  {
+    "variation_id": "2193487",
+    "title": "NM_000520.6(HEXA):c.1367A>G (p.Glu456Gly)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "E467G, E456G",
+    "gene_id": "HEXA",
+    "location": "00000000000072346289"
+  },
+  {
+    "variation_id": "2193443",
+    "title": "NM_000520.6(HEXA):c.1154C>T (p.Pro385Leu)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "P385L, P396L",
+    "gene_id": "HEXA",
+    "location": "00000000000072346703"
+  },
+  {
+    "variation_id": "2187952",
+    "title": "NM_000520.6(HEXA):c.190G>A (p.Ala64Thr)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "A64T",
+    "gene_id": "HEXA",
+    "location": "00000000000072375783"
+  },
+  {
+    "variation_id": "2180795",
+    "title": "NM_000520.6(HEXA):c.1160C>T (p.Thr387Ile)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "T387I, T398I",
+    "gene_id": "HEXA",
+    "location": "00000000000072346697"
+  },
+  {
+    "variation_id": "2169084",
+    "title": "NM_000520.6(HEXA):c.100G>A (p.Asp34Asn)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "D34N",
+    "gene_id": "HEXA",
+    "location": "00000000000072375873"
+  },
+  {
+    "variation_id": "2169082",
+    "title": "NM_000520.6(HEXA):c.107G>C (p.Arg36Pro)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "R36P",
+    "gene_id": "HEXA",
+    "location": "00000000000072375866"
+  },
+  {
+    "variation_id": "2169073",
+    "title": "NM_000520.6(HEXA):c.141G>C (p.Gln47His)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "Q47H",
+    "gene_id": "HEXA",
+    "location": "00000000000072375832"
+  },
+  {
+    "variation_id": "2169041",
+    "title": "NM_000520.6(HEXA):c.285G>C (p.Leu95Phe)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "L106F, L95F",
+    "gene_id": "HEXA",
+    "location": "00000000000072356586"
+  },
+  {
+    "variation_id": "2169002",
+    "title": "NM_000520.6(HEXA):c.566C>G (p.Thr189Ser)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "T189S, T200S",
+    "gene_id": "HEXA",
+    "location": "00000000000072353072"
+  },
+  {
+    "variation_id": "2168993",
+    "title": "NM_000520.6(HEXA):c.701A>G (p.Tyr234Cys)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "Y234C, Y245C",
+    "gene_id": "HEXA",
+    "location": "00000000000072350622"
+  },
+  {
+    "variation_id": "2168988",
+    "title": "NM_000520.6(HEXA):c.757G>T (p.Val253Leu)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "V264L, V253L",
+    "gene_id": "HEXA",
+    "location": "00000000000072350566"
+  },
+  {
+    "variation_id": "2168979",
+    "title": "NM_000520.6(HEXA):c.826C>G (p.Pro276Ala)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Tay-Sachs disease",
+      "Inborn genetic diseases"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "P276A, P287A",
+    "gene_id": "HEXA",
+    "location": "00000000000072349239"
+  },
+  {
+    "variation_id": "2168978",
+    "title": "NM_000520.6(HEXA):c.857C>T (p.Thr286Ile)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "T286I, T297I",
+    "gene_id": "HEXA",
+    "location": "00000000000072349208"
+  },
+  {
+    "variation_id": "2168975",
+    "title": "NM_000520.6(HEXA):c.889A>G (p.Thr297Ala)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "T308A, T297A",
+    "gene_id": "HEXA",
+    "location": "00000000000072349176"
+  },
+  {
+    "variation_id": "2168962",
+    "title": "NM_000520.6(HEXA):c.908C>T (p.Thr303Ile)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "T303I, T314I",
+    "gene_id": "HEXA",
+    "location": "00000000000072349157"
+  },
+  {
+    "variation_id": "2168949",
+    "title": "NM_000520.6(HEXA):c.994A>C (p.Asn332His)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Inborn genetic diseases",
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "N343H, N332H",
+    "gene_id": "HEXA",
+    "location": "00000000000072348127"
+  },
+  {
+    "variation_id": "2168946",
+    "title": "NM_000520.6(HEXA):c.1042T>G (p.Phe348Val)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "F348V, F359V",
+    "gene_id": "HEXA",
+    "location": "00000000000072348079"
+  },
+  {
+    "variation_id": "2168935",
+    "title": "NM_000520.6(HEXA):c.1087G>T (p.Val363Phe)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "V363F, V374F",
+    "gene_id": "HEXA",
+    "location": "00000000000072347745"
+  },
+  {
+    "variation_id": "2168933",
+    "title": "NM_000520.6(HEXA):c.1088T>A (p.Val363Asp)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "V363D, V374D",
+    "gene_id": "HEXA",
+    "location": "00000000000072347744"
+  },
+  {
+    "variation_id": "2168924",
+    "title": "NM_000520.6(HEXA):c.1109A>G (p.Tyr370Cys)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "Y381C, Y370C",
+    "gene_id": "HEXA",
+    "location": "00000000000072347723"
+  },
+  {
+    "variation_id": "2168916",
+    "title": "NM_000520.6(HEXA):c.1135A>G (p.Asn379Asp)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "N390D, N379D",
+    "gene_id": "HEXA",
+    "location": "00000000000072347697"
+  },
+  {
+    "variation_id": "2168914",
+    "title": "NM_000520.6(HEXA):c.1136A>G (p.Asn379Ser)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "N390S, N379S",
+    "gene_id": "HEXA",
+    "location": "00000000000072347696"
+  },
+  {
+    "variation_id": "2168910",
+    "title": "NM_000520.6(HEXA):c.1142T>A (p.Val381Glu)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "V381E, V392E",
+    "gene_id": "HEXA",
+    "location": "00000000000072347690"
+  },
+  {
+    "variation_id": "2168900",
+    "title": "NM_000520.6(HEXA):c.1152G>C (p.Gln384His)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "Q384H, Q395H",
+    "gene_id": "HEXA",
+    "location": "00000000000072346705"
+  },
+  {
+    "variation_id": "2168897",
+    "title": "NM_000520.6(HEXA):c.1166T>C (p.Ile389Thr)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Tay-Sachs disease",
+      "Inborn genetic diseases"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "I389T, I400T",
+    "gene_id": "HEXA",
+    "location": "00000000000072346691"
+  },
+  {
+    "variation_id": "2168891",
+    "title": "NM_000520.6(HEXA):c.1196A>G (p.Asn399Ser)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Inborn genetic diseases",
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "N410S, N399S",
+    "gene_id": "HEXA",
+    "location": "00000000000072346661"
+  },
+  {
+    "variation_id": "2168889",
+    "title": "NM_000520.6(HEXA):c.1209G>T (p.Glu403Asp)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "E403D, E414D",
+    "gene_id": "HEXA",
+    "location": "00000000000072346648"
+  },
+  {
+    "variation_id": "2168887",
+    "title": "NM_000520.6(HEXA):c.1238G>A (p.Arg413Gln)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "R424Q, R413Q",
+    "gene_id": "HEXA",
+    "location": "00000000000072346619"
+  },
+  {
+    "variation_id": "2168883",
+    "title": "NM_000520.6(HEXA):c.1270C>T (p.Arg424Cys)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "R424C, R435C",
+    "gene_id": "HEXA",
+    "location": "00000000000072346587"
+  },
+  {
+    "variation_id": "2168874",
+    "title": "NM_000520.6(HEXA):c.1288G>A (p.Asp430Asn)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "D441N, D430N",
+    "gene_id": "HEXA",
+    "location": "00000000000072346569"
+  },
+  {
+    "variation_id": "2168867",
+    "title": "NM_000520.6(HEXA):c.1331G>A (p.Gly444Asp)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "G444D, G455D",
+    "gene_id": "HEXA",
+    "location": "00000000000072346325"
+  },
+  {
+    "variation_id": "2168862",
+    "title": "NM_000520.6(HEXA):c.1382G>T (p.Gly461Val)",
+    "significance": "Conflicting classifications of pathogenicity",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not specified",
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "G472V, G461V",
+    "gene_id": "HEXA",
+    "location": "00000000000072346274"
+  },
+  {
+    "variation_id": "2168841",
+    "title": "NM_000520.6(HEXA):c.1474G>C (p.Asp492His)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "D492H, D503H",
+    "gene_id": "HEXA",
+    "location": "00000000000072345498"
+  },
+  {
+    "variation_id": "2168831",
+    "title": "NM_000520.6(HEXA):c.1532G>T (p.Gly511Val)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "G511V, G522V",
+    "gene_id": "HEXA",
+    "location": "00000000000072344135"
+  },
+  {
+    "variation_id": "2168828",
+    "title": "NM_000520.6(HEXA):c.598G>T (p.Val200Leu)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "V211L, V200L",
+    "gene_id": "HEXA",
+    "location": "00000000000072351207"
+  },
+  {
+    "variation_id": "2168826",
+    "title": "NM_000520.6(HEXA):c.787A>G (p.Thr263Ala)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "T263A, T274A",
+    "gene_id": "HEXA",
+    "location": "00000000000072350536"
+  },
+  {
+    "variation_id": "2168820",
+    "title": "NM_000520.6(HEXA):c.121C>T (p.Pro41Ser)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "P41S",
+    "gene_id": "HEXA",
+    "location": "00000000000072375852"
+  },
+  {
+    "variation_id": "2168812",
+    "title": "NM_000520.6(HEXA):c.680A>G (p.Tyr227Cys)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "Y238C, Y227C",
+    "gene_id": "HEXA",
+    "location": "00000000000072350643"
+  },
+  {
+    "variation_id": "2168000",
+    "title": "NM_000520.6(HEXA):c.1253C>A (p.Ala418Asp)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "A418D, A429D",
+    "gene_id": "HEXA",
+    "location": "00000000000072346604"
+  },
+  {
+    "variation_id": "2164229",
+    "title": "NM_000520.6(HEXA):c.4A>G (p.Thr2Ala)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "T2A",
+    "gene_id": "HEXA",
+    "location": "00000000000072375969"
+  },
+  {
+    "variation_id": "2162505",
+    "title": "NM_000520.6(HEXA):c.62C>T (p.Thr21Met)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Tay-Sachs disease",
+      "Inborn genetic diseases"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "T21M",
+    "gene_id": "HEXA",
+    "location": "00000000000072375911"
+  },
+  {
+    "variation_id": "2156404",
+    "title": "NM_000520.6(HEXA):c.1276T>G (p.Ser426Ala)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "S437A, S426A",
+    "gene_id": "HEXA",
+    "location": "00000000000072346581"
+  },
+  {
+    "variation_id": "2155989",
+    "title": "NM_000520.6(HEXA):c.1091C>G (p.Ser364Cys)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "S364C, S375C",
+    "gene_id": "HEXA",
+    "location": "00000000000072347741"
+  },
+  {
+    "variation_id": "2155514",
+    "title": "NM_000520.6(HEXA):c.642G>C (p.Glu214Asp)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Inborn genetic diseases",
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "E214D, E225D",
+    "gene_id": "HEXA",
+    "location": "00000000000072351163"
+  },
+  {
+    "variation_id": "2154726",
+    "title": "NM_000520.6(HEXA):c.1469C>T (p.Thr490Ile)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "T501I, T490I",
+    "gene_id": "HEXA",
+    "location": "00000000000072345503"
+  },
+  {
+    "variation_id": "2150882",
+    "title": "NM_000520.6(HEXA):c.1339G>A (p.Glu447Lys)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Tay-Sachs disease",
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "E447K, E458K",
+    "gene_id": "HEXA",
+    "location": "00000000000072346317"
+  },
+  {
+    "variation_id": "2148582",
+    "title": "NM_000520.6(HEXA):c.469A>G (p.Asn157Asp)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "N157D, N168D",
+    "gene_id": "HEXA",
+    "location": "00000000000072353169"
+  },
+  {
+    "variation_id": "2146875",
+    "title": "NM_000520.6(HEXA):c.65C>T (p.Ala22Val)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "A22V",
+    "gene_id": "HEXA",
+    "location": "00000000000072375908"
+  },
+  {
+    "variation_id": "2143392",
+    "title": "NM_000520.6(HEXA):c.1226A>G (p.Lys409Arg)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "K420R, K409R",
+    "gene_id": "HEXA",
+    "location": "00000000000072346631"
+  },
+  {
+    "variation_id": "2142534",
+    "title": "NM_000520.6(HEXA):c.203A>G (p.Tyr68Cys)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "Y68C",
+    "gene_id": "HEXA",
+    "location": "00000000000072375770"
+  },
+  {
+    "variation_id": "2141657",
+    "title": "NM_000520.6(HEXA):c.1198T>C (p.Tyr400His)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "Y400H, Y411H",
+    "gene_id": "HEXA",
+    "location": "00000000000072346659"
+  },
+  {
+    "variation_id": "2139666",
+    "title": "NM_000520.6(HEXA):c.1487C>G (p.Ala496Gly)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Tay-Sachs disease",
+      "Inborn genetic diseases",
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "A496G, A507G",
+    "gene_id": "HEXA",
+    "location": "00000000000072345485"
+  },
+  {
+    "variation_id": "2137733",
+    "title": "NM_000520.6(HEXA):c.379C>T (p.Leu127Phe)",
+    "significance": "Likely pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "L138F, L127F",
+    "gene_id": "HEXA",
+    "location": "00000000000072355592"
+  },
+  {
+    "variation_id": "2137730",
+    "title": "NM_000520.6(HEXA):c.965A>T (p.Asp322Val)",
+    "significance": "Conflicting classifications of pathogenicity",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not specified",
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "D333V, D322V",
+    "gene_id": "HEXA",
+    "location": "00000000000072349100"
+  },
+  {
+    "variation_id": "2134478",
+    "title": "NM_000520.6(HEXA):c.1019G>A (p.Arg340Lys)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "R340K, R351K",
+    "gene_id": "HEXA",
+    "location": "00000000000072348102"
+  },
+  {
+    "variation_id": "2133598",
+    "title": "NM_000520.6(HEXA):c.658G>C (p.Glu220Gln)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "E220Q, E231Q",
+    "gene_id": "HEXA",
+    "location": "00000000000072351147"
+  },
+  {
+    "variation_id": "2124308",
+    "title": "NM_000520.6(HEXA):c.1108T>A (p.Tyr370Asn)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "Y370N, Y381N",
+    "gene_id": "HEXA",
+    "location": "00000000000072347724"
+  },
+  {
+    "variation_id": "2121072",
+    "title": "NM_000520.6(HEXA):c.1467G>C (p.Leu489Phe)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "L489F, L500F",
+    "gene_id": "HEXA",
+    "location": "00000000000072345505"
+  },
+  {
+    "variation_id": "2118752",
+    "title": "NM_000520.6(HEXA):c.229T>G (p.Ser77Ala)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "S77A",
+    "gene_id": "HEXA",
+    "location": "00000000000072375744"
+  },
+  {
+    "variation_id": "2105366",
+    "title": "NM_000520.6(HEXA):c.293C>G (p.Ser98Cys)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "non-coding transcript variant",
+      "missense variant"
+    ],
+    "protein_change": "S98C, S109C",
+    "gene_id": "HEXA",
+    "location": "00000000000072356578"
+  },
+  {
+    "variation_id": "2100883",
+    "title": "NM_000520.6(HEXA):c.307G>A (p.Gly103Arg)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "G114R, G103R",
+    "gene_id": "HEXA",
+    "location": "00000000000072356564"
+  },
+  {
+    "variation_id": "2097536",
+    "title": "NM_000520.6(HEXA):c.1509C>G (p.Phe503Leu)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Inborn genetic diseases",
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "F514L, F503L",
+    "gene_id": "HEXA",
+    "location": "00000000000072345463"
+  },
+  {
+    "variation_id": "2094334",
+    "title": "NM_000520.6(HEXA):c.997C>G (p.Pro333Ala)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "P333A, P344A",
+    "gene_id": "HEXA",
+    "location": "00000000000072348124"
+  },
+  {
+    "variation_id": "2087088",
+    "title": "NM_000520.6(HEXA):c.364G>C (p.Asp122His)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "D122H, D133H",
+    "gene_id": "HEXA",
+    "location": "00000000000072355607"
+  },
+  {
+    "variation_id": "2086529",
+    "title": "NM_000520.6(HEXA):c.913T>C (p.Phe305Leu)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "F305L, F316L",
+    "gene_id": "HEXA",
+    "location": "00000000000072349152"
+  },
+  {
+    "variation_id": "2076566",
+    "title": "NM_000520.6(HEXA):c.1435G>C (p.Ala479Pro)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "A479P, A490P",
+    "gene_id": "HEXA",
+    "location": "00000000000072345537"
+  },
+  {
+    "variation_id": "2071028",
+    "title": "NM_000520.6(HEXA):c.496C>T (p.Arg166Cys)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Inborn genetic diseases",
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "R166C, R177C",
+    "gene_id": "HEXA",
+    "location": "00000000000072353142"
+  },
+  {
+    "variation_id": "2069681",
+    "title": "NM_000520.6(HEXA):c.1114G>T (p.Val372Leu)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Inborn genetic diseases",
+      "not specified",
+      "not provided",
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "V383L, V372L",
+    "gene_id": "HEXA",
+    "location": "00000000000072347718"
+  },
+  {
+    "variation_id": "2060381",
+    "title": "NM_000520.6(HEXA):c.823A>G (p.Thr275Ala)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "T286A, T275A",
+    "gene_id": "HEXA",
+    "location": "00000000000072349242"
+  },
+  {
+    "variation_id": "2057395",
+    "title": "NM_000520.6(HEXA):c.350C>A (p.Thr117Asn)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "T117N, T128N",
+    "gene_id": "HEXA",
+    "location": "00000000000072355621"
+  },
+  {
+    "variation_id": "2057112",
+    "title": "NM_000520.6(HEXA):c.236C>G (p.Pro79Arg)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "P79R",
+    "gene_id": "HEXA",
+    "location": "00000000000072375737"
+  },
+  {
+    "variation_id": "2056288",
+    "title": "NM_000520.6(HEXA):c.157G>A (p.Ala53Thr)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "A53T",
+    "gene_id": "HEXA",
+    "location": "00000000000072375816"
+  },
+  {
+    "variation_id": "2054352",
+    "title": "NM_000520.6(HEXA):c.44C>T (p.Ala15Val)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "A15V",
+    "gene_id": "HEXA",
+    "location": "00000000000072375929"
+  },
+  {
+    "variation_id": "2050478",
+    "title": "NM_000520.6(HEXA):c.176C>T (p.Ser59Leu)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Inborn genetic diseases",
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "S59L",
+    "gene_id": "HEXA",
+    "location": "00000000000072375797"
+  },
+  {
+    "variation_id": "2046663",
+    "title": "NM_000520.6(HEXA):c.386C>G (p.Ser129Cys)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "S140C, S129C",
+    "gene_id": "HEXA",
+    "location": "00000000000072355585"
+  },
+  {
+    "variation_id": "2045830",
+    "title": "NM_000520.6(HEXA):c.1253C>G (p.Ala418Gly)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Tay-Sachs disease",
+      "Inborn genetic diseases"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "A418G, A429G",
+    "gene_id": "HEXA",
+    "location": "00000000000072346604"
+  },
+  {
+    "variation_id": "2045575",
+    "title": "NM_000520.6(HEXA):c.947A>G (p.Tyr316Cys)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "Y316C, Y327C",
+    "gene_id": "HEXA",
+    "location": "00000000000072349118"
+  },
+  {
+    "variation_id": "2045477",
+    "title": "NM_000520.6(HEXA):c.1189C>A (p.Pro397Thr)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "P397T, P408T",
+    "gene_id": "HEXA",
+    "location": "00000000000072346668"
+  },
+  {
+    "variation_id": "2044563",
+    "title": "NM_000520.6(HEXA):c.37G>A (p.Ala13Thr)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "A13T",
+    "gene_id": "HEXA",
+    "location": "00000000000072375936"
+  },
+  {
+    "variation_id": "2030107",
+    "title": "NM_000520.6(HEXA):c.1337C>T (p.Pro446Leu)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Inborn genetic diseases",
+      "not provided",
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "P457L, P446L",
+    "gene_id": "HEXA",
+    "location": "00000000000072346319"
+  },
+  {
+    "variation_id": "2018597",
+    "title": "NM_000520.6(HEXA):c.80C>T (p.Pro27Leu)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided",
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "P27L",
+    "gene_id": "HEXA",
+    "location": "00000000000072375893"
+  },
+  {
+    "variation_id": "2013329",
+    "title": "NM_000520.6(HEXA):c.260G>T (p.Arg87Leu)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "R98L, R87L",
+    "gene_id": "HEXA",
+    "location": "00000000000072356611"
+  },
+  {
+    "variation_id": "2002301",
+    "title": "NM_000520.6(HEXA):c.1377G>A (p.Met459Ile)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "M470I, M459I",
+    "gene_id": "HEXA",
+    "location": "00000000000072346279"
+  },
+  {
+    "variation_id": "1997441",
+    "title": "NM_000520.6(HEXA):c.629C>A (p.Ser210Tyr)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "S221Y, S210Y",
+    "gene_id": "HEXA",
+    "location": "00000000000072351176"
+  },
+  {
+    "variation_id": "1985845",
+    "title": "NM_000520.6(HEXA):c.1574A>G (p.Glu525Gly)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "E536G, E525G",
+    "gene_id": "HEXA",
+    "location": "00000000000072344093"
+  },
+  {
+    "variation_id": "1982939",
+    "title": "NM_000520.6(HEXA):c.1165A>G (p.Ile389Val)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Inborn genetic diseases",
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "I400V, I389V",
+    "gene_id": "HEXA",
+    "location": "00000000000072346692"
+  },
+  {
+    "variation_id": "1979394",
+    "title": "NM_000520.6(HEXA):c.1250C>G (p.Ser417Cys)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "S428C, S417C",
+    "gene_id": "HEXA",
+    "location": "00000000000072346607"
+  },
+  {
+    "variation_id": "1978092",
+    "title": "NM_000520.6(HEXA):c.926G>C (p.Ser309Thr)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "S309T, S320T",
+    "gene_id": "HEXA",
+    "location": "00000000000072349139"
+  },
+  {
+    "variation_id": "1973885",
+    "title": "NM_000520.6(HEXA):c.367G>A (p.Asp123Asn)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "D123N, D134N",
+    "gene_id": "HEXA",
+    "location": "00000000000072355604"
+  },
+  {
+    "variation_id": "1969204",
+    "title": "NM_000520.6(HEXA):c.524A>G (p.Asp175Gly)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "D175G, D186G",
+    "gene_id": "HEXA",
+    "location": "00000000000072353114"
+  },
+  {
+    "variation_id": "1957551",
+    "title": "NM_000520.6(HEXA):c.13A>G (p.Arg5Gly)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Tay-Sachs disease",
+      "Inborn genetic diseases"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "R5G",
+    "gene_id": "HEXA",
+    "location": "00000000000072375960"
+  },
+  {
+    "variation_id": "1954548",
+    "title": "NM_000520.6(HEXA):c.59C>G (p.Ala20Gly)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "A20G",
+    "gene_id": "HEXA",
+    "location": "00000000000072375914"
+  },
+  {
+    "variation_id": "1952030",
+    "title": "NM_000520.6(HEXA):c.505C>G (p.His169Asp)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "H180D, H169D",
+    "gene_id": "HEXA",
+    "location": "00000000000072353133"
+  },
+  {
+    "variation_id": "1942849",
+    "title": "NM_000520.6(HEXA):c.395T>G (p.Val132Gly)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "V132G, V143G",
+    "gene_id": "HEXA",
+    "location": "00000000000072355576"
+  },
+  {
+    "variation_id": "1932980",
+    "title": "NM_000520.6(HEXA):c.545C>G (p.Pro182Arg)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "P182R, P193R",
+    "gene_id": "HEXA",
+    "location": "00000000000072353093"
+  },
+  {
+    "variation_id": "1930319",
+    "title": "NM_000520.6(HEXA):c.1399A>G (p.Thr467Ala)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "T467A, T478A",
+    "gene_id": "HEXA",
+    "location": "00000000000072346257"
+  },
+  {
+    "variation_id": "1928955",
+    "title": "NM_000520.6(HEXA):c.1009G>A (p.Asp337Asn)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "D337N, D348N",
+    "gene_id": "HEXA",
+    "location": "00000000000072348112"
+  },
+  {
+    "variation_id": "1921781",
+    "title": "NM_000520.6(HEXA):c.785A>G (p.His262Arg)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "H262R, H273R",
+    "gene_id": "HEXA",
+    "location": "00000000000072350538"
+  },
+  {
+    "variation_id": "1907101",
+    "title": "NM_000520.6(HEXA):c.1252G>T (p.Ala418Ser)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "A418S, A429S",
+    "gene_id": "HEXA",
+    "location": "00000000000072346605"
+  },
+  {
+    "variation_id": "1906122",
+    "title": "NM_000520.6(HEXA):c.167C>G (p.Pro56Arg)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "P56R",
+    "gene_id": "HEXA",
+    "location": "00000000000072375806"
+  },
+  {
+    "variation_id": "1903738",
+    "title": "NM_000520.6(HEXA):c.254G>A (p.Gly85Glu)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "G96E, G85E",
+    "gene_id": "HEXA",
+    "location": "00000000000072356617"
+  },
+  {
+    "variation_id": "1903557",
+    "title": "NM_000520.6(HEXA):c.200G>A (p.Arg67His)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "R67H",
+    "gene_id": "HEXA",
+    "location": "00000000000072375773"
+  },
+  {
+    "variation_id": "1903347",
+    "title": "NM_000520.6(HEXA):c.148G>A (p.Val50Ile)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "V50I",
+    "gene_id": "HEXA",
+    "location": "00000000000072375825"
+  },
+  {
+    "variation_id": "1896094",
+    "title": "NM_000520.6(HEXA):c.179T>C (p.Val60Ala)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "V60A",
+    "gene_id": "HEXA",
+    "location": "00000000000072375794"
+  },
+  {
+    "variation_id": "1895823",
+    "title": "NM_000520.6(HEXA):c.896A>C (p.Glu299Ala)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Inborn genetic diseases",
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "E299A, E310A",
+    "gene_id": "HEXA",
+    "location": "00000000000072349169"
+  },
+  {
+    "variation_id": "1803555",
+    "title": "NM_000520.6(HEXA):c.104A>C (p.Gln35Pro)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided",
+      "Tay-Sachs disease",
+      "Inborn genetic diseases"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "Q35P",
+    "gene_id": "HEXA",
+    "location": "00000000000072375869"
+  },
+  {
+    "variation_id": "1775212",
+    "title": "NM_000520.6(HEXA):c.1559G>A (p.Gly520Asp)",
+    "significance": "Likely pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Inborn genetic diseases",
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "G531D, G520D",
+    "gene_id": "HEXA",
+    "location": "00000000000072344108"
+  },
+  {
+    "variation_id": "1766458",
+    "title": "NM_000520.6(HEXA):c.929C>T (p.Ser310Phe)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Tay-Sachs disease",
+      "Inborn genetic diseases"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "S321F, S310F",
+    "gene_id": "HEXA",
+    "location": "00000000000072349136"
+  },
+  {
+    "variation_id": "1763988",
+    "title": "NM_000520.6(HEXA):c.859T>C (p.Phe287Leu)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Tay-Sachs disease",
+      "Inborn genetic diseases"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "F287L, F298L",
+    "gene_id": "HEXA",
+    "location": "00000000000072349206"
+  },
+  {
+    "variation_id": "4535726",
+    "title": "NM_000520.6(HEXA):c.784C>T (p.His262Tyr)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "not specified"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "H262Y, H273Y",
+    "gene_id": "HEXA",
+    "location": "00000000000072350539"
+  },
+  {
+    "variation_id": "3907285",
+    "title": "NM_000520.6(HEXA):c.749G>C (p.Gly250Ala)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "not specified"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "G250A, G261A",
+    "gene_id": "HEXA",
+    "location": "00000000000072350574"
+  },
+  {
+    "variation_id": "2445714",
+    "title": "NM_000520.6(HEXA):c.1008G>T (p.Gln336His)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "not specified",
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "Q336H, Q347H",
+    "gene_id": "HEXA",
+    "location": "00000000000072348113"
+  },
+  {
+    "variation_id": "1723068",
+    "title": "NM_000520.6(HEXA):c.1291T>C (p.Trp431Arg)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "W431R, W442R",
+    "gene_id": "HEXA",
+    "location": "00000000000072346566"
+  },
+  {
+    "variation_id": "1713655",
+    "title": "NM_000520.6(HEXA):c.764C>T (p.Ala255Val)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Inborn genetic diseases",
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "A255V, A266V",
+    "gene_id": "HEXA",
+    "location": "00000000000072350559"
+  },
+  {
+    "variation_id": "1523643",
+    "title": "NM_000520.6(HEXA):c.127A>G (p.Asn43Asp)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "N43D",
+    "gene_id": "HEXA",
+    "location": "00000000000072375846"
+  },
+  {
+    "variation_id": "1523180",
+    "title": "NM_000520.6(HEXA):c.706G>A (p.Ala236Thr)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "A236T, A247T",
+    "gene_id": "HEXA",
+    "location": "00000000000072350617"
+  },
+  {
+    "variation_id": "1496248",
+    "title": "NM_000520.6(HEXA):c.1424C>G (p.Pro475Arg)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "not specified",
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "P475R, P486R",
+    "gene_id": "HEXA",
+    "location": "00000000000072345548"
+  },
+  {
+    "variation_id": "1484927",
+    "title": "NM_000520.6(HEXA):c.88T>G (p.Phe30Val)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "F30V",
+    "gene_id": "HEXA",
+    "location": "00000000000072375885"
+  },
+  {
+    "variation_id": "1480607",
+    "title": "NM_000520.6(HEXA):c.1481C>G (p.Thr494Arg)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "T494R, T505R",
+    "gene_id": "HEXA",
+    "location": "00000000000072345491"
+  },
+  {
+    "variation_id": "1479900",
+    "title": "NM_000520.6(HEXA):c.1099G>A (p.Gly367Ser)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "G367S, G378S",
+    "gene_id": "HEXA",
+    "location": "00000000000072347733"
+  },
+  {
+    "variation_id": "1478464",
+    "title": "NM_000520.6(HEXA):c.277A>G (p.Asn93Asp)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "N104D, N93D",
+    "gene_id": "HEXA",
+    "location": "00000000000072356594"
+  },
+  {
+    "variation_id": "1441704",
+    "title": "NM_000520.6(HEXA):c.884A>G (p.Asn295Ser)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Tay-Sachs disease",
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "N306S, N295S",
+    "gene_id": "HEXA",
+    "location": "00000000000072349181"
+  },
+  {
+    "variation_id": "1435942",
+    "title": "NM_000520.6(HEXA):c.248T>C (p.Leu83Pro)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "L83P",
+    "gene_id": "HEXA",
+    "location": "00000000000072375725"
+  },
+  {
+    "variation_id": "1435040",
+    "title": "NM_000520.6(HEXA):c.332A>G (p.Glu111Gly)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Tay-Sachs disease",
+      "Inborn genetic diseases"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "E111G, E122G",
+    "gene_id": "HEXA",
+    "location": "00000000000072356539"
+  },
+  {
+    "variation_id": "1426855",
+    "title": "NM_000520.6(HEXA):c.746G>A (p.Arg249Gln)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "not specified",
+      "Tay-Sachs disease",
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "R249Q, R260Q",
+    "gene_id": "HEXA",
+    "location": "00000000000072350577"
+  },
+  {
+    "variation_id": "1423408",
+    "title": "NM_000520.6(HEXA):c.325A>T (p.Thr109Ser)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "T120S, T109S",
+    "gene_id": "HEXA",
+    "location": "00000000000072356546"
+  },
+  {
+    "variation_id": "1420802",
+    "title": "NM_000520.6(HEXA):c.1438G>A (p.Val480Ile)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "V480I, V491I",
+    "gene_id": "HEXA",
+    "location": "00000000000072345534"
+  },
+  {
+    "variation_id": "1407202",
+    "title": "NM_000520.6(HEXA):c.140A>G (p.Gln47Arg)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "Q47R",
+    "gene_id": "HEXA",
+    "location": "00000000000072375833"
+  },
+  {
+    "variation_id": "1390678",
+    "title": "NM_000520.6(HEXA):c.764C>G (p.Ala255Gly)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "not provided",
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "A255G, A266G",
+    "gene_id": "HEXA",
+    "location": "00000000000072350559"
+  },
+  {
+    "variation_id": "1390016",
+    "title": "NM_000520.6(HEXA):c.740G>A (p.Arg247Gln)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "not provided",
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "R247Q, R258Q",
+    "gene_id": "HEXA",
+    "location": "00000000000072350583"
+  },
+  {
+    "variation_id": "1382790",
+    "title": "NM_000520.6(HEXA):c.1306A>T (p.Ile436Leu)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "I447L, I436L",
+    "gene_id": "HEXA",
+    "location": "00000000000072346551"
+  },
+  {
+    "variation_id": "1380917",
+    "title": "NM_000520.6(HEXA):c.241C>A (p.Pro81Thr)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "P81T",
+    "gene_id": "HEXA",
+    "location": "00000000000072375732"
+  },
+  {
+    "variation_id": "1360103",
+    "title": "NM_000520.6(HEXA):c.1273A>G (p.Ile425Val)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "I425V, I436V",
+    "gene_id": "HEXA",
+    "location": "00000000000072346584"
+  },
+  {
+    "variation_id": "1343493",
+    "title": "NM_000520.6(HEXA):c.358A>G (p.Ile120Val)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Tay-Sachs disease",
+      "not specified"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "I120V, I131V",
+    "gene_id": "HEXA",
+    "location": "00000000000072355613"
+  },
+  {
+    "variation_id": "1328995",
+    "title": "NM_000520.6(HEXA):c.1196A>T (p.Asn399Ile)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Tay-Sachs disease",
+      "not specified"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "N399I, N410I",
+    "gene_id": "HEXA",
+    "location": "00000000000072346661"
+  },
+  {
+    "variation_id": "1328994",
+    "title": "NM_000520.6(HEXA):c.907A>C (p.Thr303Pro)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Tay-Sachs disease",
+      "not specified"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "T303P, T314P",
+    "gene_id": "HEXA",
+    "location": "00000000000072349158"
+  },
+  {
+    "variation_id": "1062447",
+    "title": "NM_000520.6(HEXA):c.197A>G (p.Gln66Arg)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "Q66R",
+    "gene_id": "HEXA",
+    "location": "00000000000072375776"
+  },
+  {
+    "variation_id": "1040974",
+    "title": "NM_000520.6(HEXA):c.227G>C (p.Gly76Ala)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Inborn genetic diseases",
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "G76A",
+    "gene_id": "HEXA",
+    "location": "00000000000072375746"
+  },
+  {
+    "variation_id": "1037233",
+    "title": "NM_000520.6(HEXA):c.1271G>A (p.Arg424His)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "R424H, R435H",
+    "gene_id": "HEXA",
+    "location": "00000000000072346586"
+  },
+  {
+    "variation_id": "1035422",
+    "title": "NM_000520.6(HEXA):c.238C>A (p.Arg80Ser)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Tay-Sachs disease",
+      "Inborn genetic diseases"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "R80S",
+    "gene_id": "HEXA",
+    "location": "00000000000072375735"
+  },
+  {
+    "variation_id": "992197",
+    "title": "NM_000520.6(HEXA):c.962G>A (p.Gly321Glu)",
+    "significance": "Conflicting classifications of pathogenicity",
+    "search_class": "benign",
+    "conditions": [
+      "not specified",
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "G321E, G332E",
+    "gene_id": "HEXA",
+    "location": "00000000000072349103"
+  },
+  {
+    "variation_id": "972237",
+    "title": "NM_000520.6(HEXA):c.1087_1088delinsTA (p.Val363Tyr)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "not specified",
+      "not provided",
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "V363Y, V374Y",
+    "gene_id": "HEXA",
+    "location": "00000000000072347744"
+  },
+  {
+    "variation_id": "853454",
+    "title": "NM_000520.6(HEXA):c.410G>A (p.Arg137Gln)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "not provided",
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "R148Q, R137Q",
+    "gene_id": "HEXA",
+    "location": "00000000000072355561"
+  },
+  {
+    "variation_id": "851122",
+    "title": "NM_000520.6(HEXA):c.1529G>A (p.Arg510Gln)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Tay-Sachs disease",
+      "not specified"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "R521Q, R510Q",
+    "gene_id": "HEXA",
+    "location": "00000000000072344138"
+  },
+  {
+    "variation_id": "841751",
+    "title": "NM_000520.6(HEXA):c.1264C>G (p.Leu422Val)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "not provided",
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "L422V, L433V",
+    "gene_id": "HEXA",
+    "location": "00000000000072346593"
+  },
+  {
+    "variation_id": "839454",
+    "title": "NM_000520.6(HEXA):c.478G>A (p.Glu160Lys)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "E171K, E160K",
+    "gene_id": "HEXA",
+    "location": "00000000000072353160"
+  },
+  {
+    "variation_id": "811826",
+    "title": "NM_000520.6(HEXA):c.32T>C (p.Leu11Pro)",
+    "significance": "Conflicting classifications of pathogenicity",
+    "search_class": "benign",
+    "conditions": [
+      "Tay-Sachs disease",
+      "not specified"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "L11P",
+    "gene_id": "HEXA",
+    "location": "00000000000072375941"
+  },
+  {
+    "variation_id": "811723",
+    "title": "NM_000520.6(HEXA):c.836C>G (p.Ser279Cys)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Inborn genetic diseases",
+      "not provided",
+      "Tay-Sachs disease",
+      "not specified"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "S279C, S290C",
+    "gene_id": "HEXA",
+    "location": "00000000000072349229"
+  },
+  {
+    "variation_id": "801195",
+    "title": "NM_000520.6(HEXA):c.736G>T (p.Ala246Ser)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "not provided",
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "A246S, A257S",
+    "gene_id": "HEXA",
+    "location": "00000000000072350587"
+  },
+  {
+    "variation_id": "662159",
+    "title": "NM_000520.6(HEXA):c.587A>G (p.Asn196Ser)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "N207S, N196S",
+    "gene_id": "HEXA",
+    "location": "00000000000072351218"
+  },
+  {
+    "variation_id": "652196",
+    "title": "NM_000520.6(HEXA):c.345T>G (p.Asn115Lys)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "not provided",
+      "Inborn genetic diseases",
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "N115K, N126K",
+    "gene_id": "HEXA",
+    "location": "00000000000072356526"
+  },
+  {
+    "variation_id": "649716",
+    "title": "NM_000520.6(HEXA):c.1028G>T (p.Gly343Val)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "not provided",
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "G354V, G343V",
+    "gene_id": "HEXA",
+    "location": "00000000000072348093"
+  },
+  {
+    "variation_id": "633262",
+    "title": "NM_000520.6(HEXA):c.640G>A (p.Glu214Lys)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "not specified",
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "E214K, E225K",
+    "gene_id": "HEXA",
+    "location": "00000000000072351165"
+  },
+  {
+    "variation_id": "582729",
+    "title": "NM_000520.6(HEXA):c.1073C>T (p.Thr358Met)",
+    "significance": "Conflicting classifications of pathogenicity",
+    "search_class": "benign",
+    "conditions": [
+      "Tay-Sachs disease",
+      "not specified"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "T358M, T369M",
+    "gene_id": "HEXA",
+    "location": "00000000000072348048"
+  },
+  {
+    "variation_id": "555154",
+    "title": "NM_000520.6(HEXA):c.1393G>A (p.Asp465Asn)",
+    "significance": "Likely pathogenic",
+    "search_class": "benign",
+    "conditions": [
+      "Inborn genetic diseases",
+      "not provided",
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "D465N, D476N",
+    "gene_id": "HEXA",
+    "location": "00000000000072346263"
+  },
+  {
+    "variation_id": "555055",
+    "title": "NM_000520.6(HEXA):c.1103A>G (p.Lys368Arg)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "K368R, K379R",
+    "gene_id": "HEXA",
+    "location": "00000000000072347729"
+  },
+  {
+    "variation_id": "555043",
+    "title": "NM_000520.6(HEXA):c.1189C>T (p.Pro397Ser)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "P397S, P408S",
+    "gene_id": "HEXA",
+    "location": "00000000000072346668"
+  },
+  {
+    "variation_id": "555026",
+    "title": "NM_000520.6(HEXA):c.1416G>C (p.Arg472Ser)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Inborn genetic diseases",
+      "not specified",
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "R472S, R483S",
+    "gene_id": "HEXA",
+    "location": "00000000000072346240"
+  },
+  {
+    "variation_id": "555024",
+    "title": "NM_000520.6(HEXA):c.1087G>A (p.Val363Ile)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "V363I, V374I",
+    "gene_id": "HEXA",
+    "location": "00000000000072347745"
+  },
+  {
+    "variation_id": "555019",
+    "title": "NM_000520.6(HEXA):c.1022A>G (p.Lys341Arg)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "not provided",
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "K341R, K352R",
+    "gene_id": "HEXA",
+    "location": "00000000000072348099"
+  },
+  {
+    "variation_id": "554883",
+    "title": "NM_000520.6(HEXA):c.428G>T (p.Ser143Ile)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "not specified"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "S143I, S154I",
+    "gene_id": "HEXA",
+    "location": "00000000000072353722"
+  },
+  {
+    "variation_id": "554882",
+    "title": "NM_000520.6(HEXA):c.1084A>G (p.Ile362Val)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "not specified",
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "I362V, I373V",
+    "gene_id": "HEXA",
+    "location": "00000000000072347748"
+  },
+  {
+    "variation_id": "554870",
+    "title": "NM_000520.6(HEXA):c.1178G>A (p.Arg393Gln)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "not specified",
+      "Inborn genetic diseases",
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "R393Q, R404Q",
+    "gene_id": "HEXA",
+    "location": "00000000000072346679"
+  },
+  {
+    "variation_id": "554861",
+    "title": "NM_000520.6(HEXA):c.388G>C (p.Glu130Gln)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "E130Q, E141Q",
+    "gene_id": "HEXA",
+    "location": "00000000000072355583"
+  },
+  {
+    "variation_id": "554859",
+    "title": "NM_000520.6(HEXA):c.545C>T (p.Pro182Leu)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Tay-Sachs disease",
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "P182L, P193L",
+    "gene_id": "HEXA",
+    "location": "00000000000072353093"
+  },
+  {
+    "variation_id": "554856",
+    "title": "NM_000520.6(HEXA):c.286G>A (p.Val96Ile)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "V96I, V107I",
+    "gene_id": "HEXA",
+    "location": "00000000000072356585"
+  },
+  {
+    "variation_id": "554821",
+    "title": "NM_000520.6(HEXA):c.260G>A (p.Arg87Gln)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "not provided",
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "R87Q, R98Q",
+    "gene_id": "HEXA",
+    "location": "00000000000072356611"
+  },
+  {
+    "variation_id": "554702",
+    "title": "NM_000520.6(HEXA):c.10T>C (p.Ser4Pro)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Tay-Sachs disease",
+      "not specified",
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "S4P",
+    "gene_id": "HEXA",
+    "location": "00000000000072375963"
+  },
+  {
+    "variation_id": "553250",
+    "title": "NM_000520.6(HEXA):c.736G>A (p.Ala246Thr)",
+    "significance": "Pathogenic/Likely pathogenic",
+    "search_class": "benign",
+    "conditions": [
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "A246T, A257T",
+    "gene_id": "HEXA",
+    "location": "00000000000072350587"
+  },
+  {
+    "variation_id": "522667",
+    "title": "NM_000520.6(HEXA):c.754C>T (p.Arg252Cys)",
+    "significance": "Pathogenic/Likely pathogenic",
+    "search_class": "benign",
+    "conditions": [
+      "not provided",
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "R252C, R263C",
+    "gene_id": "HEXA",
+    "location": "00000000000072350569"
+  },
+  {
+    "variation_id": "496013",
+    "title": "NM_000520.6(HEXA):c.574G>A (p.Val192Ile)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "not provided",
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "V192I, V203I",
+    "gene_id": "HEXA",
+    "location": "00000000000072351231"
+  },
+  {
+    "variation_id": "496012",
+    "title": "NM_000520.6(HEXA):c.548T>A (p.Leu183His)",
+    "significance": "Conflicting classifications of pathogenicity",
+    "search_class": "benign",
+    "conditions": [
+      "not provided",
+      "not specified",
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "L183H, L194H",
+    "gene_id": "HEXA",
+    "location": "00000000000072353090"
+  },
+  {
+    "variation_id": "493161",
+    "title": "NM_000520.6(HEXA):c.72G>T (p.Trp24Cys)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "not provided",
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "W24C",
+    "gene_id": "HEXA",
+    "location": "00000000000072375901"
+  },
+  {
+    "variation_id": "445397",
+    "title": "NM_000520.6(HEXA):c.1490A>G (p.Tyr497Cys)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "not provided",
+      "not specified",
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "Y497C, Y508C",
+    "gene_id": "HEXA",
+    "location": "00000000000072345482"
+  },
+  {
+    "variation_id": "439785",
+    "title": "NM_000520.6(HEXA):c.259C>T (p.Arg87Trp)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "not specified",
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "R87W, R98W",
+    "gene_id": "HEXA",
+    "location": "00000000000072356612"
+  },
+  {
+    "variation_id": "423884",
+    "title": "NM_000520.6(HEXA):c.310T>G (p.Cys104Gly)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "C104G, C115G",
+    "gene_id": "HEXA",
+    "location": "00000000000072356561"
+  },
+  {
+    "variation_id": "421021",
+    "title": "NM_000520.6(HEXA):c.530C>G (p.Ser177Cys)",
+    "significance": "Likely pathogenic",
+    "search_class": "benign",
+    "conditions": [
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "S177C, S188C",
+    "gene_id": "HEXA",
+    "location": "00000000000072353108"
+  },
+  {
+    "variation_id": "381668",
+    "title": "NM_000520.6(HEXA):c.748G>A (p.Gly250Ser)",
+    "significance": "Conflicting classifications of pathogenicity",
+    "search_class": "benign",
+    "conditions": [
+      "not specified",
+      "not provided",
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "G250S, G261S",
+    "gene_id": "HEXA",
+    "location": "00000000000072350575"
+  },
+  {
+    "variation_id": "374504",
+    "title": "NM_000520.6(HEXA):c.1302C>G (p.Phe434Leu)",
+    "significance": "Conflicting classifications of pathogenicity",
+    "search_class": "benign",
+    "conditions": [
+      "Tay-Sachs disease",
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "F434L, F445L",
+    "gene_id": "HEXA",
+    "location": "00000000000072346555"
+  },
+  {
+    "variation_id": "317044",
+    "title": "NM_000520.6(HEXA):c.1033G>A (p.Gly345Ser)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "not specified",
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "G345S, G356S",
+    "gene_id": "HEXA",
+    "location": "00000000000072348088"
+  },
+  {
+    "variation_id": "288069",
+    "title": "NM_000520.6(HEXA):c.38C>T (p.Ala13Val)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "not provided",
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "A13V",
+    "gene_id": "HEXA",
+    "location": "00000000000072375935"
+  },
+  {
+    "variation_id": "197682",
+    "title": "NM_000520.6(HEXA):c.536A>G (p.His179Arg)",
+    "significance": "Conflicting classifications of pathogenicity",
+    "search_class": "benign",
+    "conditions": [
+      "not provided",
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "H179R, H190R",
+    "gene_id": "HEXA",
+    "location": "00000000000072353102"
+  },
+  {
+    "variation_id": "195081",
+    "title": "NM_000520.6(HEXA):c.298G>T (p.Val100Phe)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "not provided",
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "V100F, V111F",
+    "gene_id": "HEXA",
+    "location": "00000000000072356573"
+  },
+  {
+    "variation_id": "126510",
+    "title": "NM_000520.4(HEXA):c.745C>T (p.Arg249Trp)",
+    "significance": "Conflicting classifications of pathogenicity; other",
+    "search_class": "benign",
+    "conditions": [
+      "not provided",
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "R249W, R260W",
+    "gene_id": "HEXA",
+    "location": "00000000000072350578"
+  },
+  {
+    "variation_id": "93192",
+    "title": "NM_000520.6(HEXA):c.497G>A (p.Arg166His)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "not provided",
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "R166H, R177H",
+    "gene_id": "HEXA",
+    "location": "00000000000072353141"
+  },
+  {
+    "variation_id": "93190",
+    "title": "NM_000520.6(HEXA):c.1397A>G (p.Asn466Ser)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "not provided",
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "N466S, N477S",
+    "gene_id": "HEXA",
+    "location": "00000000000072346259"
+  },
+  {
+    "variation_id": "3931",
+    "title": "NM_000520.6(HEXA):c.611A>G (p.His204Arg)",
+    "significance": "Conflicting classifications of pathogenicity",
+    "search_class": "benign",
+    "conditions": [
+      "not specified",
+      "not provided",
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "H204R, H215R",
+    "gene_id": "HEXA",
+    "location": "00000000000072351194"
+  },
+  {
+    "variation_id": "3927",
+    "title": "NM_000520.6(HEXA):c.590A>C (p.Lys197Thr)",
+    "significance": "Conflicting classifications of pathogenicity",
+    "search_class": "benign",
+    "conditions": [
+      "not specified",
+      "not provided",
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "K197T, K208T",
+    "gene_id": "HEXA",
+    "location": "00000000000072351215"
+  },
+  {
+    "variation_id": "3925",
+    "title": "NM_000520.6(HEXA):c.508C>T (p.Arg170Trp)",
+    "significance": "Pathogenic/Likely pathogenic",
+    "search_class": "benign",
+    "conditions": [
+      "Inborn genetic diseases",
+      "not provided",
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "R170W, R181W",
+    "gene_id": "HEXA",
+    "location": "00000000000072353130"
+  },
+  {
+    "variation_id": "3924",
+    "title": "NM_000520.6(HEXA):c.772G>C (p.Asp258His)",
+    "significance": "Pathogenic/Likely pathogenic",
+    "search_class": "benign",
+    "conditions": [
+      "not provided",
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "D258H, D269H",
+    "gene_id": "HEXA",
+    "location": "00000000000072350551"
+  },
+  {
+    "variation_id": "3906",
+    "title": "NM_000520.6(HEXA):c.1510C>T (p.Arg504Cys)",
+    "significance": "Pathogenic/Likely pathogenic",
+    "search_class": "benign",
+    "conditions": [
+      "not provided",
+      "not specified",
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "R504C, R515C",
+    "gene_id": "HEXA",
+    "location": "00000000000072345462"
+  },
+  {
+    "variation_id": "3901",
+    "title": "NM_000520.6(HEXA):c.1260G>C (p.Trp420Cys)",
+    "significance": "Pathogenic/Likely pathogenic",
+    "search_class": "benign",
+    "conditions": [
+      "not provided",
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "W420C, W431C",
+    "gene_id": "HEXA",
+    "location": "00000000000072346597"
+  },
+  {
+    "variation_id": "3900",
+    "title": "NM_000520.6(HEXA):c.509G>A (p.Arg170Gln)",
+    "significance": "Pathogenic",
+    "search_class": "benign",
+    "conditions": [
+      "not provided",
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "R170Q, R181Q",
+    "gene_id": "HEXA",
+    "location": "00000000000072353129"
+  },
+  {
+    "variation_id": "3899",
+    "title": "NM_000520.6(HEXA):c.1496G>A (p.Arg499His)",
+    "significance": "Pathogenic",
+    "search_class": "benign",
+    "conditions": [
+      "Inborn genetic diseases",
+      "not provided",
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "R499H, R510H",
+    "gene_id": "HEXA",
+    "location": "00000000000072345476"
+  },
+  {
+    "variation_id": "3898",
+    "title": "NM_000520.6(HEXA):c.805G>A (p.Gly269Ser)",
+    "significance": "Pathogenic/Likely pathogenic",
+    "search_class": "benign",
+    "conditions": [
+      "Inborn genetic diseases",
+      "not provided",
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "G269S, G280S",
+    "gene_id": "HEXA",
+    "location": "00000000000072350518"
+  },
+  {
+    "variation_id": "3896",
+    "title": "NM_000520.6(HEXA):c.533G>A (p.Arg178His)",
+    "significance": "Pathogenic/Likely pathogenic",
+    "search_class": "benign",
+    "conditions": [
+      "Inborn genetic diseases",
+      "not provided",
+      "Global developmental delay",
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "R178H, R189H",
+    "gene_id": "HEXA",
+    "location": "00000000000072353105"
+  },
+  {
+    "variation_id": "3895",
+    "title": "NM_000520.6(HEXA):c.1511G>A (p.Arg504His)",
+    "significance": "Pathogenic/Likely pathogenic",
+    "search_class": "benign",
+    "conditions": [
+      "not provided",
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "R504H, R515H",
+    "gene_id": "HEXA",
+    "location": "00000000000072345461"
+  },
+  {
+    "variation_id": "3892",
+    "title": "NM_000520.6(HEXA):c.1444G>A (p.Glu482Lys)",
+    "significance": "Pathogenic/Likely pathogenic",
+    "search_class": "benign",
+    "conditions": [
+      "Inborn genetic diseases",
+      "not provided",
+      "Tay-Sachs disease"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "non-coding transcript variant"
+    ],
+    "protein_change": "E482K, E493K",
+    "gene_id": "HEXA",
+    "location": "00000000000072345528"
+  }
+]

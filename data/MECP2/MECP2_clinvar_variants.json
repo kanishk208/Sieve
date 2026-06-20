@@ -1,0 +1,2980 @@
+[
+  {
+    "variation_id": "4802225",
+    "title": "NM_001110792.2(MECP2):c.961C>G (p.Arg321Gly)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Severe neonatal-onset encephalopathy with microcephaly"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "R216G, R309G, R321G, R86G",
+    "gene_id": "MECP2",
+    "location": "00000000000154030903"
+  },
+  {
+    "variation_id": "4689827",
+    "title": "NM_001110792.2(MECP2):c.1001C>A (p.Pro334His)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "P229H, P322H, P334H, P99H",
+    "gene_id": "MECP2",
+    "location": "00000000000154030863"
+  },
+  {
+    "variation_id": "4688854",
+    "title": "NM_001110792.2(MECP2):c.506T>C (p.Phe169Ser)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not specified"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "intron variant"
+    ],
+    "protein_change": "F157S, F169S, F64S",
+    "gene_id": "MECP2",
+    "location": "00000000000154031358"
+  },
+  {
+    "variation_id": "4540177",
+    "title": "NM_001110792.2(MECP2):c.958A>T (p.Thr320Ser)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "T215S, T308S, T320S, T85S",
+    "gene_id": "MECP2",
+    "location": "00000000000154030906"
+  },
+  {
+    "variation_id": "4540060",
+    "title": "NM_001110792.2(MECP2):c.265G>A (p.Ala89Thr)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "5 prime UTR variant"
+    ],
+    "protein_change": "A77T, A89T",
+    "gene_id": "MECP2",
+    "location": "00000000000154032355"
+  },
+  {
+    "variation_id": "4532171",
+    "title": "NM_001110792.2(MECP2):c.1181_1235del (p.Leu394fs)",
+    "significance": "Pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Rett syndrome"
+    ],
+    "molecular_consequence": [
+      "frameshift variant"
+    ],
+    "protein_change": "L159fs, L289fs, L382fs, L394fs",
+    "gene_id": "MECP2",
+    "location": "00000000000154030629"
+  },
+  {
+    "variation_id": "4281888",
+    "title": "NM_001110792.2(MECP2):c.685C>G (p.Pro229Ala)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "5 prime UTR variant"
+    ],
+    "protein_change": "P124A, P217A, P229A",
+    "gene_id": "MECP2",
+    "location": "00000000000154031179"
+  },
+  {
+    "variation_id": "4088115",
+    "title": "NM_001110792.2(MECP2):c.505T>C (p.Phe169Leu)",
+    "significance": "Pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "intron variant"
+    ],
+    "protein_change": "F169L, F157L, F64L",
+    "gene_id": "MECP2",
+    "location": "00000000000154031359"
+  },
+  {
+    "variation_id": "4083412",
+    "title": "NM_001110792.2(MECP2):c.1276A>C (p.Lys426Gln)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "K191Q, K321Q, K414Q, K426Q",
+    "gene_id": "MECP2",
+    "location": "00000000000154030588"
+  },
+  {
+    "variation_id": "4082751",
+    "title": "NM_001110792.2(MECP2):c.526A>C (p.Ser176Arg)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "intron variant"
+    ],
+    "protein_change": "S164R, S176R, S71R",
+    "gene_id": "MECP2",
+    "location": "00000000000154031338"
+  },
+  {
+    "variation_id": "4075646",
+    "title": "NM_001110792.2(MECP2):c.821A>G (p.Gln274Arg)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "Q169R, Q262R, Q274R, Q39R",
+    "gene_id": "MECP2",
+    "location": "00000000000154031043"
+  },
+  {
+    "variation_id": "4070595",
+    "title": "NM_001110792.2(MECP2):c.1420G>A (p.Val474Ile)",
+    "significance": "Likely pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "V239I, V369I, V462I, V474I",
+    "gene_id": "MECP2",
+    "location": "00000000000154030444"
+  },
+  {
+    "variation_id": "3900779",
+    "title": "NM_001110792.2(MECP2):c.72G>T (p.Lys24Asn)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "5 prime UTR variant"
+    ],
+    "protein_change": "K12N, K24N",
+    "gene_id": "MECP2",
+    "location": "00000000000154032548"
+  },
+  {
+    "variation_id": "3773943",
+    "title": "NM_001110792.2(MECP2):c.629G>T (p.Arg210Ile)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "5 prime UTR variant"
+    ],
+    "protein_change": "R105I, R198I, R210I",
+    "gene_id": "MECP2",
+    "location": "00000000000154031235"
+  },
+  {
+    "variation_id": "3772496",
+    "title": "NM_001110792.2(MECP2):c.157G>A (p.Gly53Ser)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "5 prime UTR variant"
+    ],
+    "protein_change": "G41S, G53S",
+    "gene_id": "MECP2",
+    "location": "00000000000154032463"
+  },
+  {
+    "variation_id": "3767563",
+    "title": "NM_001110792.2(MECP2):c.1157A>C (p.Glu386Ala)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "E151A, E281A, E374A, E386A",
+    "gene_id": "MECP2",
+    "location": "00000000000154030707"
+  },
+  {
+    "variation_id": "3767429",
+    "title": "NM_001110792.2(MECP2):c.845G>A (p.Arg282Gln)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "R177Q, R270Q, R282Q, R47Q",
+    "gene_id": "MECP2",
+    "location": "00000000000154031019"
+  },
+  {
+    "variation_id": "3708749",
+    "title": "NM_001110792.2(MECP2):c.152A>G (p.Lys51Arg)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Inborn genetic diseases",
+      "not provided",
+      "Severe neonatal-onset encephalopathy with microcephaly"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "5 prime UTR variant"
+    ],
+    "protein_change": "K39R, K51R",
+    "gene_id": "MECP2",
+    "location": "00000000000154032468"
+  },
+  {
+    "variation_id": "3602067",
+    "title": "NM_001110792.2(MECP2):c.407T>G (p.Leu136Trp)",
+    "significance": "Likely pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Rett syndrome"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "5 prime UTR variant"
+    ],
+    "protein_change": "L124W, L136W, L31W",
+    "gene_id": "MECP2",
+    "location": "00000000000154032213"
+  },
+  {
+    "variation_id": "3573487",
+    "title": "NM_001110792.2(MECP2):c.1134C>G (p.His378Gln)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "H143Q, H273Q, H366Q, H378Q",
+    "gene_id": "MECP2",
+    "location": "00000000000154030730"
+  },
+  {
+    "variation_id": "3572774",
+    "title": "NM_001110792.2(MECP2):c.428C>G (p.Ala143Gly)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "5 prime UTR variant"
+    ],
+    "protein_change": "A143G, A131G, A38G",
+    "gene_id": "MECP2",
+    "location": "00000000000154031436"
+  },
+  {
+    "variation_id": "3391612",
+    "title": "NM_001110792.2(MECP2):c.74C>T (p.Ser25Leu)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "5 prime UTR variant"
+    ],
+    "protein_change": "S13L, S25L",
+    "gene_id": "MECP2",
+    "location": "00000000000154032546"
+  },
+  {
+    "variation_id": "3373451",
+    "title": "NM_001110792.2(MECP2):c.1312A>G (p.Ser438Gly)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "S203G, S333G, S426G, S438G",
+    "gene_id": "MECP2",
+    "location": "00000000000154030552"
+  },
+  {
+    "variation_id": "3373237",
+    "title": "NM_001110792.2(MECP2):c.54G>C (p.Glu18Asp)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "5 prime UTR variant"
+    ],
+    "protein_change": "E18D",
+    "gene_id": "MECP2",
+    "location": "00000000000154097612"
+  },
+  {
+    "variation_id": "3371394",
+    "title": "NM_001110792.2(MECP2):c.586A>G (p.Thr196Ala)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "5 prime UTR variant"
+    ],
+    "protein_change": "T184A, T196A, T91A",
+    "gene_id": "MECP2",
+    "location": "00000000000154031278"
+  },
+  {
+    "variation_id": "3369937",
+    "title": "NM_001110792.2(MECP2):c.1444A>G (p.Asn482Asp)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "N247D, N377D, N470D, N482D",
+    "gene_id": "MECP2",
+    "location": "00000000000154030420"
+  },
+  {
+    "variation_id": "3368387",
+    "title": "NM_001110792.2(MECP2):c.576A>C (p.Lys192Asn)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "splice acceptor variant"
+    ],
+    "protein_change": "K180N, K192N, K87N",
+    "gene_id": "MECP2",
+    "location": "00000000000154031288"
+  },
+  {
+    "variation_id": "3368001",
+    "title": "NM_001110792.2(MECP2):c.1049C>T (p.Thr350Ile)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "T115I, T245I, T338I, T350I",
+    "gene_id": "MECP2",
+    "location": "00000000000154030815"
+  },
+  {
+    "variation_id": "3366069",
+    "title": "NM_001110792.2(MECP2):c.428C>T (p.Ala143Val)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "5 prime UTR variant"
+    ],
+    "protein_change": "A131V, A143V, A38V",
+    "gene_id": "MECP2",
+    "location": "00000000000154031436"
+  },
+  {
+    "variation_id": "3365924",
+    "title": "NM_001110792.2(MECP2):c.980A>G (p.Glu327Gly)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "E222G, E315G, E327G, E92G",
+    "gene_id": "MECP2",
+    "location": "00000000000154030884"
+  },
+  {
+    "variation_id": "3364884",
+    "title": "NM_001110792.2(MECP2):c.1052G>A (p.Cys351Tyr)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "C116Y, C246Y, C339Y, C351Y",
+    "gene_id": "MECP2",
+    "location": "00000000000154030812"
+  },
+  {
+    "variation_id": "3361349",
+    "title": "NM_001110792.2(MECP2):c.32G>A (p.Gly11Glu)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "5 prime UTR variant"
+    ],
+    "protein_change": "G11E",
+    "gene_id": "MECP2",
+    "location": "00000000000154097634"
+  },
+  {
+    "variation_id": "3342456",
+    "title": "NM_001110792.2(MECP2):c.1370C>T (p.Thr457Met)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided",
+      "Severe neonatal-onset encephalopathy with microcephaly",
+      "not specified"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "T222M, T352M, T445M, T457M",
+    "gene_id": "MECP2",
+    "location": "00000000000154030494"
+  },
+  {
+    "variation_id": "3340279",
+    "title": "NM_001110792.2(MECP2):c.590G>T (p.Gly197Val)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "5 prime UTR variant"
+    ],
+    "protein_change": "G185V, G197V, G92V",
+    "gene_id": "MECP2",
+    "location": "00000000000154031274"
+  },
+  {
+    "variation_id": "3338828",
+    "title": "NM_001110792.2(MECP2):c.1178C>T (p.Pro393Leu)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "P158L, P288L, P381L, P393L",
+    "gene_id": "MECP2",
+    "location": "00000000000154030686"
+  },
+  {
+    "variation_id": "3338757",
+    "title": "NM_001110792.2(MECP2):c.574A>G (p.Lys192Glu)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "intron variant"
+    ],
+    "protein_change": "K180E, K192E, K87E",
+    "gene_id": "MECP2",
+    "location": "00000000000154031290"
+  },
+  {
+    "variation_id": "3338753",
+    "title": "NM_001110792.2(MECP2):c.979G>A (p.Glu327Lys)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "E222K, E315K, E327K, E92K",
+    "gene_id": "MECP2",
+    "location": "00000000000154030885"
+  },
+  {
+    "variation_id": "3252806",
+    "title": "NM_001110792.2(MECP2):c.610A>G (p.Lys204Glu)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "5 prime UTR variant"
+    ],
+    "protein_change": "K192E, K204E, K99E",
+    "gene_id": "MECP2",
+    "location": "00000000000154031254"
+  },
+  {
+    "variation_id": "3234834",
+    "title": "NM_001110792.2(MECP2):c.959C>T (p.Thr320Ile)",
+    "significance": "Conflicting classifications of pathogenicity",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided",
+      "Rett syndrome"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "T215I, T308I, T320I, T85I",
+    "gene_id": "MECP2",
+    "location": "00000000000154030905"
+  },
+  {
+    "variation_id": "3066414",
+    "title": "NM_001110792.2(MECP2):c.491C>T (p.Pro164Leu)",
+    "significance": "Pathogenic/Likely pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided",
+      "Rett syndrome"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "intron variant"
+    ],
+    "protein_change": "P152L, P164L, P59L",
+    "gene_id": "MECP2",
+    "location": "00000000000154031373"
+  },
+  {
+    "variation_id": "2858595",
+    "title": "NM_001110792.2(MECP2):c.368G>C (p.Arg123Thr)",
+    "significance": "Likely pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Severe neonatal-onset encephalopathy with microcephaly"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "5 prime UTR variant"
+    ],
+    "protein_change": "R123T, R18T, R111T",
+    "gene_id": "MECP2",
+    "location": "00000000000154032252"
+  },
+  {
+    "variation_id": "2849846",
+    "title": "NM_001110792.2(MECP2):c.957G>C (p.Lys319Asn)",
+    "significance": "Likely pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Severe neonatal-onset encephalopathy with microcephaly"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "K214N, K319N, K307N, K84N",
+    "gene_id": "MECP2",
+    "location": "00000000000154030907"
+  },
+  {
+    "variation_id": "2848886",
+    "title": "NM_001110792.2(MECP2):c.1442C>T (p.Pro481Leu)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided",
+      "Severe neonatal-onset encephalopathy with microcephaly"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "P246L, P376L, P481L, P469L",
+    "gene_id": "MECP2",
+    "location": "00000000000154030422"
+  },
+  {
+    "variation_id": "2792293",
+    "title": "NM_001110792.2(MECP2):c.1118C>A (p.Pro373His)",
+    "significance": "Conflicting classifications of pathogenicity",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided",
+      "Severe neonatal-onset encephalopathy with microcephaly"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "P138H, P268H, P373H, P361H",
+    "gene_id": "MECP2",
+    "location": "00000000000154030746"
+  },
+  {
+    "variation_id": "2787541",
+    "title": "NM_001110792.2(MECP2):c.445G>C (p.Glu149Gln)",
+    "significance": "Likely pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Severe neonatal-onset encephalopathy with microcephaly"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "5 prime UTR variant"
+    ],
+    "protein_change": "E137Q, E44Q, E149Q",
+    "gene_id": "MECP2",
+    "location": "00000000000154031419"
+  },
+  {
+    "variation_id": "2711943",
+    "title": "NM_001110792.2(MECP2):c.506T>G (p.Phe169Cys)",
+    "significance": "Likely pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Severe neonatal-onset encephalopathy with microcephaly"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "intron variant"
+    ],
+    "protein_change": "F169C, F64C, F157C",
+    "gene_id": "MECP2",
+    "location": "00000000000154031358"
+  },
+  {
+    "variation_id": "2687739",
+    "title": "NM_001110792.2(MECP2):c.950A>C (p.Lys317Thr)",
+    "significance": "Likely pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Rett syndrome"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "K212T, K305T, K317T, K82T",
+    "gene_id": "MECP2",
+    "location": "00000000000154030914"
+  },
+  {
+    "variation_id": "2626784",
+    "title": "NM_001110792.2(MECP2):c.1453G>C (p.Glu485Gln)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Rett syndrome",
+      "X-linked intellectual disability-psychosis-macroorchidism syndrome"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "E473Q, E485Q, E380Q, E250Q",
+    "gene_id": "MECP2",
+    "location": "00000000000154030411"
+  },
+  {
+    "variation_id": "2585476",
+    "title": "NM_001110792.2(MECP2):c.1130A>G (p.Glu377Gly)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "X-linked intellectual disability-psychosis-macroorchidism syndrome"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "E377G, E142G, E272G, E365G",
+    "gene_id": "MECP2",
+    "location": "00000000000154030734"
+  },
+  {
+    "variation_id": "2584881",
+    "title": "NM_001110792.2(MECP2):c.1429T>C (p.Ser477Pro)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Rett syndrome"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "S242P, S372P, S477P, S465P",
+    "gene_id": "MECP2",
+    "location": "00000000000154030435"
+  },
+  {
+    "variation_id": "2577621",
+    "title": "NM_001110792.2(MECP2):c.578C>G (p.Ala193Gly)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "5 prime UTR variant"
+    ],
+    "protein_change": "A181G, A193G, A88G",
+    "gene_id": "MECP2",
+    "location": "00000000000154031286"
+  },
+  {
+    "variation_id": "2576682",
+    "title": "NM_001110792.2(MECP2):c.395A>G (p.Tyr132Cys)",
+    "significance": "Pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "5 prime UTR variant"
+    ],
+    "protein_change": "Y120C, Y132C, Y27C",
+    "gene_id": "MECP2",
+    "location": "00000000000154032225"
+  },
+  {
+    "variation_id": "2573814",
+    "title": "NM_001110792.2(MECP2):c.539G>C (p.Arg180Pro)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "intron variant"
+    ],
+    "protein_change": "R168P, R180P, R75P",
+    "gene_id": "MECP2",
+    "location": "00000000000154031325"
+  },
+  {
+    "variation_id": "2572723",
+    "title": "NM_001110792.2(MECP2):c.105C>G (p.Asp35Glu)",
+    "significance": "Likely benign",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Rett syndrome"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "5 prime UTR variant"
+    ],
+    "protein_change": "D23E, D35E",
+    "gene_id": "MECP2",
+    "location": "00000000000154032515"
+  },
+  {
+    "variation_id": "2505626",
+    "title": "NM_001110792.2(MECP2):c.380G>A (p.Arg127His)",
+    "significance": "Pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Rett syndrome"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "5 prime UTR variant"
+    ],
+    "protein_change": "R115H, R127H, R22H",
+    "gene_id": "MECP2",
+    "location": "00000000000154032240"
+  },
+  {
+    "variation_id": "2504890",
+    "title": "NM_001110792.2(MECP2):c.728G>C (p.Gly243Ala)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "G138A, G231A, G243A, G8A",
+    "gene_id": "MECP2",
+    "location": "00000000000154031136"
+  },
+  {
+    "variation_id": "2500468",
+    "title": "NM_001110792.2(MECP2):c.1382A>G (p.Lys461Arg)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "K226R, K356R, K449R, K461R",
+    "gene_id": "MECP2",
+    "location": "00000000000154030482"
+  },
+  {
+    "variation_id": "2499404",
+    "title": "NM_001110792.2(MECP2):c.1033G>A (p.Gly345Arg)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "G110R, G240R, G333R, G345R",
+    "gene_id": "MECP2",
+    "location": "00000000000154030831"
+  },
+  {
+    "variation_id": "2499203",
+    "title": "NM_001110792.2(MECP2):c.818C>G (p.Pro273Arg)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Syndromic X-linked intellectual disability Lubs type",
+      "Rett syndrome",
+      "Autism, susceptibility to, X-linked 3",
+      "X-linked intellectual disability-psychosis-macroorchidism syndrome",
+      "Severe neonatal-onset encephalopathy with microcephaly",
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "P168R, P261R, P273R, P38R",
+    "gene_id": "MECP2",
+    "location": "00000000000154031046"
+  },
+  {
+    "variation_id": "2446116",
+    "title": "NM_001110792.2(MECP2):c.572C>T (p.Pro191Leu)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "intron variant"
+    ],
+    "protein_change": "P179L, P191L, P86L",
+    "gene_id": "MECP2",
+    "location": "00000000000154031292"
+  },
+  {
+    "variation_id": "2229884",
+    "title": "NM_001110792.2(MECP2):c.800G>C (p.Arg267Pro)",
+    "significance": "Pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Rett syndrome"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "R162P, R267P, R32P, R255P",
+    "gene_id": "MECP2",
+    "location": "00000000000154031064"
+  },
+  {
+    "variation_id": "2135175",
+    "title": "NM_001110792.2(MECP2):c.509C>G (p.Thr170Arg)",
+    "significance": "Likely pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Severe neonatal-onset encephalopathy with microcephaly",
+      "Rett syndrome"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "intron variant"
+    ],
+    "protein_change": "T158R, T170R, T65R",
+    "gene_id": "MECP2",
+    "location": "00000000000154031355"
+  },
+  {
+    "variation_id": "2122595",
+    "title": "NM_001110792.2(MECP2):c.1243C>T (p.Pro415Ser)",
+    "significance": "Conflicting classifications of pathogenicity",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Severe neonatal-onset encephalopathy with microcephaly",
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "P415S, P180S, P310S, P403S",
+    "gene_id": "MECP2",
+    "location": "00000000000154030621"
+  },
+  {
+    "variation_id": "2105763",
+    "title": "NM_001110792.2(MECP2):c.214G>A (p.Gly72Ser)",
+    "significance": "Pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Severe neonatal-onset encephalopathy with microcephaly"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "5 prime UTR variant"
+    ],
+    "protein_change": "G60S, G72S",
+    "gene_id": "MECP2",
+    "location": "00000000000154032406"
+  },
+  {
+    "variation_id": "2029588",
+    "title": "NM_001110792.2(MECP2):c.490C>A (p.Pro164Thr)",
+    "significance": "Likely pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Severe neonatal-onset encephalopathy with microcephaly"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "intron variant"
+    ],
+    "protein_change": "P164T, P59T, P152T",
+    "gene_id": "MECP2",
+    "location": "00000000000154031374"
+  },
+  {
+    "variation_id": "2019735",
+    "title": "NM_001110792.2(MECP2):c.441A>C (p.Lys147Asn)",
+    "significance": "Likely pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Severe neonatal-onset encephalopathy with microcephaly"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "5 prime UTR variant"
+    ],
+    "protein_change": "K42N, K135N, K147N",
+    "gene_id": "MECP2",
+    "location": "00000000000154031423"
+  },
+  {
+    "variation_id": "2006126",
+    "title": "NM_001110792.2(MECP2):c.1080G>C (p.Glu360Asp)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided",
+      "Severe neonatal-onset encephalopathy with microcephaly"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "E360D, E125D, E255D, E348D",
+    "gene_id": "MECP2",
+    "location": "00000000000154030784"
+  },
+  {
+    "variation_id": "1878531",
+    "title": "NM_001110792.2(MECP2):c.1205C>T (p.Pro402Leu)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Rett syndrome"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "P167L, P297L, P390L, P402L",
+    "gene_id": "MECP2",
+    "location": "00000000000154030659"
+  },
+  {
+    "variation_id": "1723812",
+    "title": "NM_001110792.2(MECP2):c.484C>G (p.Leu162Val)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Severe neonatal-onset encephalopathy with microcephaly",
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "intron variant"
+    ],
+    "protein_change": "L150V, L162V, L57V",
+    "gene_id": "MECP2",
+    "location": "00000000000154031380"
+  },
+  {
+    "variation_id": "1721248",
+    "title": "NM_001110792.2(MECP2):c.580C>T (p.Pro194Ser)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "X-linked intellectual disability-psychosis-macroorchidism syndrome",
+      "Severe neonatal-onset encephalopathy with microcephaly"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "5 prime UTR variant"
+    ],
+    "protein_change": "P182S, P194S, P89S",
+    "gene_id": "MECP2",
+    "location": "00000000000154031284"
+  },
+  {
+    "variation_id": "1712829",
+    "title": "NM_001110792.2(MECP2):c.26C>G (p.Pro9Arg)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Severe neonatal-onset encephalopathy with microcephaly",
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "5 prime UTR variant"
+    ],
+    "protein_change": "P9R",
+    "gene_id": "MECP2",
+    "location": "00000000000154097640"
+  },
+  {
+    "variation_id": "1705077",
+    "title": "NM_001110792.2(MECP2):c.806C>A (p.Ala269Asp)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided",
+      "not specified"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "A164D, A257D, A269D, A34D",
+    "gene_id": "MECP2",
+    "location": "00000000000154031058"
+  },
+  {
+    "variation_id": "1700468",
+    "title": "NM_001110792.2(MECP2):c.76G>A (p.Glu26Lys)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "5 prime UTR variant"
+    ],
+    "protein_change": "E14K, E26K",
+    "gene_id": "MECP2",
+    "location": "00000000000154032544"
+  },
+  {
+    "variation_id": "1697073",
+    "title": "NM_001110792.2(MECP2):c.1337C>G (p.Ala446Gly)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "A211G, A341G, A434G, A446G",
+    "gene_id": "MECP2",
+    "location": "00000000000154030527"
+  },
+  {
+    "variation_id": "1695728",
+    "title": "NM_001110792.2(MECP2):c.1412A>G (p.Lys471Arg)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Severe neonatal-onset encephalopathy with microcephaly",
+      "Inborn genetic diseases",
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "K236R, K366R, K459R, K471R",
+    "gene_id": "MECP2",
+    "location": "00000000000154030452"
+  },
+  {
+    "variation_id": "1679147",
+    "title": "NM_001110792.2(MECP2):c.434G>C (p.Arg145Pro)",
+    "significance": "Pathogenic/Likely pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided",
+      "Rett syndrome"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "5 prime UTR variant"
+    ],
+    "protein_change": "R133P, R145P, R40P",
+    "gene_id": "MECP2",
+    "location": "00000000000154031430"
+  },
+  {
+    "variation_id": "1506669",
+    "title": "NM_001110792.2(MECP2):c.406T>G (p.Leu136Val)",
+    "significance": "Likely pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Severe neonatal-onset encephalopathy with microcephaly"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "5 prime UTR variant"
+    ],
+    "protein_change": "L124V, L136V, L31V",
+    "gene_id": "MECP2",
+    "location": "00000000000154032214"
+  },
+  {
+    "variation_id": "1501953",
+    "title": "NM_001110792.2(MECP2):c.509C>A (p.Thr170Lys)",
+    "significance": "Likely pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Severe neonatal-onset encephalopathy with microcephaly"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "intron variant"
+    ],
+    "protein_change": "T158K, T65K, T170K",
+    "gene_id": "MECP2",
+    "location": "00000000000154031355"
+  },
+  {
+    "variation_id": "1489310",
+    "title": "NM_001110792.2(MECP2):c.536G>C (p.Arg179Pro)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Rett syndrome"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "intron variant"
+    ],
+    "protein_change": "R167P, R74P, R179P",
+    "gene_id": "MECP2",
+    "location": "00000000000154031328"
+  },
+  {
+    "variation_id": "1468919",
+    "title": "NM_001110792.2(MECP2):c.671T>A (p.Val224Asp)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided",
+      "Severe neonatal-onset encephalopathy with microcephaly"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "5 prime UTR variant"
+    ],
+    "protein_change": "V212D, V119D, V224D",
+    "gene_id": "MECP2",
+    "location": "00000000000154031193"
+  },
+  {
+    "variation_id": "1423525",
+    "title": "NM_001110792.2(MECP2):c.937C>G (p.Leu313Val)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Rett syndrome"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "L208V, L301V, L78V, L313V",
+    "gene_id": "MECP2",
+    "location": "00000000000154030927"
+  },
+  {
+    "variation_id": "1342085",
+    "title": "NM_001110792.2(MECP2):c.920C>A (p.Ser307Tyr)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "S202Y, S295Y, S307Y, S72Y",
+    "gene_id": "MECP2",
+    "location": "00000000000154030944"
+  },
+  {
+    "variation_id": "1327655",
+    "title": "NM_001110792.2(MECP2):c.1212G>C (p.Glu404Asp)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "E169D, E299D, E392D, E404D",
+    "gene_id": "MECP2",
+    "location": "00000000000154030652"
+  },
+  {
+    "variation_id": "1321032",
+    "title": "NM_001110792.2(MECP2):c.1241C>G (p.Pro414Arg)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "P179R, P309R, P402R, P414R",
+    "gene_id": "MECP2",
+    "location": "00000000000154030623"
+  },
+  {
+    "variation_id": "1315124",
+    "title": "NM_001110792.2(MECP2):c.577G>T (p.Ala193Ser)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "splice acceptor variant"
+    ],
+    "protein_change": "A181S, A193S, A88S",
+    "gene_id": "MECP2",
+    "location": "00000000000154031287"
+  },
+  {
+    "variation_id": "1313385",
+    "title": "NM_001110792.2(MECP2):c.109C>T (p.Pro37Ser)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "5 prime UTR variant"
+    ],
+    "protein_change": "P25S, P37S",
+    "gene_id": "MECP2",
+    "location": "00000000000154032511"
+  },
+  {
+    "variation_id": "1312548",
+    "title": "NM_001110792.2(MECP2):c.557A>C (p.Lys186Thr)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "intron variant"
+    ],
+    "protein_change": "K174T, K186T, K81T",
+    "gene_id": "MECP2",
+    "location": "00000000000154031307"
+  },
+  {
+    "variation_id": "1308420",
+    "title": "NM_001110792.2(MECP2):c.462C>G (p.Phe154Leu)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "5 prime UTR variant"
+    ],
+    "protein_change": "F142L, F154L, F49L",
+    "gene_id": "MECP2",
+    "location": "00000000000154031402"
+  },
+  {
+    "variation_id": "1306058",
+    "title": "NM_001110792.2(MECP2):c.824C>G (p.Ala275Gly)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Severe neonatal-onset encephalopathy with microcephaly",
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "A170G, A263G, A275G, A40G",
+    "gene_id": "MECP2",
+    "location": "00000000000154031040"
+  },
+  {
+    "variation_id": "1305774",
+    "title": "NM_001110792.2(MECP2):c.242G>T (p.Gly81Val)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not specified",
+      "Inborn genetic diseases",
+      "MECP2-related disorder",
+      "not provided",
+      "Severe neonatal-onset encephalopathy with microcephaly"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "5 prime UTR variant"
+    ],
+    "protein_change": "G69V, G81V",
+    "gene_id": "MECP2",
+    "location": "00000000000154032378"
+  },
+  {
+    "variation_id": "1301233",
+    "title": "NM_001110792.2(MECP2):c.635A>C (p.Lys212Thr)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "5 prime UTR variant"
+    ],
+    "protein_change": "K107T, K200T, K212T",
+    "gene_id": "MECP2",
+    "location": "00000000000154031229"
+  },
+  {
+    "variation_id": "1181967",
+    "title": "NM_001110792.2(MECP2):c.307C>T (p.Arg103Trp)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided",
+      "Severe neonatal-onset encephalopathy with microcephaly"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "5 prime UTR variant"
+    ],
+    "protein_change": "R103W, R91W",
+    "gene_id": "MECP2",
+    "location": "00000000000154032313"
+  },
+  {
+    "variation_id": "1066884",
+    "title": "NM_001110792.2(MECP2):c.215G>A (p.Gly72Asp)",
+    "significance": "Likely pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Severe neonatal-onset encephalopathy with microcephaly"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "5 prime UTR variant"
+    ],
+    "protein_change": "G60D, G72D",
+    "gene_id": "MECP2",
+    "location": "00000000000154032405"
+  },
+  {
+    "variation_id": "1063351",
+    "title": "NM_001110792.2(MECP2):c.869C>T (p.Ala290Val)",
+    "significance": "Conflicting classifications of pathogenicity",
+    "search_class": "pathogenic",
+    "conditions": [
+      "MECP2-related disorder",
+      "not provided",
+      "Severe neonatal-onset encephalopathy with microcephaly"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "A185V, A278V, A290V, A55V",
+    "gene_id": "MECP2",
+    "location": "00000000000154030995"
+  },
+  {
+    "variation_id": "1062342",
+    "title": "NM_001110792.2(MECP2):c.920C>G (p.Ser307Cys)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided",
+      "Severe neonatal-onset encephalopathy with microcephaly"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "S202C, S295C, S307C, S72C",
+    "gene_id": "MECP2",
+    "location": "00000000000154030944"
+  },
+  {
+    "variation_id": "1027605",
+    "title": "NM_001110792.2(MECP2):c.507C>A (p.Phe169Leu)",
+    "significance": "Pathogenic/Likely pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Severe neonatal-onset encephalopathy with microcephaly",
+      "Rett syndrome"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "intron variant"
+    ],
+    "protein_change": "F157L, F169L, F64L",
+    "gene_id": "MECP2",
+    "location": "00000000000154031357"
+  },
+  {
+    "variation_id": "1010655",
+    "title": "NM_001110792.2(MECP2):c.1289T>C (p.Met430Thr)",
+    "significance": "Benign",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Rett syndrome"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "M195T, M325T, M418T, M430T",
+    "gene_id": "MECP2",
+    "location": "00000000000154030575"
+  },
+  {
+    "variation_id": "969463",
+    "title": "NM_001110792.2(MECP2):c.55G>A (p.Glu19Lys)",
+    "significance": "Benign",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Rett syndrome"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "5 prime UTR variant"
+    ],
+    "protein_change": "E19K",
+    "gene_id": "MECP2",
+    "location": "00000000000154097611"
+  },
+  {
+    "variation_id": "961919",
+    "title": "NM_001110792.2(MECP2):c.962G>A (p.Arg321Gln)",
+    "significance": "Likely pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Severe neonatal-onset encephalopathy with microcephaly"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "R216Q, R321Q, R309Q",
+    "gene_id": "MECP2",
+    "location": "00000000000154030902"
+  },
+  {
+    "variation_id": "941270",
+    "title": "NM_001110792.2(MECP2):c.1195C>T (p.Pro399Ser)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided",
+      "Severe neonatal-onset encephalopathy with microcephaly"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "P294S, P387S, P399S",
+    "gene_id": "MECP2",
+    "location": "00000000000154030669"
+  },
+  {
+    "variation_id": "916515",
+    "title": "NM_001110792.2(MECP2):c.1255G>A (p.Asp419Asn)",
+    "significance": "Likely benign",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Rett syndrome"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "D314N, D419N, D407N",
+    "gene_id": "MECP2",
+    "location": "00000000000154030609"
+  },
+  {
+    "variation_id": "857143",
+    "title": "NM_001110792.2(MECP2):c.418C>A (p.Gln140Lys)",
+    "significance": "Likely pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided",
+      "Severe neonatal-onset encephalopathy with microcephaly"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "5 prime UTR variant"
+    ],
+    "protein_change": "Q128K, Q35K, Q140K",
+    "gene_id": "MECP2",
+    "location": "00000000000154031446"
+  },
+  {
+    "variation_id": "804125",
+    "title": "NM_001110792.2(MECP2):c.553C>A (p.Pro185Thr)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Rett syndrome"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "intron variant"
+    ],
+    "protein_change": "P173T, P185T, P80T",
+    "gene_id": "MECP2",
+    "location": "00000000000154031311"
+  },
+  {
+    "variation_id": "655951",
+    "title": "NM_001110792.2(MECP2):c.1117C>T (p.Pro373Ser)",
+    "significance": "Likely benign",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Rett syndrome"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "P361S, P373S, P268S, P138S",
+    "gene_id": "MECP2",
+    "location": "00000000000154030747"
+  },
+  {
+    "variation_id": "655729",
+    "title": "NM_001110792.2(MECP2):c.948G>C (p.Lys316Asn)",
+    "significance": "Pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Rett syndrome"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "K316N, K211N, K304N, K81N",
+    "gene_id": "MECP2",
+    "location": "00000000000154030916"
+  },
+  {
+    "variation_id": "590069",
+    "title": "NM_001110792.2(MECP2):c.301C>T (p.Arg101Cys)",
+    "significance": "Benign",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Rett syndrome"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "5 prime UTR variant"
+    ],
+    "protein_change": "R101C, R89C",
+    "gene_id": "MECP2",
+    "location": "00000000000154032319"
+  },
+  {
+    "variation_id": "570887",
+    "title": "NM_001110792.2(MECP2):c.1061C>G (p.Pro354Arg)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Severe neonatal-onset encephalopathy with microcephaly",
+      "not provided",
+      "Rett syndrome"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "P342R, P354R, P249R, P119R",
+    "gene_id": "MECP2",
+    "location": "00000000000154030803"
+  },
+  {
+    "variation_id": "566728",
+    "title": "NM_001110792.2(MECP2):c.598C>T (p.Arg200Trp)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Inborn genetic diseases",
+      "Severe neonatal-onset encephalopathy with microcephaly",
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "5 prime UTR variant"
+    ],
+    "protein_change": "R188W, R200W, R95W",
+    "gene_id": "MECP2",
+    "location": "00000000000154031266"
+  },
+  {
+    "variation_id": "560193",
+    "title": "NM_001110792.2(MECP2):c.937C>T (p.Leu313Phe)",
+    "significance": "Pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "L301F, L313F, L208F, L78F",
+    "gene_id": "MECP2",
+    "location": "00000000000154030927"
+  },
+  {
+    "variation_id": "560190",
+    "title": "NM_001110792.2(MECP2):c.244T>C (p.Ser82Pro)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Rett syndrome"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "5 prime UTR variant"
+    ],
+    "protein_change": "S70P, S82P",
+    "gene_id": "MECP2",
+    "location": "00000000000154032376"
+  },
+  {
+    "variation_id": "536586",
+    "title": "NM_001110792.2(MECP2):c.286C>T (p.Arg96Trp)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Severe neonatal-onset encephalopathy with microcephaly",
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "5 prime UTR variant"
+    ],
+    "protein_change": "R96W, R84W",
+    "gene_id": "MECP2",
+    "location": "00000000000154032334"
+  },
+  {
+    "variation_id": "521860",
+    "title": "NM_001110792.2(MECP2):c.953G>C (p.Arg318Pro)",
+    "significance": "Pathogenic/Likely pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Severe neonatal-onset encephalopathy with microcephaly",
+      "Inborn genetic diseases"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "R306P, R318P, R213P, R83P",
+    "gene_id": "MECP2",
+    "location": "00000000000154030911"
+  },
+  {
+    "variation_id": "432900",
+    "title": "NM_001110792.2(MECP2):c.571C>G (p.Pro191Ala)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Severe neonatal-onset encephalopathy with microcephaly",
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "intron variant"
+    ],
+    "protein_change": "P179A, P191A, P86A",
+    "gene_id": "MECP2",
+    "location": "00000000000154031293"
+  },
+  {
+    "variation_id": "432216",
+    "title": "NM_001110792.2(MECP2):c.389G>C (p.Gly130Ala)",
+    "significance": "Likely pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "5 prime UTR variant"
+    ],
+    "protein_change": "G118A, G130A, G25A",
+    "gene_id": "MECP2",
+    "location": "00000000000154032231"
+  },
+  {
+    "variation_id": "431897",
+    "title": "NM_001110792.2(MECP2):c.1177C>T (p.Pro393Ser)",
+    "significance": "Likely benign",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Rett syndrome"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "P381S, P393S, P288S, P158S",
+    "gene_id": "MECP2",
+    "location": "00000000000154030687"
+  },
+  {
+    "variation_id": "431840",
+    "title": "NM_001110792.2(MECP2):c.860T>C (p.Val287Ala)",
+    "significance": "Benign",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Rett syndrome"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "V275A, V287A, V182A, V52A",
+    "gene_id": "MECP2",
+    "location": "00000000000154031004"
+  },
+  {
+    "variation_id": "429596",
+    "title": "NM_001110792.2(MECP2):c.955A>G (p.Lys319Glu)",
+    "significance": "Likely pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "K307E, K319E, K214E, K84E",
+    "gene_id": "MECP2",
+    "location": "00000000000154030909"
+  },
+  {
+    "variation_id": "423593",
+    "title": "NM_001110792.2(MECP2):c.412A>G (p.Asn138Asp)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "5 prime UTR variant"
+    ],
+    "protein_change": "N126D, N138D, N33D",
+    "gene_id": "MECP2",
+    "location": "00000000000154032208"
+  },
+  {
+    "variation_id": "420031",
+    "title": "NM_001110792.2(MECP2):c.946A>C (p.Lys316Gln)",
+    "significance": "Pathogenic/Likely pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided",
+      "Rett syndrome"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "K304Q, K316Q, K211Q, K81Q",
+    "gene_id": "MECP2",
+    "location": "00000000000154030918"
+  },
+  {
+    "variation_id": "384750",
+    "title": "NM_001110792.2(MECP2):c.943A>G (p.Ile315Val)",
+    "significance": "Likely pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "I303V, I315V, I210V, I80V",
+    "gene_id": "MECP2",
+    "location": "00000000000154030921"
+  },
+  {
+    "variation_id": "378124",
+    "title": "NM_001110792.2(MECP2):c.1448G>C (p.Arg483Thr)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Rett syndrome"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "R471T, R483T, R378T, R248T",
+    "gene_id": "MECP2",
+    "location": "00000000000154030416"
+  },
+  {
+    "variation_id": "377105",
+    "title": "NM_001110792.2(MECP2):c.1124A>C (p.Lys375Thr)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "K363T, K375T, K270T, K140T",
+    "gene_id": "MECP2",
+    "location": "00000000000154030740"
+  },
+  {
+    "variation_id": "375525",
+    "title": "NM_001110792.2(MECP2):c.951G>T (p.Lys317Asn)",
+    "significance": "Likely pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Focal epilepsy",
+      "Rett syndrome"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "K305N, K317N, K212N, K82N",
+    "gene_id": "MECP2",
+    "location": "00000000000154030913"
+  },
+  {
+    "variation_id": "372650",
+    "title": "NM_004992.4(MECP2):c.20G>A (p.Gly7Glu)",
+    "significance": "Pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided",
+      "Rett syndrome"
+    ],
+    "molecular_consequence": [
+      "5 prime UTR variant",
+      "missense variant",
+      "intron variant"
+    ],
+    "protein_change": "G7E",
+    "gene_id": "MECP2",
+    "location": "00000000000154092190"
+  },
+  {
+    "variation_id": "280546",
+    "title": "NM_001110792.2(MECP2):c.361A>G (p.Lys121Glu)",
+    "significance": "Pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "5 prime UTR variant"
+    ],
+    "protein_change": "K109E, K121E, K16E",
+    "gene_id": "MECP2",
+    "location": "00000000000154032259"
+  },
+  {
+    "variation_id": "279847",
+    "title": "NM_001110792.2(MECP2):c.1483G>A (p.Glu495Lys)",
+    "significance": "Benign",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Rett syndrome"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "E495K, E483K, E390K, E260K",
+    "gene_id": "MECP2",
+    "location": "00000000000154030381"
+  },
+  {
+    "variation_id": "236302",
+    "title": "NM_001110792.2(MECP2):c.686C>T (p.Pro229Leu)",
+    "significance": "Likely pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Rett syndrome"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "5 prime UTR variant"
+    ],
+    "protein_change": "P217L, P229L, P124L",
+    "gene_id": "MECP2",
+    "location": "00000000000154031178"
+  },
+  {
+    "variation_id": "158883",
+    "title": "NM_001110792.2(MECP2):c.542A>G (p.Glu181Gly)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Encephalopathy, neonatal severeMental retardation, X-linked, syndromic 13Rett syndrome",
+      "Syndromic X-linked intellectual disability Lubs type"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "intron variant"
+    ],
+    "protein_change": "E169G, E181G, E76G",
+    "gene_id": "MECP2",
+    "location": "00000000000154031322"
+  },
+  {
+    "variation_id": "156671",
+    "title": "NM_001110792.2(MECP2):c.915C>G (p.Ile305Met)",
+    "significance": "Benign",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Rett syndrome"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "I293M, I305M, I200M, I70M",
+    "gene_id": "MECP2",
+    "location": "00000000000154030949"
+  },
+  {
+    "variation_id": "156669",
+    "title": "NM_001110792.2(MECP2):c.727G>A (p.Gly243Arg)",
+    "significance": "Likely benign",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Rett syndrome"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "G231R, G243R, G138R, G8R",
+    "gene_id": "MECP2",
+    "location": "00000000000154031137"
+  },
+  {
+    "variation_id": "156667",
+    "title": "NM_001110792.2(MECP2):c.604C>T (p.Arg202Cys)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Rett syndrome"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "5 prime UTR variant"
+    ],
+    "protein_change": "R190C, R202C, R97C",
+    "gene_id": "MECP2",
+    "location": "00000000000154031260"
+  },
+  {
+    "variation_id": "156633",
+    "title": "NM_001110792.2(MECP2):c.1244C>T (p.Pro415Leu)",
+    "significance": "Likely benign",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Rett syndrome"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "P403L, P415L, P310L, P180L",
+    "gene_id": "MECP2",
+    "location": "00000000000154030620"
+  },
+  {
+    "variation_id": "156615",
+    "title": "NM_001110792.2(MECP2):c.1165_1234del (p.Lys389fs)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Rett syndrome"
+    ],
+    "molecular_consequence": [
+      "frameshift variant"
+    ],
+    "protein_change": "K389fs, K284fs, K377fs, K154fs",
+    "gene_id": "MECP2",
+    "location": "00000000000154030630"
+  },
+  {
+    "variation_id": "143754",
+    "title": "NM_001110792.2(MECP2):c.1001C>T (p.Pro334Leu)",
+    "significance": "Pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Rett syndrome"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "P322L, P334L, P229L, P99L",
+    "gene_id": "MECP2",
+    "location": "00000000000154030863"
+  },
+  {
+    "variation_id": "143753",
+    "title": "NM_001110792.2(MECP2):c.1000C>G (p.Pro334Ala)",
+    "significance": "Pathogenic/Likely pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided",
+      "Severe neonatal-onset encephalopathy with microcephaly",
+      "Rett syndrome"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "P322A, P334A, P229A, P99A",
+    "gene_id": "MECP2",
+    "location": "00000000000154030864"
+  },
+  {
+    "variation_id": "143749",
+    "title": "NM_001110792.2(MECP2):c.961C>T (p.Arg321Trp)",
+    "significance": "Pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Rett syndrome"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "R309W, R321W, R216W, R86W",
+    "gene_id": "MECP2",
+    "location": "00000000000154030903"
+  },
+  {
+    "variation_id": "143747",
+    "title": "NM_001110792.2(MECP2):c.953G>T (p.Arg318Leu)",
+    "significance": "Pathogenic/Likely pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Rett syndrome"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "R306L, R318L, R213L, R83L",
+    "gene_id": "MECP2",
+    "location": "00000000000154030911"
+  },
+  {
+    "variation_id": "143746",
+    "title": "NM_001110792.2(MECP2):c.953G>A (p.Arg318His)",
+    "significance": "Pathogenic/Likely pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Neurodevelopmental disorder",
+      "Severe neonatal-onset encephalopathy with microcephaly",
+      "not provided",
+      "Rett syndrome"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "R306H, R318H, R213H, R83H",
+    "gene_id": "MECP2",
+    "location": "00000000000154030911"
+  },
+  {
+    "variation_id": "143745",
+    "title": "NM_001110792.2(MECP2):c.950A>G (p.Lys317Arg)",
+    "significance": "Pathogenic/Likely pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Severe neonatal-onset encephalopathy with microcephaly",
+      "Rett syndrome"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "K305R, K317R, K212R, K82R",
+    "gene_id": "MECP2",
+    "location": "00000000000154030914"
+  },
+  {
+    "variation_id": "143743",
+    "title": "NM_001110792.2(MECP2):c.947A>G (p.Lys316Arg)",
+    "significance": "Pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Rett syndrome"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "K304R, K316R, K211R, K81R",
+    "gene_id": "MECP2",
+    "location": "00000000000154030917"
+  },
+  {
+    "variation_id": "143742",
+    "title": "NM_001110792.2(MECP2):c.946A>G (p.Lys316Glu)",
+    "significance": "Likely pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Rett syndrome"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "K304E, K316E, K211E, K81E",
+    "gene_id": "MECP2",
+    "location": "00000000000154030918"
+  },
+  {
+    "variation_id": "143738",
+    "title": "NM_001110792.2(MECP2):c.941C>T (p.Pro314Leu)",
+    "significance": "Pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Rett syndrome"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "P302L, P314L, P209L, P79L",
+    "gene_id": "MECP2",
+    "location": "00000000000154030923"
+  },
+  {
+    "variation_id": "143737",
+    "title": "NM_001110792.2(MECP2):c.941C>G (p.Pro314Arg)",
+    "significance": "Pathogenic/Likely pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided",
+      "Severe neonatal-onset encephalopathy with microcephaly",
+      "Rett syndrome"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "P302R, P314R, P209R, P79R",
+    "gene_id": "MECP2",
+    "location": "00000000000154030923"
+  },
+  {
+    "variation_id": "143736",
+    "title": "NM_001110792.2(MECP2):c.941C>A (p.Pro314His)",
+    "significance": "Pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided",
+      "Severe neonatal-onset encephalopathy with microcephaly",
+      "Rett syndrome"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "P302H, P314H, P209H, P79H",
+    "gene_id": "MECP2",
+    "location": "00000000000154030923"
+  },
+  {
+    "variation_id": "143735",
+    "title": "NM_001110792.2(MECP2):c.940C>T (p.Pro314Ser)",
+    "significance": "Pathogenic/Likely pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided",
+      "Severe neonatal-onset encephalopathy with microcephaly",
+      "Rett syndrome"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "P302S, P314S, P209S, P79S",
+    "gene_id": "MECP2",
+    "location": "00000000000154030924"
+  },
+  {
+    "variation_id": "143734",
+    "title": "NM_001110792.2(MECP2):c.940C>G (p.Pro314Ala)",
+    "significance": "Pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided",
+      "X-linked intellectual disability-psychosis-macroorchidism syndrome",
+      "Rett syndrome"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "P302A, P314A, P209A, P79A",
+    "gene_id": "MECP2",
+    "location": "00000000000154030924"
+  },
+  {
+    "variation_id": "143715",
+    "title": "NM_001110792.2(MECP2):c.893A>G (p.Lys298Arg)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not specified",
+      "not provided",
+      "Rett syndrome"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "K286R, K298R, K193R, K63R",
+    "gene_id": "MECP2",
+    "location": "00000000000154030971"
+  },
+  {
+    "variation_id": "143710",
+    "title": "NM_001110792.2(MECP2):c.872C>T (p.Ala291Val)",
+    "significance": "Likely pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Rett syndrome"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "A279V, A291V, A186V, A56V",
+    "gene_id": "MECP2",
+    "location": "00000000000154030992"
+  },
+  {
+    "variation_id": "143700",
+    "title": "NM_001110792.2(MECP2):c.838C>T (p.Arg280Trp)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Rett syndrome"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "R268W, R280W, R175W, R45W",
+    "gene_id": "MECP2",
+    "location": "00000000000154031026"
+  },
+  {
+    "variation_id": "143694",
+    "title": "NM_001110792.2(MECP2):c.802_815dup (p.Asp272fs)",
+    "significance": "Pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Rett syndrome"
+    ],
+    "molecular_consequence": [
+      "frameshift variant"
+    ],
+    "protein_change": "D260fs, D167fs, D272fs, D37fs",
+    "gene_id": "MECP2",
+    "location": "00000000000154031048"
+  },
+  {
+    "variation_id": "4756111",
+    "title": "NM_001110792.2(MECP2):c.425A>G (p.Lys142Arg)",
+    "significance": "Benign",
+    "search_class": "benign",
+    "conditions": [
+      "Rett syndrome"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "5 prime UTR variant"
+    ],
+    "protein_change": "K130R, K142R, K37R",
+    "gene_id": "MECP2",
+    "location": "00000000000154031439"
+  },
+  {
+    "variation_id": "4688424",
+    "title": "NM_001110792.2(MECP2):c.635A>G (p.Lys212Arg)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "not specified"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "5 prime UTR variant"
+    ],
+    "protein_change": "K107R, K200R, K212R",
+    "gene_id": "MECP2",
+    "location": "00000000000154031229"
+  },
+  {
+    "variation_id": "4077174",
+    "title": "NM_001110792.2(MECP2):c.1396G>C (p.Gly466Arg)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "G231R, G361R, G454R, G466R",
+    "gene_id": "MECP2",
+    "location": "00000000000154030468"
+  },
+  {
+    "variation_id": "3897175",
+    "title": "NM_001110792.2(MECP2):c.1136A>G (p.His379Arg)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "H144R, H274R, H367R, H379R",
+    "gene_id": "MECP2",
+    "location": "00000000000154030728"
+  },
+  {
+    "variation_id": "3668713",
+    "title": "NM_001110792.2(MECP2):c.1357G>A (p.Ala453Thr)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "not provided",
+      "Severe neonatal-onset encephalopathy with microcephaly"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "A348T, A441T, A218T, A453T",
+    "gene_id": "MECP2",
+    "location": "00000000000154030507"
+  },
+  {
+    "variation_id": "3385112",
+    "title": "NM_001110792.2(MECP2):c.655G>A (p.Val219Met)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Severe neonatal-onset encephalopathy with microcephaly",
+      "not specified"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "5 prime UTR variant"
+    ],
+    "protein_change": "V114M, V207M, V219M",
+    "gene_id": "MECP2",
+    "location": "00000000000154031209"
+  },
+  {
+    "variation_id": "2573969",
+    "title": "NM_001110792.2(MECP2):c.932C>T (p.Thr311Ile)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "T206I, T299I, T311I, T76I",
+    "gene_id": "MECP2",
+    "location": "00000000000154030932"
+  },
+  {
+    "variation_id": "1718793",
+    "title": "NM_001110792.2(MECP2):c.856A>G (p.Ser286Gly)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "not provided",
+      "Severe neonatal-onset encephalopathy with microcephaly"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "S181G, S274G, S286G, S51G",
+    "gene_id": "MECP2",
+    "location": "00000000000154031008"
+  },
+  {
+    "variation_id": "1716438",
+    "title": "NM_001110792.2(MECP2):c.275C>T (p.Ser92Phe)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "not provided",
+      "Severe neonatal-onset encephalopathy with microcephaly"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "5 prime UTR variant"
+    ],
+    "protein_change": "S80F, S92F",
+    "gene_id": "MECP2",
+    "location": "00000000000154032345"
+  },
+  {
+    "variation_id": "1684877",
+    "title": "NM_001110792.2(MECP2):c.997A>G (p.Lys333Glu)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "not specified",
+      "Rett syndrome"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "K228E, K321E, K333E, K98E",
+    "gene_id": "MECP2",
+    "location": "00000000000154030867"
+  },
+  {
+    "variation_id": "1683309",
+    "title": "NM_001110792.2(MECP2):c.1116_1117delinsTA (p.Pro373Thr)",
+    "significance": "Conflicting classifications of pathogenicity",
+    "search_class": "benign",
+    "conditions": [
+      "Severe neonatal-onset encephalopathy with microcephaly",
+      "not specified"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "P138T, P268T, P361T, P373T",
+    "gene_id": "MECP2",
+    "location": "00000000000154030747"
+  },
+  {
+    "variation_id": "1522282",
+    "title": "NM_001110792.2(MECP2):c.68A>G (p.Glu23Gly)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Severe neonatal-onset encephalopathy with microcephaly",
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "5 prime UTR variant"
+    ],
+    "protein_change": "E11G, E23G",
+    "gene_id": "MECP2",
+    "location": "00000000000154032552"
+  },
+  {
+    "variation_id": "1439710",
+    "title": "NM_001110792.2(MECP2):c.724C>A (p.Pro242Thr)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "not provided",
+      "not specified",
+      "Severe neonatal-onset encephalopathy with microcephaly",
+      "X-linked intellectual disability-psychosis-macroorchidism syndrome"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "P230T, P137T, P7T, P242T",
+    "gene_id": "MECP2",
+    "location": "00000000000154031140"
+  },
+  {
+    "variation_id": "1432259",
+    "title": "NM_001110792.2(MECP2):c.463G>A (p.Glu155Lys)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "not specified",
+      "Rett syndrome",
+      "Severe neonatal-onset encephalopathy with microcephaly"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "5 prime UTR variant"
+    ],
+    "protein_change": "E155K, E50K, E143K",
+    "gene_id": "MECP2",
+    "location": "00000000000154031401"
+  },
+  {
+    "variation_id": "1397676",
+    "title": "NM_001110792.2(MECP2):c.91C>G (p.Gln31Glu)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Severe neonatal-onset encephalopathy with microcephaly"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "5 prime UTR variant"
+    ],
+    "protein_change": "Q31E, Q19E",
+    "gene_id": "MECP2",
+    "location": "00000000000154032529"
+  },
+  {
+    "variation_id": "1379740",
+    "title": "NM_001110792.2(MECP2):c.93G>C (p.Gln31His)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Severe neonatal-onset encephalopathy with microcephaly"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "5 prime UTR variant"
+    ],
+    "protein_change": "Q19H, Q31H",
+    "gene_id": "MECP2",
+    "location": "00000000000154032527"
+  },
+  {
+    "variation_id": "1325581",
+    "title": "NM_001110792.2(MECP2):c.1138C>T (p.His380Tyr)",
+    "significance": "Conflicting classifications of pathogenicity",
+    "search_class": "benign",
+    "conditions": [
+      "Inborn genetic diseases",
+      "Severe neonatal-onset encephalopathy with microcephaly",
+      "Rett syndrome"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "H145Y, H275Y, H368Y, H380Y",
+    "gene_id": "MECP2",
+    "location": "00000000000154030726"
+  },
+  {
+    "variation_id": "1212502",
+    "title": "NM_001110792.2(MECP2):c.1091A>G (p.Lys364Arg)",
+    "significance": "Conflicting classifications of pathogenicity",
+    "search_class": "benign",
+    "conditions": [
+      "Severe neonatal-onset encephalopathy with microcephaly",
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "K129R, K259R, K352R, K364R",
+    "gene_id": "MECP2",
+    "location": "00000000000154030773"
+  },
+  {
+    "variation_id": "1041240",
+    "title": "NM_001110792.2(MECP2):c.1271T>G (p.Val424Gly)",
+    "significance": "Conflicting classifications of pathogenicity",
+    "search_class": "benign",
+    "conditions": [
+      "not provided",
+      "Severe neonatal-onset encephalopathy with microcephaly"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "V189G, V319G, V412G, V424G",
+    "gene_id": "MECP2",
+    "location": "00000000000154030593"
+  },
+  {
+    "variation_id": "1037061",
+    "title": "NM_001110792.2(MECP2):c.88C>T (p.Leu30Phe)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "not provided",
+      "Severe neonatal-onset encephalopathy with microcephaly"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "5 prime UTR variant"
+    ],
+    "protein_change": "L30F, L18F",
+    "gene_id": "MECP2",
+    "location": "00000000000154032532"
+  },
+  {
+    "variation_id": "1006465",
+    "title": "NM_001110792.2(MECP2):c.1207C>A (p.Pro403Thr)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "not provided",
+      "Severe neonatal-onset encephalopathy with microcephaly"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "P168T, P298T, P391T, P403T",
+    "gene_id": "MECP2",
+    "location": "00000000000154030657"
+  },
+  {
+    "variation_id": "956097",
+    "title": "NM_001110792.2(MECP2):c.1006C>G (p.Leu336Val)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "not provided",
+      "Severe neonatal-onset encephalopathy with microcephaly"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "L231V, L324V, L336V",
+    "gene_id": "MECP2",
+    "location": "00000000000154030858"
+  },
+  {
+    "variation_id": "928877",
+    "title": "NM_001110792.2(MECP2):c.550C>A (p.Pro184Thr)",
+    "significance": "Conflicting classifications of pathogenicity",
+    "search_class": "benign",
+    "conditions": [
+      "not specified",
+      "Severe neonatal-onset encephalopathy with microcephaly",
+      "Inborn genetic diseases"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "P172T, P184T, P79T",
+    "gene_id": "MECP2",
+    "location": "00000000000154031314"
+  },
+  {
+    "variation_id": "810727",
+    "title": "NM_001110792.2(MECP2):c.1219A>G (p.Ser407Gly)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "not provided",
+      "Severe neonatal-onset encephalopathy with microcephaly"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "S395G, S407G, S302G, S172G",
+    "gene_id": "MECP2",
+    "location": "00000000000154030645"
+  },
+  {
+    "variation_id": "633296",
+    "title": "NM_001110792.2(MECP2):c.1154C>A (p.Ser385Ter)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "not specified"
+    ],
+    "molecular_consequence": [
+      "nonsense"
+    ],
+    "protein_change": "S373*, S385*, S280*, S150*",
+    "gene_id": "MECP2",
+    "location": "00000000000154030710"
+  },
+  {
+    "variation_id": "590108",
+    "title": "NM_001110792.2(MECP2):c.1345C>A (p.Gln449Lys)",
+    "significance": "Likely benign",
+    "search_class": "benign",
+    "conditions": [
+      "Rett syndrome"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "Q437K, Q449K, Q344K, Q214K",
+    "gene_id": "MECP2",
+    "location": "00000000000154030519"
+  },
+  {
+    "variation_id": "570673",
+    "title": "NM_001110792.2(MECP2):c.1117C>A (p.Pro373Thr)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Severe neonatal-onset encephalopathy with microcephaly",
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "P361T, P373T, P268T, P138T",
+    "gene_id": "MECP2",
+    "location": "00000000000154030747"
+  },
+  {
+    "variation_id": "536585",
+    "title": "NM_001110792.2(MECP2):c.737C>T (p.Ala246Val)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Severe neonatal-onset encephalopathy with microcephaly"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "A234V, A246V, A141V, A11V",
+    "gene_id": "MECP2",
+    "location": "00000000000154031127"
+  },
+  {
+    "variation_id": "508389",
+    "title": "NM_001110792.2(MECP2):c.697C>G (p.Leu233Val)",
+    "significance": "Conflicting classifications of pathogenicity",
+    "search_class": "benign",
+    "conditions": [
+      "not specified",
+      "Severe neonatal-onset encephalopathy with microcephaly"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "5 prime UTR variant"
+    ],
+    "protein_change": "L221V, L233V, L128V",
+    "gene_id": "MECP2",
+    "location": "00000000000154031167"
+  },
+  {
+    "variation_id": "426939",
+    "title": "NM_001110792.2(MECP2):c.1207C>G (p.Pro403Ala)",
+    "significance": "Likely benign",
+    "search_class": "benign",
+    "conditions": [
+      "Rett syndrome"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "P391A, P403A, P298A, P168A",
+    "gene_id": "MECP2",
+    "location": "00000000000154030657"
+  },
+  {
+    "variation_id": "378123",
+    "title": "NM_001110792.2(MECP2):c.1168G>A (p.Ala390Thr)",
+    "significance": "Likely benign",
+    "search_class": "benign",
+    "conditions": [
+      "Rett syndrome"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "A378T, A390T, A285T, A155T",
+    "gene_id": "MECP2",
+    "location": "00000000000154030696"
+  },
+  {
+    "variation_id": "236303",
+    "title": "NM_001110792.2(MECP2):c.714T>G (p.Phe238Leu)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Severe neonatal-onset encephalopathy with microcephaly",
+      "Rett syndrome"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "F226L, F238L, F133L, F3L",
+    "gene_id": "MECP2",
+    "location": "00000000000154031150"
+  },
+  {
+    "variation_id": "211466",
+    "title": "NM_001110792.2(MECP2):c.784C>T (p.Arg262Cys)",
+    "significance": "Benign",
+    "search_class": "benign",
+    "conditions": [
+      "Rett syndrome"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "R250C, R262C, R157C, R27C",
+    "gene_id": "MECP2",
+    "location": "00000000000154031080"
+  },
+  {
+    "variation_id": "188500",
+    "title": "NM_001110792.2(MECP2):c.1049C>G (p.Thr350Ser)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Rett syndrome",
+      "Severe neonatal-onset encephalopathy with microcephaly",
+      "Syndromic X-linked intellectual disability Lubs type",
+      "X-linked intellectual disability-psychosis-macroorchidism syndrome",
+      "Autism, susceptibility to, X-linked 3",
+      "Severe neonatal-onset encephalopathy with microcephaly",
+      "not specified"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "T338S, T350S, T245S, T115S",
+    "gene_id": "MECP2",
+    "location": "00000000000154030815"
+  },
+  {
+    "variation_id": "156636",
+    "title": "NM_001110792.2(MECP2):c.1469G>A (p.Arg490Gln)",
+    "significance": "Likely benign",
+    "search_class": "benign",
+    "conditions": [
+      "Rett syndrome"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "R478Q, R490Q, R385Q, R255Q",
+    "gene_id": "MECP2",
+    "location": "00000000000154030395"
+  },
+  {
+    "variation_id": "156634",
+    "title": "NM_001110792.2(MECP2):c.1291C>T (p.Pro431Ser)",
+    "significance": "Benign",
+    "search_class": "benign",
+    "conditions": [
+      "Rett syndrome"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "P419S, P431S, P326S, P196S",
+    "gene_id": "MECP2",
+    "location": "00000000000154030573"
+  },
+  {
+    "variation_id": "143756",
+    "title": "NM_001110792.2(MECP2):c.1018C>G (p.Leu340Val)",
+    "significance": "Likely benign",
+    "search_class": "benign",
+    "conditions": [
+      "Rett syndrome"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "L328V, L340V, L235V, L105V",
+    "gene_id": "MECP2",
+    "location": "00000000000154030846"
+  }
+]

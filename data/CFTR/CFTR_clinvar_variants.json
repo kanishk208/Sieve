@@ -1,0 +1,3665 @@
+[
+  {
+    "variation_id": "4849019",
+    "title": "NM_000492.4(CFTR):c.200C>G (p.Pro67Arg)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not specified"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "P67R",
+    "gene_id": "CFTR",
+    "location": "00000000000117509069"
+  },
+  {
+    "variation_id": "4848972",
+    "title": "NC_000007.13:g.(117254768_117267575)_(117292986_117304741)del",
+    "significance": "Pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Cystic fibrosis"
+    ],
+    "molecular_consequence": [],
+    "protein_change": "",
+    "gene_id": "CFTR",
+    "location": "99999999999999999999"
+  },
+  {
+    "variation_id": "4847466",
+    "title": "NM_000492.4(CFTR):c.3161A>G (p.His1054Arg)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not specified"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "H1054R",
+    "gene_id": "CFTR",
+    "location": "00000000000117611602"
+  },
+  {
+    "variation_id": "4847271",
+    "title": "NM_000492.4(CFTR):c.3407C>A (p.Ala1136Asp)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not specified"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "A1136D",
+    "gene_id": "CFTR",
+    "location": "00000000000117614652"
+  },
+  {
+    "variation_id": "4847260",
+    "title": "NM_000492.4(CFTR):c.3142A>G (p.Arg1048Gly)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not specified"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "R1048G",
+    "gene_id": "CFTR",
+    "location": "00000000000117611583"
+  },
+  {
+    "variation_id": "4818550",
+    "title": "NM_000492.4(CFTR):c.3909C>A (p.Asn1303Lys)",
+    "significance": "Likely pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "CFTR-related disorder"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "N1303K",
+    "gene_id": "CFTR",
+    "location": "00000000000117652877"
+  },
+  {
+    "variation_id": "4818546",
+    "title": "NM_000492.4(CFTR):c.3739G>C (p.Gly1247Arg)",
+    "significance": "Likely pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "CFTR-related disorder"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "G1247R",
+    "gene_id": "CFTR",
+    "location": "00000000000117642459"
+  },
+  {
+    "variation_id": "4818544",
+    "title": "NM_000492.4(CFTR):c.3717G>C (p.Arg1239Ser)",
+    "significance": "Likely pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "CFTR-related disorder"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "R1239S",
+    "gene_id": "CFTR",
+    "location": "00000000000117627770"
+  },
+  {
+    "variation_id": "4818532",
+    "title": "NM_000492.4(CFTR):c.3310G>A (p.Glu1104Lys)",
+    "significance": "Likely pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "CFTR-related disorder"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "E1104K",
+    "gene_id": "CFTR",
+    "location": "00000000000117611751"
+  },
+  {
+    "variation_id": "4818531",
+    "title": "NM_000492.4(CFTR):c.3233T>C (p.Phe1078Ser)",
+    "significance": "Likely pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "CFTR-related disorder"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "F1078S",
+    "gene_id": "CFTR",
+    "location": "00000000000117611674"
+  },
+  {
+    "variation_id": "4818530",
+    "title": "NM_000492.4(CFTR):c.3205G>C (p.Gly1069Arg)",
+    "significance": "Likely pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "CFTR-related disorder"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "G1069R",
+    "gene_id": "CFTR",
+    "location": "00000000000117611646"
+  },
+  {
+    "variation_id": "4818509",
+    "title": "NM_000492.4(CFTR):c.2615C>A (p.Ala872Glu)",
+    "significance": "Likely pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "CFTR-related disorder"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "A872E",
+    "gene_id": "CFTR",
+    "location": "00000000000117595054"
+  },
+  {
+    "variation_id": "4818493",
+    "title": "NM_000492.4(CFTR):c.199C>T (p.Pro67Ser)",
+    "significance": "Likely pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Cystic fibrosis",
+      "CFTR-related disorder"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "P67S",
+    "gene_id": "CFTR",
+    "location": "00000000000117509068"
+  },
+  {
+    "variation_id": "4818471",
+    "title": "NM_000492.4(CFTR):c.1382G>T (p.Gly461Val)",
+    "significance": "Likely pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "CFTR-related disorder"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "G461V",
+    "gene_id": "CFTR",
+    "location": "00000000000117548813"
+  },
+  {
+    "variation_id": "4818470",
+    "title": "NM_000492.4(CFTR):c.1381G>A (p.Gly461Arg)",
+    "significance": "Likely pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "CFTR-related disorder"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "G461R",
+    "gene_id": "CFTR",
+    "location": "00000000000117548812"
+  },
+  {
+    "variation_id": "4707820",
+    "title": "NM_000492.4(CFTR):c.2737T>C (p.Tyr913His)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Cystic fibrosis"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "Y913H",
+    "gene_id": "CFTR",
+    "location": "00000000000117603611"
+  },
+  {
+    "variation_id": "4688698",
+    "title": "NM_000492.4(CFTR):c.940G>A (p.Gly314Arg)",
+    "significance": "Pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Cystic fibrosis"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "G314R",
+    "gene_id": "CFTR",
+    "location": "00000000000117540170"
+  },
+  {
+    "variation_id": "4687111",
+    "title": "NM_000492.4(CFTR):c.172G>T (p.Asp58Tyr)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not specified"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "D58Y",
+    "gene_id": "CFTR",
+    "location": "00000000000117509041"
+  },
+  {
+    "variation_id": "4536730",
+    "title": "NC_000007.13:g.(117149197_117170952)_(117171169_117174329)del",
+    "significance": "Pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Cystic fibrosis"
+    ],
+    "molecular_consequence": [],
+    "protein_change": "",
+    "gene_id": "CFTR",
+    "location": "99999999999999999999"
+  },
+  {
+    "variation_id": "4530900",
+    "title": "NM_000492.4(CFTR):c.3979G>A (p.Val1327Met)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "V1327M",
+    "gene_id": "CFTR",
+    "location": "00000000000117664703"
+  },
+  {
+    "variation_id": "4280024",
+    "title": "NM_000492.4(CFTR):c.2558T>C (p.Ile853Thr)",
+    "significance": "Likely pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Cystic fibrosis"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "I853T",
+    "gene_id": "CFTR",
+    "location": "00000000000117594997"
+  },
+  {
+    "variation_id": "4075718",
+    "title": "NM_000492.4(CFTR):c.1429C>A (p.Pro477Thr)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "P477T",
+    "gene_id": "CFTR",
+    "location": "00000000000117559500"
+  },
+  {
+    "variation_id": "4074496",
+    "title": "NM_000492.4(CFTR):c.1759T>G (p.Phe587Val)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "F587V",
+    "gene_id": "CFTR",
+    "location": "00000000000117590432"
+  },
+  {
+    "variation_id": "4073478",
+    "title": "NM_000492.4(CFTR):c.1457G>A (p.Gly486Glu)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not specified"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "G486E",
+    "gene_id": "CFTR",
+    "location": "00000000000117559528"
+  },
+  {
+    "variation_id": "4073470",
+    "title": "NM_000492.4(CFTR):c.1446T>G (p.Ile482Met)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Cystic fibrosis"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "I482M",
+    "gene_id": "CFTR",
+    "location": "00000000000117559517"
+  },
+  {
+    "variation_id": "4064643",
+    "title": "NM_000492.4(CFTR):c.179A>G (p.Glu60Gly)",
+    "significance": "Likely pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "CFTR-related disorder"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "E60G",
+    "gene_id": "CFTR",
+    "location": "00000000000117509048"
+  },
+  {
+    "variation_id": "4064589",
+    "title": "NM_000492.4(CFTR):c.215C>A (p.Ala72Asp)",
+    "significance": "Likely pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "CFTR-related disorder"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "A72D",
+    "gene_id": "CFTR",
+    "location": "00000000000117509084"
+  },
+  {
+    "variation_id": "3911982",
+    "title": "NM_000492.4(CFTR):c.1526G>A (p.Gly509Asp)",
+    "significance": "Likely pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Cystic fibrosis"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "G509D",
+    "gene_id": "CFTR",
+    "location": "00000000000117559597"
+  },
+  {
+    "variation_id": "3907118",
+    "title": "NM_000492.4(CFTR):c.1039C>G (p.Arg347Gly)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not specified"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "R347G",
+    "gene_id": "CFTR",
+    "location": "00000000000117540269"
+  },
+  {
+    "variation_id": "3895713",
+    "title": "NC_000007.13:g.(117182163_117188694)_(117235113_117242879)del",
+    "significance": "Pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Cystic fibrosis"
+    ],
+    "molecular_consequence": [],
+    "protein_change": "",
+    "gene_id": "CFTR",
+    "location": "99999999999999999999"
+  },
+  {
+    "variation_id": "3716838",
+    "title": "NM_000492.4(CFTR):c.3229C>G (p.Leu1077Val)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Cystic fibrosis"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "L1077V",
+    "gene_id": "CFTR",
+    "location": "00000000000117611670"
+  },
+  {
+    "variation_id": "3709525",
+    "title": "NM_000492.4(CFTR):c.774A>C (p.Arg258Ser)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Cystic fibrosis"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "R258S",
+    "gene_id": "CFTR",
+    "location": "00000000000117536578"
+  },
+  {
+    "variation_id": "3391202",
+    "title": "NM_000492.4(CFTR):c.558C>A (p.Asn186Lys)",
+    "significance": "Conflicting classifications of pathogenicity",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Cystic fibrosis"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "N186K",
+    "gene_id": "CFTR",
+    "location": "00000000000117534344"
+  },
+  {
+    "variation_id": "3381026",
+    "title": "NM_000492.4(CFTR):c.3218A>G (p.Tyr1073Cys)",
+    "significance": "Likely pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Cystic fibrosis",
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "Y1073C",
+    "gene_id": "CFTR",
+    "location": "00000000000117611659"
+  },
+  {
+    "variation_id": "3373313",
+    "title": "NM_000492.4(CFTR):c.563T>G (p.Leu188Arg)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "L188R",
+    "gene_id": "CFTR",
+    "location": "00000000000117534349"
+  },
+  {
+    "variation_id": "3341327",
+    "title": "NM_000492.4(CFTR):c.1364C>G (p.Ala455Gly)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Cystic fibrosis"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "A455G",
+    "gene_id": "CFTR",
+    "location": "00000000000117548795"
+  },
+  {
+    "variation_id": "3339740",
+    "title": "NC_000007.13:g.(117188878_117199517)_(117199710_117227792)del",
+    "significance": "Pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Cystic fibrosis"
+    ],
+    "molecular_consequence": [],
+    "protein_change": "",
+    "gene_id": "CFTR",
+    "location": "99999999999999999999"
+  },
+  {
+    "variation_id": "3339570",
+    "title": "NM_000492.4(CFTR):c.614C>T (p.Pro205Leu)",
+    "significance": "Conflicting classifications of pathogenicity",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Bronchiectasis with or without elevated sweat chloride 1",
+      "Cystic fibrosis",
+      "Congenital bilateral aplasia of vas deferens from CFTR mutation",
+      "Hereditary pancreatitis",
+      "not specified",
+      "CFTR-related disorder",
+      "Cystic fibrosis"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "P205L",
+    "gene_id": "CFTR",
+    "location": "00000000000117535282"
+  },
+  {
+    "variation_id": "3339495",
+    "title": "NM_000492.4(CFTR):c.1316C>G (p.Pro439Arg)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not specified"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "P439R",
+    "gene_id": "CFTR",
+    "location": "00000000000117548747"
+  },
+  {
+    "variation_id": "3336547",
+    "title": "NM_000492.4(CFTR):c.2547_2555del (p.Leu850_Tyr852del)",
+    "significance": "Likely pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Cystic fibrosis"
+    ],
+    "molecular_consequence": [
+      "inframe_deletion"
+    ],
+    "protein_change": "",
+    "gene_id": "CFTR",
+    "location": "00000000000117594983"
+  },
+  {
+    "variation_id": "3336520",
+    "title": "NC_000007.13:g.(117282648_117292895)_(117308720_?)del",
+    "significance": "Pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Cystic fibrosis"
+    ],
+    "molecular_consequence": [],
+    "protein_change": "",
+    "gene_id": "CFTR",
+    "location": "99999999999999999999"
+  },
+  {
+    "variation_id": "3336162",
+    "title": "NM_000492.4(CFTR):c.3181G>A (p.Gly1061Arg)",
+    "significance": "Pathogenic/Likely pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "CFTR-related disorder",
+      "Cystic fibrosis"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "G1061R",
+    "gene_id": "CFTR",
+    "location": "00000000000117611622"
+  },
+  {
+    "variation_id": "3266629",
+    "title": "NM_000492.4(CFTR):c.618G>C (p.Leu206Phe)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not specified",
+      "Cystic fibrosis"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "L206F",
+    "gene_id": "CFTR",
+    "location": "00000000000117535286"
+  },
+  {
+    "variation_id": "3251643",
+    "title": "NC_000007.13:g.(117254768_117267575)_(117267825_117282491)del",
+    "significance": "Pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Cystic fibrosis"
+    ],
+    "molecular_consequence": [],
+    "protein_change": "",
+    "gene_id": "CFTR",
+    "location": "99999999999999999999"
+  },
+  {
+    "variation_id": "3251507",
+    "title": "NC_000007.13:g.(117282648_117292895)_(117292986_117304741)del",
+    "significance": "Pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Cystic fibrosis"
+    ],
+    "molecular_consequence": [],
+    "protein_change": "",
+    "gene_id": "CFTR",
+    "location": "99999999999999999999"
+  },
+  {
+    "variation_id": "3233852",
+    "title": "NC_000007.13:g.(117267825_117282491)_(117282648_117292895)del",
+    "significance": "Pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Cystic fibrosis"
+    ],
+    "molecular_consequence": [],
+    "protein_change": "",
+    "gene_id": "CFTR",
+    "location": "99999999999999999999"
+  },
+  {
+    "variation_id": "3233767",
+    "title": "NC_000007.13:g.(117227888_117230406)_(117230494_117231987)del",
+    "significance": "Pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Cystic fibrosis"
+    ],
+    "molecular_consequence": [],
+    "protein_change": "",
+    "gene_id": "CFTR",
+    "location": "99999999999999999999"
+  },
+  {
+    "variation_id": "3233738",
+    "title": "NM_000492.4(CFTR):c.1736A>C (p.Asp579Ala)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not specified"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "D579A",
+    "gene_id": "CFTR",
+    "location": "00000000000117590409"
+  },
+  {
+    "variation_id": "3068883",
+    "title": "NC_000007.13:g.(117149197_117170952)_(117254768_117267575)del",
+    "significance": "Pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Cystic fibrosis"
+    ],
+    "molecular_consequence": [],
+    "protein_change": "",
+    "gene_id": "CFTR",
+    "location": "99999999999999999999"
+  },
+  {
+    "variation_id": "3019253",
+    "title": "NM_000492.4(CFTR):c.330C>G (p.Asp110Glu)",
+    "significance": "Pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "CFTR-related disorder",
+      "Cystic fibrosis"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "D110E",
+    "gene_id": "CFTR",
+    "location": "00000000000117530955"
+  },
+  {
+    "variation_id": "2913712",
+    "title": "NM_000492.4(CFTR):c.13C>T (p.Pro5Ser)",
+    "significance": "Conflicting classifications of pathogenicity",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Cystic fibrosis",
+      "not specified"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "P5S",
+    "gene_id": "CFTR",
+    "location": "00000000000117480107"
+  },
+  {
+    "variation_id": "2889321",
+    "title": "NM_000492.4(CFTR):c.600C>A (p.Phe200Leu)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Cystic fibrosis"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "F200L",
+    "gene_id": "CFTR",
+    "location": "00000000000117535268"
+  },
+  {
+    "variation_id": "2873814",
+    "title": "NM_000492.4(CFTR):c.14C>G (p.Pro5Arg)",
+    "significance": "Conflicting classifications of pathogenicity",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Cystic fibrosis",
+      "not specified"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "P5R",
+    "gene_id": "CFTR",
+    "location": "00000000000117480108"
+  },
+  {
+    "variation_id": "2871602",
+    "title": "NM_000492.4(CFTR):c.933C>A (p.Phe311Leu)",
+    "significance": "Pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Cystic fibrosis"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "F311L",
+    "gene_id": "CFTR",
+    "location": "00000000000117540163"
+  },
+  {
+    "variation_id": "2769610",
+    "title": "NM_000492.4(CFTR):c.1328A>T (p.Asp443Val)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Cystic fibrosis"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "D443V",
+    "gene_id": "CFTR",
+    "location": "00000000000117548759"
+  },
+  {
+    "variation_id": "2768661",
+    "title": "NM_000492.4(CFTR):c.2856G>T (p.Met952Ile)",
+    "significance": "Pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Cystic fibrosis"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "M952I",
+    "gene_id": "CFTR",
+    "location": "00000000000117603730"
+  },
+  {
+    "variation_id": "2735077",
+    "title": "NM_000492.4(CFTR):c.346G>C (p.Glu116Gln)",
+    "significance": "Conflicting classifications of pathogenicity",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not specified",
+      "Cystic fibrosis"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "E116Q",
+    "gene_id": "CFTR",
+    "location": "00000000000117530971"
+  },
+  {
+    "variation_id": "2691472",
+    "title": "NM_000492.4(CFTR):c.941G>T (p.Gly314Val)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Cystic fibrosis",
+      "not specified"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "G314V",
+    "gene_id": "CFTR",
+    "location": "00000000000117540171"
+  },
+  {
+    "variation_id": "2680711",
+    "title": "NM_000492.4(CFTR):c.434T>A (p.Leu145His)",
+    "significance": "Likely pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Cystic fibrosis",
+      "Bronchiectasis with or without elevated sweat chloride 1"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "L145H",
+    "gene_id": "CFTR",
+    "location": "00000000000117531059"
+  },
+  {
+    "variation_id": "2637539",
+    "title": "NM_000492.4(CFTR):c.2978A>G (p.Asp993Gly)",
+    "significance": "Conflicting classifications of pathogenicity",
+    "search_class": "pathogenic",
+    "conditions": [
+      "CFTR-related disorder",
+      "Cystic fibrosis",
+      "not specified"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "D993G",
+    "gene_id": "CFTR",
+    "location": "00000000000117606743"
+  },
+  {
+    "variation_id": "2630690",
+    "title": "NM_000492.4(CFTR):c.1951G>C (p.Asp651His)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Cystic fibrosis",
+      "not specified"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "D651H",
+    "gene_id": "CFTR",
+    "location": "00000000000117592118"
+  },
+  {
+    "variation_id": "2627368",
+    "title": "NM_000492.4(CFTR):c.4262T>A (p.Val1421Glu)",
+    "significance": "Conflicting classifications of pathogenicity",
+    "search_class": "pathogenic",
+    "conditions": [
+      "CFTR-related disorder",
+      "Bronchiectasis with or without elevated sweat chloride 1",
+      "Cystic fibrosis",
+      "Congenital bilateral aplasia of vas deferens from CFTR mutation"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "V1421E",
+    "gene_id": "CFTR",
+    "location": "00000000000117666927"
+  },
+  {
+    "variation_id": "2577301",
+    "title": "NC_000007.13:g.(117149197_117170952)_(117180401_117182069)del",
+    "significance": "Pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Cystic fibrosis"
+    ],
+    "molecular_consequence": [],
+    "protein_change": "",
+    "gene_id": "CFTR",
+    "location": "99999999999999999999"
+  },
+  {
+    "variation_id": "2577297",
+    "title": "NM_000492.4(CFTR):c.3106A>G (p.Thr1036Ala)",
+    "significance": "Likely pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Cystic fibrosis"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "T1036A",
+    "gene_id": "CFTR",
+    "location": "00000000000117610636"
+  },
+  {
+    "variation_id": "2575219",
+    "title": "NM_000492.4(CFTR):c.1842C>A (p.Asp614Glu)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not specified",
+      "Cystic fibrosis"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "D614E",
+    "gene_id": "CFTR",
+    "location": "00000000000117592009"
+  },
+  {
+    "variation_id": "2573430",
+    "title": "NM_000492.4(CFTR):c.52A>G (p.Ser18Gly)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not specified",
+      "Cystic fibrosis"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "S18G",
+    "gene_id": "CFTR",
+    "location": "00000000000117480146"
+  },
+  {
+    "variation_id": "2573429",
+    "title": "NM_000492.4(CFTR):c.1675G>C (p.Ala559Pro)",
+    "significance": "Pathogenic/Likely pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "CFTR-related disorder",
+      "not provided",
+      "Cystic fibrosis"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "A559P",
+    "gene_id": "CFTR",
+    "location": "00000000000117587829"
+  },
+  {
+    "variation_id": "2567891",
+    "title": "NM_000492.4(CFTR):c.386T>G (p.Leu129Arg)",
+    "significance": "Conflicting classifications of pathogenicity",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Cystic fibrosis"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "L129R",
+    "gene_id": "CFTR",
+    "location": "00000000000117531011"
+  },
+  {
+    "variation_id": "2562525",
+    "title": "NM_000492.4(CFTR):c.3277C>G (p.Leu1093Val)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not specified",
+      "Cystic fibrosis"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "L1093V",
+    "gene_id": "CFTR",
+    "location": "00000000000117611718"
+  },
+  {
+    "variation_id": "2506206",
+    "title": "NM_000492.4(CFTR):c.489+43_580-354del",
+    "significance": "Likely pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Cystic fibrosis"
+    ],
+    "molecular_consequence": [
+      "splice acceptor variant",
+      "splice donor variant"
+    ],
+    "protein_change": "",
+    "gene_id": "CFTR",
+    "location": "00000000000117531157"
+  },
+  {
+    "variation_id": "2506205",
+    "title": "NC_000007.13:g.(117149197_117170952)_(117199710_117227792)del",
+    "significance": "Pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Cystic fibrosis"
+    ],
+    "molecular_consequence": [],
+    "protein_change": "",
+    "gene_id": "CFTR",
+    "location": "99999999999999999999"
+  },
+  {
+    "variation_id": "2506203",
+    "title": "NC_000007.13:g.(117171169_117174329)_(117174420_117175301)del",
+    "significance": "Pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Cystic fibrosis"
+    ],
+    "molecular_consequence": [],
+    "protein_change": "",
+    "gene_id": "CFTR",
+    "location": "99999999999999999999"
+  },
+  {
+    "variation_id": "2503928",
+    "title": "NM_000492.4(CFTR):c.1472G>C (p.Cys491Ser)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided",
+      "not specified",
+      "Cystic fibrosis"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "C491S",
+    "gene_id": "CFTR",
+    "location": "00000000000117559543"
+  },
+  {
+    "variation_id": "2498346",
+    "title": "NM_000492.4(CFTR):c.2851A>G (p.Lys951Glu)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not specified",
+      "Cystic fibrosis"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "K951E",
+    "gene_id": "CFTR",
+    "location": "00000000000117603725"
+  },
+  {
+    "variation_id": "2447422",
+    "title": "NM_000492.4(CFTR):c.2606T>G (p.Ile869Ser)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided",
+      "Cystic fibrosis"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "I869S",
+    "gene_id": "CFTR",
+    "location": "00000000000117595045"
+  },
+  {
+    "variation_id": "2447421",
+    "title": "NM_000492.4(CFTR):c.1234G>T (p.Ala412Ser)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided",
+      "Cystic fibrosis"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "A412S",
+    "gene_id": "CFTR",
+    "location": "00000000000117548665"
+  },
+  {
+    "variation_id": "2443363",
+    "title": "NM_000492.4(CFTR):c.3119T>C (p.Leu1040Pro)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not specified",
+      "Cystic fibrosis"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "L1040P",
+    "gene_id": "CFTR",
+    "location": "00000000000117610649"
+  },
+  {
+    "variation_id": "2443362",
+    "title": "NM_000492.4(CFTR):c.719T>G (p.Leu240Arg)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not specified"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "L240R",
+    "gene_id": "CFTR",
+    "location": "00000000000117535387"
+  },
+  {
+    "variation_id": "2173637",
+    "title": "NM_000492.4(CFTR):c.2225C>T (p.Ser742Phe)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided",
+      "Cystic fibrosis"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "S742F",
+    "gene_id": "CFTR",
+    "location": "00000000000117592392"
+  },
+  {
+    "variation_id": "2150527",
+    "title": "NM_000492.4(CFTR):c.1411A>T (p.Ile471Phe)",
+    "significance": "Conflicting classifications of pathogenicity",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Cystic fibrosis"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "I471F",
+    "gene_id": "CFTR",
+    "location": "00000000000117559482"
+  },
+  {
+    "variation_id": "2136598",
+    "title": "NM_000492.4(CFTR):c.668C>T (p.Ala223Val)",
+    "significance": "Conflicting classifications of pathogenicity",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not specified",
+      "Cystic fibrosis"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "A223V",
+    "gene_id": "CFTR",
+    "location": "00000000000117535336"
+  },
+  {
+    "variation_id": "2109356",
+    "title": "NM_000492.4(CFTR):c.3752G>C (p.Ser1251Thr)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Cystic fibrosis"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "S1251T",
+    "gene_id": "CFTR",
+    "location": "00000000000117642472"
+  },
+  {
+    "variation_id": "2104419",
+    "title": "NM_000492.4(CFTR):c.2935G>T (p.Asp979Tyr)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Cystic fibrosis"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "D979Y",
+    "gene_id": "CFTR",
+    "location": "00000000000117606700"
+  },
+  {
+    "variation_id": "2098461",
+    "title": "NM_000492.4(CFTR):c.1733T>C (p.Leu578Pro)",
+    "significance": "Likely pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Cystic fibrosis"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "L578P",
+    "gene_id": "CFTR",
+    "location": "00000000000117590406"
+  },
+  {
+    "variation_id": "2096430",
+    "title": "NM_000492.4(CFTR):c.574G>C (p.Asp192His)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Cystic fibrosis"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "D192H",
+    "gene_id": "CFTR",
+    "location": "00000000000117534360"
+  },
+  {
+    "variation_id": "2037273",
+    "title": "NM_000492.4(CFTR):c.317T>C (p.Ile106Thr)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided",
+      "Cystic fibrosis"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "I106T",
+    "gene_id": "CFTR",
+    "location": "00000000000117530942"
+  },
+  {
+    "variation_id": "2036998",
+    "title": "NM_000492.4(CFTR):c.1622T>C (p.Leu541Pro)",
+    "significance": "Conflicting classifications of pathogenicity",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Cystic fibrosis",
+      "not specified"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "L541P",
+    "gene_id": "CFTR",
+    "location": "00000000000117587776"
+  },
+  {
+    "variation_id": "1951118",
+    "title": "NM_000492.4(CFTR):c.472A>G (p.Ser158Gly)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Cystic fibrosis"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "S158G",
+    "gene_id": "CFTR",
+    "location": "00000000000117531097"
+  },
+  {
+    "variation_id": "1921232",
+    "title": "NM_000492.4(CFTR):c.710A>C (p.Gln237Pro)",
+    "significance": "Conflicting classifications of pathogenicity",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Cystic fibrosis"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "Q237P",
+    "gene_id": "CFTR",
+    "location": "00000000000117535378"
+  },
+  {
+    "variation_id": "1905338",
+    "title": "NM_000492.4(CFTR):c.3162T>A (p.His1054Gln)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Cystic fibrosis"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "H1054Q",
+    "gene_id": "CFTR",
+    "location": "00000000000117611603"
+  },
+  {
+    "variation_id": "1801954",
+    "title": "NM_000492.4(CFTR):c.1291A>G (p.Ser431Gly)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not specified",
+      "Cystic fibrosis",
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "S431G",
+    "gene_id": "CFTR",
+    "location": "00000000000117548722"
+  },
+  {
+    "variation_id": "1798499",
+    "title": "NM_000492.4(CFTR):c.298C>T (p.Leu100Phe)",
+    "significance": "Conflicting classifications of pathogenicity",
+    "search_class": "pathogenic",
+    "conditions": [
+      "CFTR-related disorder",
+      "Cystic fibrosis",
+      "Congenital bilateral aplasia of vas deferens from CFTR mutation",
+      "Cystic fibrosis"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "L100F",
+    "gene_id": "CFTR",
+    "location": "00000000000117530923"
+  },
+  {
+    "variation_id": "1796133",
+    "title": "NM_000492.4(CFTR):c.1115A>T (p.Gln372Leu)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Cystic fibrosis"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "Q372L",
+    "gene_id": "CFTR",
+    "location": "00000000000117540345"
+  },
+  {
+    "variation_id": "1779538",
+    "title": "NM_000492.4(CFTR):c.1759T>A (p.Phe587Ile)",
+    "significance": "Conflicting classifications of pathogenicity",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Cystic fibrosis",
+      "CFTR-related disorder"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "F587I",
+    "gene_id": "CFTR",
+    "location": "00000000000117590432"
+  },
+  {
+    "variation_id": "1773566",
+    "title": "NM_000492.4(CFTR):c.1480T>G (p.Phe494Val)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided",
+      "Cystic fibrosis"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "F494V",
+    "gene_id": "CFTR",
+    "location": "00000000000117559551"
+  },
+  {
+    "variation_id": "1773474",
+    "title": "NM_000492.4(CFTR):c.1039C>A (p.Arg347Ser)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Cystic fibrosis",
+      "not specified"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "R347S",
+    "gene_id": "CFTR",
+    "location": "00000000000117540269"
+  },
+  {
+    "variation_id": "1771535",
+    "title": "NM_000492.4(CFTR):c.1390A>C (p.Lys464Gln)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Cystic fibrosis",
+      "not specified"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "K464Q",
+    "gene_id": "CFTR",
+    "location": "00000000000117548821"
+  },
+  {
+    "variation_id": "1759484",
+    "title": "NM_000492.4(CFTR):c.754G>C (p.Ala252Pro)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Cystic fibrosis",
+      "Hereditary pancreatitis"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "A252P",
+    "gene_id": "CFTR",
+    "location": "00000000000117536558"
+  },
+  {
+    "variation_id": "1735323",
+    "title": "NM_000492.4(CFTR):c.3829A>G (p.Ile1277Val)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Bronchiectasis with or without elevated sweat chloride 1",
+      "Hereditary pancreatitis",
+      "Cystic fibrosis",
+      "Congenital bilateral aplasia of vas deferens from CFTR mutation",
+      "Cystic fibrosis"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "I1277V",
+    "gene_id": "CFTR",
+    "location": "00000000000117642549"
+  },
+  {
+    "variation_id": "1709997",
+    "title": "NM_000492.4(CFTR):c.44T>A (p.Leu15His)",
+    "significance": "Conflicting classifications of pathogenicity",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Congenital bilateral aplasia of vas deferens from CFTR mutation",
+      "Cystic fibrosis"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "L15H",
+    "gene_id": "CFTR",
+    "location": "00000000000117480138"
+  },
+  {
+    "variation_id": "1706052",
+    "title": "NM_000492.4(CFTR):c.3793G>A (p.Gly1265Arg)",
+    "significance": "Conflicting classifications of pathogenicity",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not specified",
+      "Cystic fibrosis"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "G1265R",
+    "gene_id": "CFTR",
+    "location": "00000000000117642513"
+  },
+  {
+    "variation_id": "1706004",
+    "title": "NM_000492.4(CFTR):c.221G>C (p.Arg74Pro)",
+    "significance": "Conflicting classifications of pathogenicity",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Cystic fibrosis"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "",
+    "gene_id": "CFTR",
+    "location": "00000000000117509090"
+  },
+  {
+    "variation_id": "1705991",
+    "title": "NM_000492.4(CFTR):c.1589T>A (p.Ile530Asn)",
+    "significance": "Conflicting classifications of pathogenicity",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not specified",
+      "Cystic fibrosis"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "",
+    "gene_id": "CFTR",
+    "location": "00000000000117587743"
+  },
+  {
+    "variation_id": "1705210",
+    "title": "NM_000492.4(CFTR):c.3352T>C (p.Ser1118Pro)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not specified",
+      "Cystic fibrosis"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "S1118P",
+    "gene_id": "CFTR",
+    "location": "00000000000117611793"
+  },
+  {
+    "variation_id": "1705126",
+    "title": "NM_000492.4(CFTR):c.4264C>T (p.Arg1422Trp)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided",
+      "not specified",
+      "Cystic fibrosis"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "R1422W",
+    "gene_id": "CFTR",
+    "location": "00000000000117666929"
+  },
+  {
+    "variation_id": "1704501",
+    "title": "NM_000492.4(CFTR):c.1744A>T (p.Thr582Ser)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not specified",
+      "Hereditary pancreatitis",
+      "Cystic fibrosis"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "T582S",
+    "gene_id": "CFTR",
+    "location": "00000000000117590417"
+  },
+  {
+    "variation_id": "1704257",
+    "title": "NM_000492.4(CFTR):c.296C>G (p.Pro99Arg)",
+    "significance": "Conflicting classifications of pathogenicity",
+    "search_class": "pathogenic",
+    "conditions": [
+      "CFTR-related disorder",
+      "Cystic fibrosis",
+      "not specified"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "P99R",
+    "gene_id": "CFTR",
+    "location": "00000000000117530921"
+  },
+  {
+    "variation_id": "1704256",
+    "title": "NM_000492.4(CFTR):c.433C>G (p.Leu145Val)",
+    "significance": "Conflicting classifications of pathogenicity",
+    "search_class": "pathogenic",
+    "conditions": [
+      "CFTR-related disorder",
+      "Cystic fibrosis",
+      "Cystic fibrosis"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "L145V",
+    "gene_id": "CFTR",
+    "location": "00000000000117531058"
+  },
+  {
+    "variation_id": "1685263",
+    "title": "NM_000492.4(CFTR):c.1066_1071del (p.Trp356_Ala357del)",
+    "significance": "Conflicting classifications of pathogenicity",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not specified",
+      "Hereditary pancreatitis"
+    ],
+    "molecular_consequence": [
+      "inframe_deletion"
+    ],
+    "protein_change": "",
+    "gene_id": "CFTR",
+    "location": "00000000000117540296"
+  },
+  {
+    "variation_id": "1518294",
+    "title": "NM_000492.4(CFTR):c.458G>A (p.Arg153Lys)",
+    "significance": "Conflicting classifications of pathogenicity",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided",
+      "Hereditary pancreatitis",
+      "Bronchiectasis with or without elevated sweat chloride 1",
+      "Cystic fibrosis",
+      "Congenital bilateral aplasia of vas deferens from CFTR mutation",
+      "Cystic fibrosis",
+      "Spermatogenic failure, Y-linked, 2"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "R153K",
+    "gene_id": "CFTR",
+    "location": "00000000000117531083"
+  },
+  {
+    "variation_id": "1474955",
+    "title": "NM_000492.4(CFTR):c.931T>C (p.Phe311Leu)",
+    "significance": "Likely pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Cystic fibrosis"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "F311L",
+    "gene_id": "CFTR",
+    "location": "00000000000117540161"
+  },
+  {
+    "variation_id": "1467947",
+    "title": "NM_000492.4(CFTR):c.377G>C (p.Gly126Ala)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not specified",
+      "Cystic fibrosis"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "G126A",
+    "gene_id": "CFTR",
+    "location": "00000000000117531002"
+  },
+  {
+    "variation_id": "1415535",
+    "title": "NM_000492.4(CFTR):c.313A>C (p.Ile105Leu)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Cystic fibrosis"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "I105L",
+    "gene_id": "CFTR",
+    "location": "00000000000117530938"
+  },
+  {
+    "variation_id": "1401284",
+    "title": "NM_000492.4(CFTR):c.2140G>T (p.Val714Leu)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Cystic fibrosis",
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "V714L",
+    "gene_id": "CFTR",
+    "location": "00000000000117592307"
+  },
+  {
+    "variation_id": "1397581",
+    "title": "NM_000492.4(CFTR):c.773G>A (p.Arg258Lys)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not specified",
+      "Cystic fibrosis"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "R258K",
+    "gene_id": "CFTR",
+    "location": "00000000000117536577"
+  },
+  {
+    "variation_id": "1392039",
+    "title": "NM_000492.4(CFTR):c.488A>T (p.Lys163Met)",
+    "significance": "Conflicting classifications of pathogenicity",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Cystic fibrosis"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "K163M",
+    "gene_id": "CFTR",
+    "location": "00000000000117531113"
+  },
+  {
+    "variation_id": "1333303",
+    "title": "NM_000492.4(CFTR):c.1652G>T (p.Gly551Val)",
+    "significance": "Likely pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Cystic fibrosis"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "G551V",
+    "gene_id": "CFTR",
+    "location": "00000000000117587806"
+  },
+  {
+    "variation_id": "1330059",
+    "title": "NM_000492.4(CFTR):c.1388G>A (p.Gly463Asp)",
+    "significance": "Conflicting classifications of pathogenicity",
+    "search_class": "pathogenic",
+    "conditions": [
+      "CFTR-related disorder",
+      "Cystic fibrosis",
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "G463D",
+    "gene_id": "CFTR",
+    "location": "00000000000117548819"
+  },
+  {
+    "variation_id": "1314072",
+    "title": "NM_000492.4(CFTR):c.841A>G (p.Met281Val)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided",
+      "Cystic fibrosis"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "M281V",
+    "gene_id": "CFTR",
+    "location": "00000000000117536645"
+  },
+  {
+    "variation_id": "1313140",
+    "title": "NM_000492.4(CFTR):c.361A>G (p.Ile121Val)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided",
+      "Cystic fibrosis"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "I121V",
+    "gene_id": "CFTR",
+    "location": "00000000000117530986"
+  },
+  {
+    "variation_id": "1313092",
+    "title": "NM_000492.4(CFTR):c.3485G>C (p.Arg1162Pro)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "R1162P",
+    "gene_id": "CFTR",
+    "location": "00000000000117627538"
+  },
+  {
+    "variation_id": "1312599",
+    "title": "NM_000492.4(CFTR):c.1126C>A (p.Gln376Lys)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided",
+      "Cystic fibrosis"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "Q376K",
+    "gene_id": "CFTR",
+    "location": "00000000000117542025"
+  },
+  {
+    "variation_id": "1303084",
+    "title": "NM_000492.4(CFTR):c.1546A>G (p.Arg516Gly)",
+    "significance": "Conflicting classifications of pathogenicity",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Cystic fibrosis",
+      "not specified",
+      "not provided",
+      "CFTR-related disorder"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "R516G",
+    "gene_id": "CFTR",
+    "location": "00000000000117559617"
+  },
+  {
+    "variation_id": "1301326",
+    "title": "NM_000492.4(CFTR):c.3254A>C (p.His1085Pro)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not specified",
+      "Cystic fibrosis"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "H1085P",
+    "gene_id": "CFTR",
+    "location": "00000000000117611695"
+  },
+  {
+    "variation_id": "1300164",
+    "title": "NM_000492.4(CFTR):c.580G>A (p.Gly194Arg)",
+    "significance": "Pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Cystic fibrosis"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "G194R",
+    "gene_id": "CFTR",
+    "location": "00000000000117535248"
+  },
+  {
+    "variation_id": "1055358",
+    "title": "NM_000492.4(CFTR):c.941G>C (p.Gly314Ala)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Cystic fibrosis"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "G314A",
+    "gene_id": "CFTR",
+    "location": "00000000000117540171"
+  },
+  {
+    "variation_id": "1052121",
+    "title": "NM_000492.4(CFTR):c.1502C>T (p.Thr501Ile)",
+    "significance": "Likely pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Cystic fibrosis"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "T501I",
+    "gene_id": "CFTR",
+    "location": "00000000000117559573"
+  },
+  {
+    "variation_id": "1051107",
+    "title": "NM_000492.4(CFTR):c.3239A>G (p.Lys1080Arg)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Cystic fibrosis",
+      "not specified"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "K1080R",
+    "gene_id": "CFTR",
+    "location": "00000000000117611680"
+  },
+  {
+    "variation_id": "1003660",
+    "title": "NM_000492.4(CFTR):c.3508C>T (p.Pro1170Ser)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided",
+      "Cystic fibrosis"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "P1170S",
+    "gene_id": "CFTR",
+    "location": "00000000000117627561"
+  },
+  {
+    "variation_id": "1002760",
+    "title": "NM_000492.4(CFTR):c.2929T>G (p.Ser977Ala)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Cystic fibrosis"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "S977A",
+    "gene_id": "CFTR",
+    "location": "00000000000117606694"
+  },
+  {
+    "variation_id": "994172",
+    "title": "NM_000492.4(CFTR):c.1715A>G (p.Asp572Gly)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Cystic fibrosis",
+      "not specified",
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "D572G",
+    "gene_id": "CFTR",
+    "location": "00000000000117590388"
+  },
+  {
+    "variation_id": "993348",
+    "title": "NM_000492.4(CFTR):c.295C>G (p.Pro99Ala)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Cystic fibrosis",
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "P99A",
+    "gene_id": "CFTR",
+    "location": "00000000000117530920"
+  },
+  {
+    "variation_id": "993219",
+    "title": "NM_000492.4(CFTR):c.3220T>C (p.Phe1074Leu)",
+    "significance": "Pathogenic/Likely pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "CFTR-related disorder",
+      "Cystic fibrosis",
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "F1074L",
+    "gene_id": "CFTR",
+    "location": "00000000000117611661"
+  },
+  {
+    "variation_id": "971487",
+    "title": "NM_000492.4(CFTR):c.3849G>C (p.Arg1283Ser)",
+    "significance": "Likely pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "CFTR-related disorder",
+      "Cystic fibrosis"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "R1283S",
+    "gene_id": "CFTR",
+    "location": "00000000000117642569"
+  },
+  {
+    "variation_id": "961121",
+    "title": "NM_000492.4(CFTR):c.264A>C (p.Leu88Phe)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided",
+      "Cystic fibrosis"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "L88F",
+    "gene_id": "CFTR",
+    "location": "00000000000117509133"
+  },
+  {
+    "variation_id": "955475",
+    "title": "NM_000492.4(CFTR):c.1675G>T (p.Ala559Ser)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Cystic fibrosis"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "A559S",
+    "gene_id": "CFTR",
+    "location": "00000000000117587829"
+  },
+  {
+    "variation_id": "951237",
+    "title": "NM_000492.4(CFTR):c.3406G>A (p.Ala1136Thr)",
+    "significance": "Conflicting classifications of pathogenicity",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided",
+      "Cystic fibrosis"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "A1136T",
+    "gene_id": "CFTR",
+    "location": "00000000000117614651"
+  },
+  {
+    "variation_id": "946044",
+    "title": "NM_000492.4(CFTR):c.260T>C (p.Phe87Ser)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided",
+      "not specified",
+      "Cystic fibrosis"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "F87S",
+    "gene_id": "CFTR",
+    "location": "00000000000117509129"
+  },
+  {
+    "variation_id": "942569",
+    "title": "NM_000492.4(CFTR):c.3674C>T (p.Ala1225Val)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not specified",
+      "Cystic fibrosis"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "A1225V",
+    "gene_id": "CFTR",
+    "location": "00000000000117627727"
+  },
+  {
+    "variation_id": "929222",
+    "title": "NM_000492.4(CFTR):c.3037C>T (p.Pro1013Ser)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Cystic fibrosis",
+      "not specified"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "P1013S",
+    "gene_id": "CFTR",
+    "location": "00000000000117610567"
+  },
+  {
+    "variation_id": "928981",
+    "title": "NM_000492.4(CFTR):c.1219G>A (p.Glu407Lys)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Cystic fibrosis",
+      "not specified",
+      "Bronchiectasis with or without elevated sweat chloride 1",
+      "Cystic fibrosis",
+      "Hereditary pancreatitis",
+      "Congenital bilateral aplasia of vas deferens from CFTR mutation"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "E407K",
+    "gene_id": "CFTR",
+    "location": "00000000000117548650"
+  },
+  {
+    "variation_id": "928496",
+    "title": "NM_000492.4(CFTR):c.2812G>T (p.Val938Leu)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Cystic fibrosis",
+      "not specified"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "V938L",
+    "gene_id": "CFTR",
+    "location": "00000000000117603686"
+  },
+  {
+    "variation_id": "917606",
+    "title": "NM_000492.4(CFTR):c.3134C>A (p.Ser1045Tyr)",
+    "significance": "Likely pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "CFTR-related disorder",
+      "Cystic fibrosis",
+      "Bronchiectasis with or without elevated sweat chloride 1"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "S1045Y",
+    "gene_id": "CFTR",
+    "location": "00000000000117610664"
+  },
+  {
+    "variation_id": "911313",
+    "title": "NM_000492.4(CFTR):c.1840G>A (p.Asp614Asn)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Cystic fibrosis",
+      "CFTR-related disorder"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "D614N",
+    "gene_id": "CFTR",
+    "location": "00000000000117592007"
+  },
+  {
+    "variation_id": "863689",
+    "title": "NM_000492.4(CFTR):c.1310G>A (p.Gly437Asp)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not specified",
+      "not provided",
+      "Cystic fibrosis"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "G437D",
+    "gene_id": "CFTR",
+    "location": "00000000000117548741"
+  },
+  {
+    "variation_id": "858501",
+    "title": "NM_000492.4(CFTR):c.487A>G (p.Lys163Glu)",
+    "significance": "Pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Cystic fibrosis"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "K163E",
+    "gene_id": "CFTR",
+    "location": "00000000000117531112"
+  },
+  {
+    "variation_id": "4847980",
+    "title": "NM_000492.4(CFTR):c.4250A>G (p.Glu1417Gly)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "not specified"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "E1417G",
+    "gene_id": "CFTR",
+    "location": "00000000000117666915"
+  },
+  {
+    "variation_id": "4847272",
+    "title": "NM_000492.4(CFTR):c.3409A>T (p.Met1137Leu)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "not specified"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "M1137L",
+    "gene_id": "CFTR",
+    "location": "00000000000117614654"
+  },
+  {
+    "variation_id": "4689723",
+    "title": "NM_000492.4(CFTR):c.38C>A (p.Ser13Tyr)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "not specified"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "S13Y",
+    "gene_id": "CFTR",
+    "location": "00000000000117480132"
+  },
+  {
+    "variation_id": "4689345",
+    "title": "NM_000492.4(CFTR):c.1136A>T (p.Glu379Val)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "not specified"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "E379V",
+    "gene_id": "CFTR",
+    "location": "00000000000117542035"
+  },
+  {
+    "variation_id": "4689179",
+    "title": "NM_000492.4(CFTR):c.1356G>C (p.Gln452His)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "not specified"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "Q452H",
+    "gene_id": "CFTR",
+    "location": "00000000000117548787"
+  },
+  {
+    "variation_id": "4688712",
+    "title": "NM_000492.4(CFTR):c.1488G>T (p.Trp496Cys)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "not specified"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "W496C",
+    "gene_id": "CFTR",
+    "location": "00000000000117559559"
+  },
+  {
+    "variation_id": "4688565",
+    "title": "NM_000492.4(CFTR):c.1693G>A (p.Asp565Asn)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "not specified"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "D565N",
+    "gene_id": "CFTR",
+    "location": "00000000000117590366"
+  },
+  {
+    "variation_id": "4687745",
+    "title": "NM_000492.4(CFTR):c.2977G>A (p.Asp993Asn)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "not specified"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "D993N",
+    "gene_id": "CFTR",
+    "location": "00000000000117606742"
+  },
+  {
+    "variation_id": "4687557",
+    "title": "NM_000492.4(CFTR):c.2174A>T (p.Glu725Val)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "not specified"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "E725V",
+    "gene_id": "CFTR",
+    "location": "00000000000117592341"
+  },
+  {
+    "variation_id": "4536698",
+    "title": "NM_000492.4(CFTR):c.3455A>G (p.Asp1152Gly)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "not specified"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "D1152G",
+    "gene_id": "CFTR",
+    "location": "00000000000117614700"
+  },
+  {
+    "variation_id": "4536643",
+    "title": "NM_000492.4(CFTR):c.1897C>G (p.Leu633Val)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "not specified"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "L633V",
+    "gene_id": "CFTR",
+    "location": "00000000000117592064"
+  },
+  {
+    "variation_id": "4536154",
+    "title": "NM_000492.4(CFTR):c.3411G>A (p.Met1137Ile)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "not specified"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "M1137I",
+    "gene_id": "CFTR",
+    "location": "00000000000117614656"
+  },
+  {
+    "variation_id": "4535794",
+    "title": "NM_000492.4(CFTR):c.2759T>G (p.Val920Gly)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "not specified"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "V920G",
+    "gene_id": "CFTR",
+    "location": "00000000000117603633"
+  },
+  {
+    "variation_id": "4535677",
+    "title": "NM_000492.4(CFTR):c.829T>C (p.Trp277Arg)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "not specified"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "W277R",
+    "gene_id": "CFTR",
+    "location": "00000000000117536633"
+  },
+  {
+    "variation_id": "4526121",
+    "title": "NM_000492.4(CFTR):c.3779T>G (p.Leu1260Arg)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "not specified"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "L1260R",
+    "gene_id": "CFTR",
+    "location": "00000000000117642499"
+  },
+  {
+    "variation_id": "4526116",
+    "title": "NM_000492.4(CFTR):c.2494T>G (p.Cys832Gly)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "not specified",
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "C832G",
+    "gene_id": "CFTR",
+    "location": "00000000000117594933"
+  },
+  {
+    "variation_id": "4525966",
+    "title": "NM_000492.4(CFTR):c.1695T>A (p.Asp565Glu)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "not specified",
+      "Cystic fibrosis"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "D565E",
+    "gene_id": "CFTR",
+    "location": "00000000000117590368"
+  },
+  {
+    "variation_id": "4525912",
+    "title": "NM_000492.4(CFTR):c.1774T>C (p.Cys592Arg)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "not specified"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "C592R",
+    "gene_id": "CFTR",
+    "location": "00000000000117591941"
+  },
+  {
+    "variation_id": "4525826",
+    "title": "NM_000492.4(CFTR):c.1079C>G (p.Thr360Arg)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "not specified"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "T360R",
+    "gene_id": "CFTR",
+    "location": "00000000000117540309"
+  },
+  {
+    "variation_id": "3907233",
+    "title": "NM_000492.4(CFTR):c.2732G>A (p.Ser911Asn)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "not specified"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "S911N",
+    "gene_id": "CFTR",
+    "location": "00000000000117603606"
+  },
+  {
+    "variation_id": "3907115",
+    "title": "NM_000492.4(CFTR):c.2174A>G (p.Glu725Gly)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "not specified"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "E725G",
+    "gene_id": "CFTR",
+    "location": "00000000000117592341"
+  },
+  {
+    "variation_id": "3907006",
+    "title": "NM_000492.4(CFTR):c.214G>A (p.Ala72Thr)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "not specified"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "A72T",
+    "gene_id": "CFTR",
+    "location": "00000000000117509083"
+  },
+  {
+    "variation_id": "3902254",
+    "title": "NM_000492.4(CFTR):c.2686A>G (p.Thr896Ala)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "not specified"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "T896A",
+    "gene_id": "CFTR",
+    "location": "00000000000117603560"
+  },
+  {
+    "variation_id": "3625850",
+    "title": "NM_000492.4(CFTR):c.1785G>T (p.Met595Ile)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Cystic fibrosis",
+      "not specified"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "M595I",
+    "gene_id": "CFTR",
+    "location": "00000000000117591952"
+  },
+  {
+    "variation_id": "3390562",
+    "title": "NM_000492.4(CFTR):c.146T>C (p.Leu49Pro)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "L49P",
+    "gene_id": "CFTR",
+    "location": "00000000000117504345"
+  },
+  {
+    "variation_id": "2751207",
+    "title": "NM_000492.4(CFTR):c.3418A>T (p.Met1140Leu)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Cystic fibrosis",
+      "not specified"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "M1140L",
+    "gene_id": "CFTR",
+    "location": "00000000000117614663"
+  },
+  {
+    "variation_id": "2691661",
+    "title": "NM_000492.4(CFTR):c.713C>T (p.Ala238Val)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Cystic fibrosis",
+      "not specified"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "A238V",
+    "gene_id": "CFTR",
+    "location": "00000000000117535381"
+  },
+  {
+    "variation_id": "2682994",
+    "title": "NM_000492.4(CFTR):c.1064C>T (p.Pro355Leu)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "not provided",
+      "Cystic fibrosis"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "P355L",
+    "gene_id": "CFTR",
+    "location": "00000000000117540294"
+  },
+  {
+    "variation_id": "2637646",
+    "title": "NM_000492.4(CFTR):c.1775G>A (p.Cys592Tyr)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Cystic fibrosis",
+      "not specified"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "C592Y",
+    "gene_id": "CFTR",
+    "location": "00000000000117591942"
+  },
+  {
+    "variation_id": "2581464",
+    "title": "NM_000492.4(CFTR):c.251A>G (p.Tyr84Cys)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "not provided",
+      "Cystic fibrosis",
+      "not specified"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "Y84C",
+    "gene_id": "CFTR",
+    "location": "00000000000117509120"
+  },
+  {
+    "variation_id": "2567873",
+    "title": "NM_000492.4(CFTR):c.418C>G (p.Pro140Ala)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "not specified",
+      "Cystic fibrosis"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "P140A",
+    "gene_id": "CFTR",
+    "location": "00000000000117531043"
+  },
+  {
+    "variation_id": "2562531",
+    "title": "NM_000492.4(CFTR):c.1999C>T (p.His667Tyr)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Cystic fibrosis",
+      "not specified"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "H667Y",
+    "gene_id": "CFTR",
+    "location": "00000000000117592166"
+  },
+  {
+    "variation_id": "2562522",
+    "title": "NM_000492.4(CFTR):c.1043T>C (p.Met348Thr)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "not specified",
+      "Cystic fibrosis"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "M348T",
+    "gene_id": "CFTR",
+    "location": "00000000000117540273"
+  },
+  {
+    "variation_id": "2562518",
+    "title": "NM_000492.4(CFTR):c.1625G>A (p.Gly542Glu)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Cystic fibrosis",
+      "not specified"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "G542E",
+    "gene_id": "CFTR",
+    "location": "00000000000117587779"
+  },
+  {
+    "variation_id": "2496643",
+    "title": "NM_000492.4(CFTR):c.3125A>G (p.Gln1042Arg)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "not specified",
+      "Cystic fibrosis"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "Q1042R",
+    "gene_id": "CFTR",
+    "location": "00000000000117610655"
+  },
+  {
+    "variation_id": "2447394",
+    "title": "NM_000492.4(CFTR):c.190A>G (p.Lys64Glu)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "not specified",
+      "Cystic fibrosis"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "K64E",
+    "gene_id": "CFTR",
+    "location": "00000000000117509059"
+  },
+  {
+    "variation_id": "2182436",
+    "title": "NM_000492.4(CFTR):c.2483A>G (p.Asp828Gly)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "not specified",
+      "Cystic fibrosis"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "D828G",
+    "gene_id": "CFTR",
+    "location": "00000000000117592650"
+  },
+  {
+    "variation_id": "2163734",
+    "title": "NM_000492.4(CFTR):c.2403C>G (p.Asn801Lys)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "not provided",
+      "Cystic fibrosis"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "N801K",
+    "gene_id": "CFTR",
+    "location": "00000000000117592570"
+  },
+  {
+    "variation_id": "2108240",
+    "title": "NM_000492.4(CFTR):c.4147A>G (p.Ile1383Val)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Cystic fibrosis"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "I1383V",
+    "gene_id": "CFTR",
+    "location": "00000000000117665469"
+  },
+  {
+    "variation_id": "2084320",
+    "title": "NM_000492.4(CFTR):c.1872C>A (p.Ser624Arg)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "not specified",
+      "Cystic fibrosis"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "S624R",
+    "gene_id": "CFTR",
+    "location": "00000000000117592039"
+  },
+  {
+    "variation_id": "2064880",
+    "title": "NM_000492.4(CFTR):c.1718C>G (p.Ser573Cys)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Cystic fibrosis",
+      "not specified"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "S573C",
+    "gene_id": "CFTR",
+    "location": "00000000000117590391"
+  },
+  {
+    "variation_id": "2055576",
+    "title": "NM_000492.4(CFTR):c.1846A>G (p.Ile616Val)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Cystic fibrosis"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "I616V",
+    "gene_id": "CFTR",
+    "location": "00000000000117592013"
+  },
+  {
+    "variation_id": "2046891",
+    "title": "NM_000492.4(CFTR):c.116A>C (p.Gln39Pro)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Cystic fibrosis"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "Q39P",
+    "gene_id": "CFTR",
+    "location": "00000000000117504315"
+  },
+  {
+    "variation_id": "2035365",
+    "title": "NM_000492.4(CFTR):c.580G>C (p.Gly194Arg)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Cystic fibrosis",
+      "not specified"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "G194R",
+    "gene_id": "CFTR",
+    "location": "00000000000117535248"
+  },
+  {
+    "variation_id": "2023689",
+    "title": "NM_000492.4(CFTR):c.131A>T (p.Asp44Val)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Cystic fibrosis",
+      "not specified"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "D44V",
+    "gene_id": "CFTR",
+    "location": "00000000000117504330"
+  },
+  {
+    "variation_id": "1982924",
+    "title": "NM_000492.4(CFTR):c.3980T>G (p.Val1327Gly)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "not specified",
+      "Cystic fibrosis"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "V1327G",
+    "gene_id": "CFTR",
+    "location": "00000000000117664704"
+  },
+  {
+    "variation_id": "1975732",
+    "title": "NM_000492.4(CFTR):c.860A>G (p.Asn287Ser)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "not provided",
+      "Cystic fibrosis"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "N287S",
+    "gene_id": "CFTR",
+    "location": "00000000000117536664"
+  },
+  {
+    "variation_id": "1948272",
+    "title": "NM_000492.4(CFTR):c.2881A>G (p.Met961Val)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Cystic fibrosis"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "M961V",
+    "gene_id": "CFTR",
+    "location": "00000000000117603755"
+  },
+  {
+    "variation_id": "1947367",
+    "title": "NM_000492.4(CFTR):c.2231A>C (p.Gln744Pro)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Cystic fibrosis"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "Q744P",
+    "gene_id": "CFTR",
+    "location": "00000000000117592398"
+  },
+  {
+    "variation_id": "1941560",
+    "title": "NM_000492.4(CFTR):c.1493T>C (p.Met498Thr)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "not provided",
+      "Cystic fibrosis"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "M498T",
+    "gene_id": "CFTR",
+    "location": "00000000000117559564"
+  },
+  {
+    "variation_id": "1897016",
+    "title": "NM_000492.4(CFTR):c.1346A>G (p.Glu449Gly)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "not specified",
+      "Cystic fibrosis"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "E449G",
+    "gene_id": "CFTR",
+    "location": "00000000000117548777"
+  },
+  {
+    "variation_id": "1896675",
+    "title": "NM_000492.4(CFTR):c.1153T>A (p.Tyr385Asn)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Cystic fibrosis"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "Y385N",
+    "gene_id": "CFTR",
+    "location": "00000000000117542052"
+  },
+  {
+    "variation_id": "1794686",
+    "title": "NM_000492.4(CFTR):c.2681A>G (p.Asn894Ser)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "not specified",
+      "not provided",
+      "Cystic fibrosis"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "N894S",
+    "gene_id": "CFTR",
+    "location": "00000000000117603555"
+  },
+  {
+    "variation_id": "1791516",
+    "title": "NM_000492.4(CFTR):c.2452T>G (p.Leu818Val)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Cystic fibrosis"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "L818V",
+    "gene_id": "CFTR",
+    "location": "00000000000117592619"
+  },
+  {
+    "variation_id": "1785748",
+    "title": "NM_000492.4(CFTR):c.1079C>T (p.Thr360Ile)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "not provided",
+      "Cystic fibrosis"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "T360I",
+    "gene_id": "CFTR",
+    "location": "00000000000117540309"
+  },
+  {
+    "variation_id": "1784454",
+    "title": "NM_000492.4(CFTR):c.2014G>A (p.Glu672Lys)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "not specified",
+      "Cystic fibrosis"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "E672K",
+    "gene_id": "CFTR",
+    "location": "00000000000117592181"
+  },
+  {
+    "variation_id": "1777639",
+    "title": "NM_000492.4(CFTR):c.1669T>A (p.Ser557Thr)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Cystic fibrosis",
+      "not specified"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "S557T",
+    "gene_id": "CFTR",
+    "location": "00000000000117587823"
+  },
+  {
+    "variation_id": "1775313",
+    "title": "NM_000492.4(CFTR):c.1563C>G (p.Ile521Met)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "not provided",
+      "Cystic fibrosis"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "I521M",
+    "gene_id": "CFTR",
+    "location": "00000000000117559634"
+  },
+  {
+    "variation_id": "1739976",
+    "title": "NM_000492.4(CFTR):c.4358G>A (p.Arg1453Gln)",
+    "significance": "Conflicting classifications of pathogenicity",
+    "search_class": "benign",
+    "conditions": [
+      "not provided",
+      "Cystic fibrosis"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "R1453Q",
+    "gene_id": "CFTR",
+    "location": "00000000000117667023"
+  },
+  {
+    "variation_id": "1737285",
+    "title": "NM_000492.4(CFTR):c.4040G>A (p.Ser1347Asn)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "not provided",
+      "Cystic fibrosis"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "S1347N",
+    "gene_id": "CFTR",
+    "location": "00000000000117664764"
+  },
+  {
+    "variation_id": "1736119",
+    "title": "NM_000492.4(CFTR):c.3910T>G (p.Leu1304Val)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Cystic fibrosis",
+      "not specified"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "L1304V",
+    "gene_id": "CFTR",
+    "location": "00000000000117652878"
+  },
+  {
+    "variation_id": "1734014",
+    "title": "NM_000492.4(CFTR):c.1150G>A (p.Glu384Lys)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Cystic fibrosis",
+      "not specified"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "E384K",
+    "gene_id": "CFTR",
+    "location": "00000000000117542049"
+  },
+  {
+    "variation_id": "1728049",
+    "title": "NM_000492.4(CFTR):c.112T>C (p.Tyr38His)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Cystic fibrosis",
+      "not specified"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "Y38H",
+    "gene_id": "CFTR",
+    "location": "00000000000117504311"
+  },
+  {
+    "variation_id": "1727284",
+    "title": "NM_000492.4(CFTR):c.3073G>T (p.Ala1025Ser)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "not specified",
+      "not provided",
+      "Cystic fibrosis"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "A1025S",
+    "gene_id": "CFTR",
+    "location": "00000000000117610603"
+  },
+  {
+    "variation_id": "1716614",
+    "title": "NM_000492.4(CFTR):c.40A>C (p.Lys14Gln)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Cystic fibrosis"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "K14Q",
+    "gene_id": "CFTR",
+    "location": "00000000000117480134"
+  },
+  {
+    "variation_id": "1706050",
+    "title": "NM_000492.4(CFTR):c.4220T>C (p.Met1407Thr)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "not specified",
+      "not provided",
+      "Cystic fibrosis"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "",
+    "gene_id": "CFTR",
+    "location": "00000000000117665542"
+  },
+  {
+    "variation_id": "1706045",
+    "title": "NM_000492.4(CFTR):c.1756A>G (p.Ile586Val)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "not specified",
+      "Cystic fibrosis"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "",
+    "gene_id": "CFTR",
+    "location": "00000000000117590429"
+  },
+  {
+    "variation_id": "1705987",
+    "title": "NM_000492.4(CFTR):c.1282C>G (p.Leu428Val)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Cystic fibrosis"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "",
+    "gene_id": "CFTR",
+    "location": "00000000000117548713"
+  },
+  {
+    "variation_id": "1697071",
+    "title": "NM_000492.4(CFTR):c.2723C>G (p.Thr908Ser)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "T908S",
+    "gene_id": "CFTR",
+    "location": "00000000000117603597"
+  },
+  {
+    "variation_id": "1686560",
+    "title": "NM_000492.4(CFTR):c.1614T>A (p.Asn538Lys)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "not specified",
+      "Cystic fibrosis"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "N538K",
+    "gene_id": "CFTR",
+    "location": "00000000000117587768"
+  },
+  {
+    "variation_id": "1521233",
+    "title": "NM_000492.4(CFTR):c.2992T>A (p.Leu998Ile)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "not specified",
+      "Cystic fibrosis"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "L998I",
+    "gene_id": "CFTR",
+    "location": "00000000000117610522"
+  },
+  {
+    "variation_id": "1502978",
+    "title": "NM_000492.4(CFTR):c.49T>C (p.Phe17Leu)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Cystic fibrosis"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "F17L",
+    "gene_id": "CFTR",
+    "location": "00000000000117480143"
+  },
+  {
+    "variation_id": "1493230",
+    "title": "NM_000492.4(CFTR):c.104C>T (p.Ser35Leu)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "not specified",
+      "Cystic fibrosis"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "S35L",
+    "gene_id": "CFTR",
+    "location": "00000000000117504303"
+  },
+  {
+    "variation_id": "1483976",
+    "title": "NM_000492.4(CFTR):c.2705G>C (p.Ser902Thr)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Cystic fibrosis"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "S902T",
+    "gene_id": "CFTR",
+    "location": "00000000000117603579"
+  },
+  {
+    "variation_id": "1479202",
+    "title": "NM_000492.4(CFTR):c.3676A>G (p.Ile1226Val)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Cystic fibrosis"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "I1226V",
+    "gene_id": "CFTR",
+    "location": "00000000000117627729"
+  },
+  {
+    "variation_id": "1478631",
+    "title": "NM_000492.4(CFTR):c.1299C>A (p.Phe433Leu)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Cystic fibrosis"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "F433L",
+    "gene_id": "CFTR",
+    "location": "00000000000117548730"
+  },
+  {
+    "variation_id": "1472698",
+    "title": "NM_000492.4(CFTR):c.3562T>C (p.Ser1188Pro)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Cystic fibrosis",
+      "not specified"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "S1188P",
+    "gene_id": "CFTR",
+    "location": "00000000000117627615"
+  },
+  {
+    "variation_id": "1442187",
+    "title": "NM_000492.4(CFTR):c.2205G>C (p.Arg735Ser)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Cystic fibrosis",
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "R735S",
+    "gene_id": "CFTR",
+    "location": "00000000000117592372"
+  },
+  {
+    "variation_id": "1440786",
+    "title": "NM_000492.4(CFTR):c.257T>A (p.Ile86Asn)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "not provided",
+      "Cystic fibrosis"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "I86N",
+    "gene_id": "CFTR",
+    "location": "00000000000117509126"
+  },
+  {
+    "variation_id": "1435170",
+    "title": "NM_000492.4(CFTR):c.2495G>A (p.Cys832Tyr)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Cystic fibrosis"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "C832Y",
+    "gene_id": "CFTR",
+    "location": "00000000000117594934"
+  },
+  {
+    "variation_id": "1429889",
+    "title": "NM_000492.4(CFTR):c.2113A>G (p.Ile705Val)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Cystic fibrosis",
+      "Bronchiectasis with or without elevated sweat chloride 1",
+      "Hereditary pancreatitis",
+      "Cystic fibrosis",
+      "Congenital bilateral aplasia of vas deferens from CFTR mutation"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "I705V",
+    "gene_id": "CFTR",
+    "location": "00000000000117592280"
+  },
+  {
+    "variation_id": "1429368",
+    "title": "NM_000492.4(CFTR):c.3529A>G (p.Lys1177Glu)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "not specified",
+      "Cystic fibrosis"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "K1177E",
+    "gene_id": "CFTR",
+    "location": "00000000000117627582"
+  },
+  {
+    "variation_id": "1422547",
+    "title": "NM_000492.4(CFTR):c.2531C>T (p.Thr844Ile)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "not specified",
+      "Cystic fibrosis"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "T844I",
+    "gene_id": "CFTR",
+    "location": "00000000000117594970"
+  },
+  {
+    "variation_id": "1408121",
+    "title": "NM_000492.4(CFTR):c.142A>C (p.Asn48His)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "not specified",
+      "Cystic fibrosis"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "N48H",
+    "gene_id": "CFTR",
+    "location": "00000000000117504341"
+  },
+  {
+    "variation_id": "1402955",
+    "title": "NM_000492.4(CFTR):c.4163T>C (p.Leu1388Pro)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Cystic fibrosis"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "L1388P",
+    "gene_id": "CFTR",
+    "location": "00000000000117665485"
+  },
+  {
+    "variation_id": "1401895",
+    "title": "NM_000492.4(CFTR):c.757G>A (p.Gly253Arg)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "not specified",
+      "not provided",
+      "Cystic fibrosis"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "G253R",
+    "gene_id": "CFTR",
+    "location": "00000000000117536561"
+  },
+  {
+    "variation_id": "1398500",
+    "title": "NM_000492.4(CFTR):c.3511A>G (p.Thr1171Ala)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Cystic fibrosis"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "T1171A",
+    "gene_id": "CFTR",
+    "location": "00000000000117627564"
+  },
+  {
+    "variation_id": "1375494",
+    "title": "NM_000492.4(CFTR):c.1992G>T (p.Glu664Asp)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Cystic fibrosis"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "E664D",
+    "gene_id": "CFTR",
+    "location": "00000000000117592159"
+  },
+  {
+    "variation_id": "1371238",
+    "title": "NM_000492.4(CFTR):c.3385G>C (p.Val1129Leu)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Cystic fibrosis"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "V1129L",
+    "gene_id": "CFTR",
+    "location": "00000000000117614630"
+  }
+]

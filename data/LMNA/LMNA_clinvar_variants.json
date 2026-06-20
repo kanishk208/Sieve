@@ -1,0 +1,3968 @@
+[
+  {
+    "variation_id": "4799970",
+    "title": "NM_170707.4(LMNA):c.1589T>A (p.Leu530His)",
+    "significance": "Pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Charcot-Marie-Tooth disease type 2"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "L322H, L344H, L418H, L431H, L449H, L530H",
+    "gene_id": "LMNA",
+    "location": "00000000000156137213"
+  },
+  {
+    "variation_id": "4799959",
+    "title": "NM_170707.4(LMNA):c.862G>A (p.Ala288Thr)",
+    "significance": "Likely pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Charcot-Marie-Tooth disease type 2"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "synonymous variant"
+    ],
+    "protein_change": "A102T, A176T, A189T, A207T, A288T",
+    "gene_id": "LMNA",
+    "location": "00000000000156135238"
+  },
+  {
+    "variation_id": "4799958",
+    "title": "NM_170707.4(LMNA):c.496C>G (p.Arg166Gly)",
+    "significance": "Likely pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Charcot-Marie-Tooth disease type 2"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "5 prime UTR variant",
+      "intron variant"
+    ],
+    "protein_change": "R166G, R54G, R67G, R85G",
+    "gene_id": "LMNA",
+    "location": "00000000000156130756"
+  },
+  {
+    "variation_id": "4799953",
+    "title": "NM_170707.4(LMNA):c.253C>T (p.Leu85Phe)",
+    "significance": "Likely pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Charcot-Marie-Tooth disease type 2"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "5 prime UTR variant",
+      "intron variant"
+    ],
+    "protein_change": "L85F",
+    "gene_id": "LMNA",
+    "location": "00000000000156115171"
+  },
+  {
+    "variation_id": "4772040",
+    "title": "NM_170707.4(LMNA):c.1364G>T (p.Arg455Leu)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Charcot-Marie-Tooth disease type 2"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "R247L, R343L, R269L, R356L, R455L, R374L",
+    "gene_id": "LMNA",
+    "location": "00000000000156136420"
+  },
+  {
+    "variation_id": "4764652",
+    "title": "NM_170707.4(LMNA):c.566G>C (p.Arg189Pro)",
+    "significance": "Pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Charcot-Marie-Tooth disease type 2"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "5 prime UTR variant"
+    ],
+    "protein_change": "R108P, R189P, R3P, R77P, R90P",
+    "gene_id": "LMNA",
+    "location": "00000000000156134455"
+  },
+  {
+    "variation_id": "4763748",
+    "title": "NM_170707.4(LMNA):c.1127A>G (p.Tyr376Cys)",
+    "significance": "Pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Charcot-Marie-Tooth disease type 2"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "Y168C, Y190C, Y277C, Y295C, Y376C, Y264C",
+    "gene_id": "LMNA",
+    "location": "00000000000156136091"
+  },
+  {
+    "variation_id": "4685013",
+    "title": "NM_170707.4(LMNA):c.547C>A (p.Leu183Ile)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "5 prime UTR variant"
+    ],
+    "protein_change": "L102I, L183I, L71I, L84I",
+    "gene_id": "LMNA",
+    "location": "00000000000156134436"
+  },
+  {
+    "variation_id": "4079206",
+    "title": "NM_170707.4(LMNA):c.134A>T (p.Tyr45Phe)",
+    "significance": "Conflicting classifications of pathogenicity",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Charcot-Marie-Tooth disease type 2",
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "5 prime UTR variant",
+      "intron variant"
+    ],
+    "protein_change": "Y45F",
+    "gene_id": "LMNA",
+    "location": "00000000000156115052"
+  },
+  {
+    "variation_id": "4071710",
+    "title": "NM_170707.4(LMNA):c.357-3790A>G",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "5 prime UTR variant",
+      "intron variant"
+    ],
+    "protein_change": "N9D",
+    "gene_id": "LMNA",
+    "location": "00000000000156126827"
+  },
+  {
+    "variation_id": "3907369",
+    "title": "NM_170707.4(LMNA):c.184C>A (p.Arg62Ser)",
+    "significance": "Pathogenic/Likely pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Primary familial dilated cardiomyopathy",
+      "Charcot-Marie-Tooth disease type 2"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "intron variant",
+      "5 prime UTR variant"
+    ],
+    "protein_change": "R62S",
+    "gene_id": "LMNA",
+    "location": "00000000000156115102"
+  },
+  {
+    "variation_id": "3899356",
+    "title": "NM_170707.4(LMNA):c.175C>G (p.Leu59Val)",
+    "significance": "Likely pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Hutchinson-Gilford syndrome"
+    ],
+    "molecular_consequence": [
+      "intron variant",
+      "missense variant",
+      "5 prime UTR variant"
+    ],
+    "protein_change": "L59V",
+    "gene_id": "LMNA",
+    "location": "00000000000156115093"
+  },
+  {
+    "variation_id": "3776306",
+    "title": "NM_170707.4(LMNA):c.1175del (p.Ser392fs)",
+    "significance": "Likely pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Dilated cardiomyopathy 1D"
+    ],
+    "molecular_consequence": [
+      "frameshift variant"
+    ],
+    "protein_change": "S184fs, S206fs, S280fs, S293fs, S311fs, S392fs",
+    "gene_id": "LMNA",
+    "location": "00000000000156136231"
+  },
+  {
+    "variation_id": "3775011",
+    "title": "NM_170707.4(LMNA):c.1132A>C (p.Lys378Gln)",
+    "significance": "Likely pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Dilated cardiomyopathy 1A"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "K170Q, K192Q, K266Q, K279Q, K297Q, K378Q",
+    "gene_id": "LMNA",
+    "location": "00000000000156136096"
+  },
+  {
+    "variation_id": "3774417",
+    "title": "NM_170707.4(LMNA):c.1519A>G (p.Ser507Gly)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Cardiomyopathy",
+      "Dilated cardiomyopathy 1A"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "S299G, S321G, S395G, S408G, S426G, S507G",
+    "gene_id": "LMNA",
+    "location": "00000000000156137143"
+  },
+  {
+    "variation_id": "3720250",
+    "title": "NM_170707.4(LMNA):c.1058A>G (p.Gln353Arg)",
+    "significance": "Conflicting classifications of pathogenicity",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Charcot-Marie-Tooth disease type 2",
+      "Cardiovascular phenotype"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "Q145R, Q272R, Q353R, Q241R, Q254R, Q167R",
+    "gene_id": "LMNA",
+    "location": "00000000000156136022"
+  },
+  {
+    "variation_id": "3689505",
+    "title": "NM_170707.4(LMNA):c.991C>G (p.Arg331Gly)",
+    "significance": "Likely pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Charcot-Marie-Tooth disease type 2"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "R145G, R232G, R250G, R219G, R123G, R331G",
+    "gene_id": "LMNA",
+    "location": "00000000000156135955"
+  },
+  {
+    "variation_id": "3683466",
+    "title": "NM_170707.4(LMNA):c.833C>T (p.Ala278Val)",
+    "significance": "Likely pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Charcot-Marie-Tooth disease type 2"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "synonymous variant"
+    ],
+    "protein_change": "A197V, A278V, A166V, A179V, A92V",
+    "gene_id": "LMNA",
+    "location": "00000000000156135209"
+  },
+  {
+    "variation_id": "3682231",
+    "title": "NM_170707.4(LMNA):c.271A>C (p.Thr91Pro)",
+    "significance": "Conflicting classifications of pathogenicity",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Charcot-Marie-Tooth disease type 2",
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "intron variant",
+      "5 prime UTR variant"
+    ],
+    "protein_change": "T91P",
+    "gene_id": "LMNA",
+    "location": "00000000000156115189"
+  },
+  {
+    "variation_id": "3677001",
+    "title": "NM_170707.4(LMNA):c.1110C>A (p.Asp370Glu)",
+    "significance": "Pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Charcot-Marie-Tooth disease type 2"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "D162E, D271E, D258E, D184E, D370E, D289E",
+    "gene_id": "LMNA",
+    "location": "00000000000156136074"
+  },
+  {
+    "variation_id": "3633636",
+    "title": "NM_170707.4(LMNA):c.1336G>A (p.Asp446Asn)",
+    "significance": "Likely pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Charcot-Marie-Tooth disease type 2"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "D334N, D347N, D260N, D238N, D365N, D446N",
+    "gene_id": "LMNA",
+    "location": "00000000000156136392"
+  },
+  {
+    "variation_id": "3633630",
+    "title": "NM_170707.4(LMNA):c.746G>C (p.Arg249Pro)",
+    "significance": "Likely pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Charcot-Marie-Tooth disease type 2"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "R168P, R249P, G28R, R137P, R63P, R150P",
+    "gene_id": "LMNA",
+    "location": "00000000000156134911"
+  },
+  {
+    "variation_id": "3633629",
+    "title": "NM_170707.4(LMNA):c.689A>C (p.Asp230Ala)",
+    "significance": "Pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Charcot-Marie-Tooth disease type 2"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "D131A, D118A, D230A, D44A, D149A, T9P",
+    "gene_id": "LMNA",
+    "location": "00000000000156134854"
+  },
+  {
+    "variation_id": "3633621",
+    "title": "NM_170707.4(LMNA):c.29C>G (p.Thr10Ser)",
+    "significance": "Likely pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Charcot-Marie-Tooth disease type 2"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "5 prime UTR variant",
+      "intron variant"
+    ],
+    "protein_change": "T10S",
+    "gene_id": "LMNA",
+    "location": "00000000000156114947"
+  },
+  {
+    "variation_id": "3628279",
+    "title": "NM_005572.4(LMNA):c.1714C>G (p.Arg572Gly)",
+    "significance": "Conflicting classifications of pathogenicity",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Charcot-Marie-Tooth disease type 2",
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "intron variant"
+    ],
+    "protein_change": "R386G, R460G, R491G, R572G",
+    "gene_id": "LMNA",
+    "location": "00000000000156137759"
+  },
+  {
+    "variation_id": "3613893",
+    "title": "NM_170707.4(LMNA):c.547C>T (p.Leu183Phe)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Charcot-Marie-Tooth disease type 2",
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "5 prime UTR variant"
+    ],
+    "protein_change": "L102F, L183F, L71F, L84F",
+    "gene_id": "LMNA",
+    "location": "00000000000156134436"
+  },
+  {
+    "variation_id": "3612170",
+    "title": "NM_170707.4(LMNA):c.28A>T (p.Thr10Ser)",
+    "significance": "Likely pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Charcot-Marie-Tooth disease type 2"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "5 prime UTR variant",
+      "intron variant"
+    ],
+    "protein_change": "T10S",
+    "gene_id": "LMNA",
+    "location": "00000000000156114946"
+  },
+  {
+    "variation_id": "3387014",
+    "title": "NM_170707.4(LMNA):c.1551G>T (p.Gln517His)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Primary dilated cardiomyopathy"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "Q309H, Q331H, Q405H, Q418H, Q436H, Q517H",
+    "gene_id": "LMNA",
+    "location": "00000000000156137175"
+  },
+  {
+    "variation_id": "3376670",
+    "title": "NM_170707.4(LMNA):c.751del (p.Gln251fs)",
+    "significance": "Pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Dilated cardiomyopathy 1A"
+    ],
+    "molecular_consequence": [
+      "frameshift variant"
+    ],
+    "protein_change": "Q139fs, Q152fs, Q170fs, Q251fs, Q65fs, S30fs",
+    "gene_id": "LMNA",
+    "location": "00000000000156134914"
+  },
+  {
+    "variation_id": "3369814",
+    "title": "NM_170707.4(LMNA):c.921C>A (p.Ser307Arg)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "A86D, S121R, S195R, S208R, S226R, S307R",
+    "gene_id": "LMNA",
+    "location": "00000000000156135297"
+  },
+  {
+    "variation_id": "3364806",
+    "title": "NM_170707.4(LMNA):c.1832T>C (p.Ile611Thr)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "intron variant"
+    ],
+    "protein_change": "I403T, I425T, I499T, I512T, I530T, I581T, I611T",
+    "gene_id": "LMNA",
+    "location": "00000000000156138621"
+  },
+  {
+    "variation_id": "3340360",
+    "title": "NM_170707.4(LMNA):c.161C>A (p.Thr54Lys)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Cardiovascular phenotype",
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "5 prime UTR variant",
+      "intron variant"
+    ],
+    "protein_change": "T54K",
+    "gene_id": "LMNA",
+    "location": "00000000000156115079"
+  },
+  {
+    "variation_id": "3338744",
+    "title": "NM_170707.4(LMNA):c.1067T>C (p.Leu356Pro)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "L148P, L170P, L244P, L257P, L275P, L356P",
+    "gene_id": "LMNA",
+    "location": "00000000000156136031"
+  },
+  {
+    "variation_id": "3074004",
+    "title": "NM_170707.4(LMNA):c.1367A>G (p.Asn456Ser)",
+    "significance": "Conflicting classifications of pathogenicity",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Charcot-Marie-Tooth disease type 2",
+      "Cardiovascular phenotype",
+      "Cardiomyopathy",
+      "Primary dilated cardiomyopathy"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "N248S, N270S, N344S, N357S, N375S, N456S",
+    "gene_id": "LMNA",
+    "location": "00000000000156136423"
+  },
+  {
+    "variation_id": "3068627",
+    "title": "NM_170707.4(LMNA):c.174del (p.Leu59fs)",
+    "significance": "Pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Dilated cardiomyopathy 1A",
+      "Primary dilated cardiomyopathy"
+    ],
+    "molecular_consequence": [
+      "frameshift variant",
+      "5 prime UTR variant",
+      "intron variant"
+    ],
+    "protein_change": "L59fs",
+    "gene_id": "LMNA",
+    "location": "00000000000156115090"
+  },
+  {
+    "variation_id": "2974892",
+    "title": "NM_170707.4(LMNA):c.1138T>A (p.Leu380Met)",
+    "significance": "Likely pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Charcot-Marie-Tooth disease type 2"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "L268M, L281M, L299M, L380M, L172M, L194M",
+    "gene_id": "LMNA",
+    "location": "00000000000156136102"
+  },
+  {
+    "variation_id": "2963675",
+    "title": "NM_170707.4(LMNA):c.1625A>G (p.Lys542Arg)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Primary dilated cardiomyopathy",
+      "Charcot-Marie-Tooth disease type 2"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "intron variant"
+    ],
+    "protein_change": "K430R, K461R, K334R, K356R, K443R, K542R",
+    "gene_id": "LMNA",
+    "location": "00000000000156137670"
+  },
+  {
+    "variation_id": "2873499",
+    "title": "NM_170707.4(LMNA):c.143G>A (p.Arg48His)",
+    "significance": "Likely pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Charcot-Marie-Tooth disease type 2"
+    ],
+    "molecular_consequence": [
+      "intron variant",
+      "missense variant",
+      "5 prime UTR variant"
+    ],
+    "protein_change": "R48H",
+    "gene_id": "LMNA",
+    "location": "00000000000156115061"
+  },
+  {
+    "variation_id": "2860240",
+    "title": "NM_170707.4(LMNA):c.1046G>A (p.Arg349Gln)",
+    "significance": "Conflicting classifications of pathogenicity",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Primary dilated cardiomyopathy",
+      "Dilated cardiomyopathy 1A",
+      "Emery-Dreifuss muscular dystrophy 3, autosomal recessive",
+      "Congenital muscular dystrophy due to LMNA mutation",
+      "Restrictive dermopathy 2",
+      "Familial partial lipodystrophy, Dunnigan type",
+      "Heart-hand syndrome, Slovenian type",
+      "Dilated cardiomyopathy-hypergonadotropic hypogonadism syndrome",
+      "Hutchinson-Gilford syndrome",
+      "Mandibuloacral dysplasia with type A lipodystrophy",
+      "Emery-Dreifuss muscular dystrophy 2, autosomal dominant",
+      "Charcot-Marie-Tooth disease type 2B1",
+      "Charcot-Marie-Tooth disease type 2"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "R141Q, R163Q, R237Q, R250Q, R268Q, R349Q",
+    "gene_id": "LMNA",
+    "location": "00000000000156136010"
+  },
+  {
+    "variation_id": "2829435",
+    "title": "NM_170707.4(LMNA):c.176T>A (p.Leu59Gln)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Charcot-Marie-Tooth disease type 2"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "5 prime UTR variant",
+      "intron variant"
+    ],
+    "protein_change": "L59Q",
+    "gene_id": "LMNA",
+    "location": "00000000000156115094"
+  },
+  {
+    "variation_id": "2776047",
+    "title": "NM_170707.4(LMNA):c.725C>A (p.Ala242Glu)",
+    "significance": "Likely pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Charcot-Marie-Tooth disease type 2"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "synonymous variant"
+    ],
+    "protein_change": "A242E, A130E, A143E, A56E, A161E",
+    "gene_id": "LMNA",
+    "location": "00000000000156134890"
+  },
+  {
+    "variation_id": "2771336",
+    "title": "NM_170707.4(LMNA):c.455T>C (p.Leu152Pro)",
+    "significance": "Conflicting classifications of pathogenicity",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Charcot-Marie-Tooth disease type 2",
+      "Cardiovascular phenotype"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "5 prime UTR variant",
+      "intron variant"
+    ],
+    "protein_change": "L152P, L53P, L40P, L71P",
+    "gene_id": "LMNA",
+    "location": "00000000000156130715"
+  },
+  {
+    "variation_id": "2759749",
+    "title": "NM_170707.4(LMNA):c.827A>C (p.Gln276Pro)",
+    "significance": "Pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Charcot-Marie-Tooth disease type 2"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "Q164P, Q276P, Q195P, S55R, Q177P, Q90P",
+    "gene_id": "LMNA",
+    "location": "00000000000156135203"
+  },
+  {
+    "variation_id": "2756520",
+    "title": "NM_170707.4(LMNA):c.74G>A (p.Arg25His)",
+    "significance": "Likely pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Dilated cardiomyopathy 1A",
+      "Charcot-Marie-Tooth disease type 2"
+    ],
+    "molecular_consequence": [
+      "intron variant",
+      "missense variant",
+      "5 prime UTR variant"
+    ],
+    "protein_change": "R25H",
+    "gene_id": "LMNA",
+    "location": "00000000000156114992"
+  },
+  {
+    "variation_id": "2734000",
+    "title": "NM_170707.4(LMNA):c.1560G>T (p.Trp520Cys)",
+    "significance": "Likely pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Charcot-Marie-Tooth disease type 2"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "W439C, W520C, W334C, W421C, W312C, W408C",
+    "gene_id": "LMNA",
+    "location": "00000000000156137184"
+  },
+  {
+    "variation_id": "2733998",
+    "title": "NM_170707.4(LMNA):c.1124C>G (p.Ala375Gly)",
+    "significance": "Pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Charcot-Marie-Tooth disease type 2"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "A276G, A167G, A189G, A263G, A375G, A294G",
+    "gene_id": "LMNA",
+    "location": "00000000000156136088"
+  },
+  {
+    "variation_id": "2733997",
+    "title": "NM_170707.4(LMNA):c.778A>G (p.Lys260Glu)",
+    "significance": "Conflicting classifications of pathogenicity",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Emery-Dreifuss muscular dystrophy 2, autosomal dominant",
+      "Charcot-Marie-Tooth disease type 2"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "I38M, K179E, K260E, K148E, K74E, K161E",
+    "gene_id": "LMNA",
+    "location": "00000000000156134943"
+  },
+  {
+    "variation_id": "2733992",
+    "title": "NM_170707.4(LMNA):c.397C>G (p.Arg133Gly)",
+    "significance": "Likely pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Charcot-Marie-Tooth disease type 2"
+    ],
+    "molecular_consequence": [
+      "5 prime UTR variant",
+      "missense variant",
+      "intron variant"
+    ],
+    "protein_change": "R34G, R52G, R21G, R133G",
+    "gene_id": "LMNA",
+    "location": "00000000000156130657"
+  },
+  {
+    "variation_id": "2733990",
+    "title": "NM_170707.4(LMNA):c.121C>T (p.Arg41Cys)",
+    "significance": "Pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Charcot-Marie-Tooth disease type 2"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "5 prime UTR variant",
+      "intron variant"
+    ],
+    "protein_change": "R41C",
+    "gene_id": "LMNA",
+    "location": "00000000000156115039"
+  },
+  {
+    "variation_id": "2722945",
+    "title": "NM_170707.4(LMNA):c.179G>A (p.Arg60His)",
+    "significance": "Conflicting classifications of pathogenicity",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Charcot-Marie-Tooth disease type 2",
+      "Familial partial lipodystrophy, Dunnigan type"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "5 prime UTR variant",
+      "intron variant"
+    ],
+    "protein_change": "R60H",
+    "gene_id": "LMNA",
+    "location": "00000000000156115097"
+  },
+  {
+    "variation_id": "2709822",
+    "title": "NM_170707.4(LMNA):c.734T>A (p.Leu245Gln)",
+    "significance": "Likely pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Charcot-Marie-Tooth disease type 2"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "L59Q, L133Q, L146Q, C24S, L245Q, L164Q",
+    "gene_id": "LMNA",
+    "location": "00000000000156134899"
+  },
+  {
+    "variation_id": "2705789",
+    "title": "NM_170707.4(LMNA):c.1750C>A (p.Arg584Ser)",
+    "significance": "Conflicting classifications of pathogenicity",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Charcot-Marie-Tooth disease type 2",
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "R503S, R376S, R398S, R472S, R554S, R584S, R485S",
+    "gene_id": "LMNA",
+    "location": "00000000000156138539"
+  },
+  {
+    "variation_id": "2671668",
+    "title": "NM_170707.4(LMNA):c.365A>G (p.Lys122Arg)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Mandibuloacral dysplasia with type A lipodystrophy"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "5 prime UTR variant",
+      "intron variant"
+    ],
+    "protein_change": "K10R, K122R, K23R, K41R",
+    "gene_id": "LMNA",
+    "location": "00000000000156130625"
+  },
+  {
+    "variation_id": "2571950",
+    "title": "NM_170707.4(LMNA):c.139G>T (p.Asp47Tyr)",
+    "significance": "Conflicting classifications of pathogenicity",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided",
+      "Familial partial lipodystrophy, Dunnigan type"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "5 prime UTR variant",
+      "intron variant"
+    ],
+    "protein_change": "D47Y",
+    "gene_id": "LMNA",
+    "location": "00000000000156115057"
+  },
+  {
+    "variation_id": "2567287",
+    "title": "NM_170707.4(LMNA):c.31C>T (p.Arg11Cys)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Cardiomyopathy",
+      "Cardiovascular phenotype",
+      "Charcot-Marie-Tooth disease type 2",
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "intron variant",
+      "5 prime UTR variant"
+    ],
+    "protein_change": "R11C",
+    "gene_id": "LMNA",
+    "location": "00000000000156114949"
+  },
+  {
+    "variation_id": "2504491",
+    "title": "NM_170707.4(LMNA):c.1070A>G (p.Asp357Gly)",
+    "significance": "Conflicting classifications of pathogenicity",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided",
+      "Charcot-Marie-Tooth disease type 2"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "D149G, D171G, D245G, D258G, D276G, D357G",
+    "gene_id": "LMNA",
+    "location": "00000000000156136034"
+  },
+  {
+    "variation_id": "2502156",
+    "title": "NM_170707.4(LMNA):c.872A>T (p.Glu291Val)",
+    "significance": "Likely pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Dilated cardiomyopathy 1A"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "E105V, E179V, E192V, E210V, E291V, S70C",
+    "gene_id": "LMNA",
+    "location": "00000000000156135248"
+  },
+  {
+    "variation_id": "2499769",
+    "title": "NM_170707.4(LMNA):c.1109A>G (p.Asp370Gly)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "D162G, D184G, D258G, D271G, D289G, D370G",
+    "gene_id": "LMNA",
+    "location": "00000000000156136073"
+  },
+  {
+    "variation_id": "2433478",
+    "title": "NM_170707.4(LMNA):c.148C>G (p.Arg50Gly)",
+    "significance": "Conflicting classifications of pathogenicity",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided",
+      "Charcot-Marie-Tooth disease type 2"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "R50G",
+    "gene_id": "LMNA",
+    "location": "00000000000156115066"
+  },
+  {
+    "variation_id": "2433467",
+    "title": "NM_170707.4(LMNA):c.617T>C (p.Phe206Ser)",
+    "significance": "Conflicting classifications of pathogenicity",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided",
+      "Charcot-Marie-Tooth disease type 2"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "F107S, F125S, F206S, F20S, F94S",
+    "gene_id": "LMNA",
+    "location": "00000000000156134506"
+  },
+  {
+    "variation_id": "2413543",
+    "title": "NM_170707.4(LMNA):c.674G>C (p.Arg225Pro)",
+    "significance": "Likely pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Charcot-Marie-Tooth disease type 2"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "D4H, R113P, R126P, R144P, R225P, R39P",
+    "gene_id": "LMNA",
+    "location": "00000000000156134839"
+  },
+  {
+    "variation_id": "2202857",
+    "title": "NM_170707.4(LMNA):c.115A>G (p.Asn39Asp)",
+    "significance": "Likely pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Congenital muscular dystrophy due to LMNA mutation",
+      "Charcot-Marie-Tooth disease type 2"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "N39D",
+    "gene_id": "LMNA",
+    "location": "00000000000156115033"
+  },
+  {
+    "variation_id": "2189588",
+    "title": "NM_170707.4(LMNA):c.1886T>G (p.Val629Gly)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided",
+      "Primary dilated cardiomyopathy",
+      "Charcot-Marie-Tooth disease type 2"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "intron variant"
+    ],
+    "protein_change": "V443G, V530G, V629G, V517G, V599G, V421G, V548G",
+    "gene_id": "LMNA",
+    "location": "00000000000156138675"
+  },
+  {
+    "variation_id": "2171638",
+    "title": "NM_170707.4(LMNA):c.356G>A (p.Arg119His)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Charcot-Marie-Tooth disease type 2",
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "R119H",
+    "gene_id": "LMNA",
+    "location": "00000000000156115274"
+  },
+  {
+    "variation_id": "2159261",
+    "title": "NM_170707.4(LMNA):c.893G>A (p.Arg298His)",
+    "significance": "Conflicting classifications of pathogenicity",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Charcot-Marie-Tooth disease type 2",
+      "not provided",
+      "Cardiomyopathy",
+      "Primary dilated cardiomyopathy"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "A77T, R217H, R112H, R199H, R186H, R298H",
+    "gene_id": "LMNA",
+    "location": "00000000000156135269"
+  },
+  {
+    "variation_id": "2151903",
+    "title": "NM_170707.4(LMNA):c.431A>C (p.Lys144Thr)",
+    "significance": "Pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Charcot-Marie-Tooth disease type 2"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "K63T, K32T, K45T, K144T",
+    "gene_id": "LMNA",
+    "location": "00000000000156130691"
+  },
+  {
+    "variation_id": "2136172",
+    "title": "NM_170707.4(LMNA):c.445A>C (p.Ser149Arg)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "S50R, S149R, S37R, S68R",
+    "gene_id": "LMNA",
+    "location": "00000000000156130705"
+  },
+  {
+    "variation_id": "2098083",
+    "title": "NM_170707.4(LMNA):c.317T>C (p.Leu106Pro)",
+    "significance": "Pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Charcot-Marie-Tooth disease type 2",
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "L106P",
+    "gene_id": "LMNA",
+    "location": "00000000000156115235"
+  },
+  {
+    "variation_id": "2098082",
+    "title": "NM_170707.4(LMNA):c.117T>A (p.Asn39Lys)",
+    "significance": "Pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Charcot-Marie-Tooth disease type 2"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "N39K",
+    "gene_id": "LMNA",
+    "location": "00000000000156115035"
+  },
+  {
+    "variation_id": "2091332",
+    "title": "NM_170707.4(LMNA):c.1160T>A (p.Leu387Gln)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Charcot-Marie-Tooth disease type 2"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "L201Q, L387Q, L179Q, L288Q, L275Q, L306Q",
+    "gene_id": "LMNA",
+    "location": "00000000000156136216"
+  },
+  {
+    "variation_id": "2089379",
+    "title": "NM_170707.4(LMNA):c.245A>G (p.Glu82Gly)",
+    "significance": "Likely pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Charcot-Marie-Tooth disease type 2"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "E82G",
+    "gene_id": "LMNA",
+    "location": "00000000000156115163"
+  },
+  {
+    "variation_id": "2084755",
+    "title": "NM_170707.4(LMNA):c.1316G>A (p.Arg439His)",
+    "significance": "Conflicting classifications of pathogenicity",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Charcot-Marie-Tooth disease type 2",
+      "not provided",
+      "Primary dilated cardiomyopathy",
+      "Cardiomyopathy"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "R231H, R358H, R439H, R327H, R253H, R340H",
+    "gene_id": "LMNA",
+    "location": "00000000000156136372"
+  },
+  {
+    "variation_id": "2065107",
+    "title": "NM_170707.4(LMNA):c.1585G>C (p.Ala529Pro)",
+    "significance": "Likely pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Charcot-Marie-Tooth disease type 2"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "A417P, A448P, A430P, A529P, A321P, A343P",
+    "gene_id": "LMNA",
+    "location": "00000000000156137209"
+  },
+  {
+    "variation_id": "2011460",
+    "title": "NM_170707.4(LMNA):c.1367A>C (p.Asn456Thr)",
+    "significance": "Likely pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Charcot-Marie-Tooth disease type 2"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "N344T, N456T, N375T, N248T, N270T, N357T",
+    "gene_id": "LMNA",
+    "location": "00000000000156136423"
+  },
+  {
+    "variation_id": "2003305",
+    "title": "NM_170707.4(LMNA):c.194A>T (p.Glu65Val)",
+    "significance": "Likely pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Charcot-Marie-Tooth disease type 2"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "E65V",
+    "gene_id": "LMNA",
+    "location": "00000000000156115112"
+  },
+  {
+    "variation_id": "1962928",
+    "title": "NM_170707.4(LMNA):c.397C>T (p.Arg133Trp)",
+    "significance": "Conflicting classifications of pathogenicity",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Charcot-Marie-Tooth disease type 2",
+      "not specified"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "R52W, R133W, R34W, R21W",
+    "gene_id": "LMNA",
+    "location": "00000000000156130657"
+  },
+  {
+    "variation_id": "1956573",
+    "title": "NM_170707.4(LMNA):c.193G>A (p.Glu65Lys)",
+    "significance": "Conflicting classifications of pathogenicity",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Primary dilated cardiomyopathy",
+      "Charcot-Marie-Tooth disease type 2"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "E65K",
+    "gene_id": "LMNA",
+    "location": "00000000000156115111"
+  },
+  {
+    "variation_id": "1943785",
+    "title": "NM_170707.4(LMNA):c.28A>C (p.Thr10Pro)",
+    "significance": "Likely pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Charcot-Marie-Tooth disease type 2"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "T10P",
+    "gene_id": "LMNA",
+    "location": "00000000000156114946"
+  },
+  {
+    "variation_id": "1800826",
+    "title": "NM_170707.4(LMNA):c.213C>A (p.Ser71Arg)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "S71R",
+    "gene_id": "LMNA",
+    "location": "00000000000156115131"
+  },
+  {
+    "variation_id": "1786377",
+    "title": "NM_170707.4(LMNA):c.212G>T (p.Ser71Ile)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Cardiovascular phenotype",
+      "Cardiomyopathy",
+      "not provided",
+      "Charcot-Marie-Tooth disease type 2",
+      "not specified"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "S71I",
+    "gene_id": "LMNA",
+    "location": "00000000000156115130"
+  },
+  {
+    "variation_id": "1780164",
+    "title": "NM_170707.4(LMNA):c.178C>A (p.Arg60Ser)",
+    "significance": "Conflicting classifications of pathogenicity",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Cardiovascular phenotype",
+      "Charcot-Marie-Tooth disease type 2"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "R60S",
+    "gene_id": "LMNA",
+    "location": "00000000000156115096"
+  },
+  {
+    "variation_id": "1750607",
+    "title": "NM_170707.4(LMNA):c.593A>G (p.Gln198Arg)",
+    "significance": "Conflicting classifications of pathogenicity",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Cardiovascular phenotype",
+      "Dilated cardiomyopathy 1A",
+      "Emery-Dreifuss muscular dystrophy 3, autosomal recessive",
+      "Heart-hand syndrome, Slovenian type",
+      "Emery-Dreifuss muscular dystrophy 2, autosomal dominant",
+      "Restrictive dermopathy 2",
+      "Congenital muscular dystrophy due to LMNA mutation",
+      "Mandibuloacral dysplasia with type A lipodystrophy",
+      "Familial partial lipodystrophy, Dunnigan type",
+      "Charcot-Marie-Tooth disease type 2B1",
+      "Hutchinson-Gilford syndrome",
+      "Dilated cardiomyopathy-hypergonadotropic hypogonadism syndrome",
+      "Charcot-Marie-Tooth disease type 2",
+      "Cardiomyopathy"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "Q86R, Q12R, Q99R, Q117R, Q198R",
+    "gene_id": "LMNA",
+    "location": "00000000000156134482"
+  },
+  {
+    "variation_id": "1722910",
+    "title": "NM_170707.4(LMNA):c.1754C>T (p.Thr585Ile)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "T377I, T399I, T473I, T486I, T504I, T555I, T585I",
+    "gene_id": "LMNA",
+    "location": "00000000000156138543"
+  },
+  {
+    "variation_id": "1707890",
+    "title": "NM_170707.4(LMNA):c.384A>G (p.Ile128Met)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "I128M, I16M, I29M, I47M",
+    "gene_id": "LMNA",
+    "location": "00000000000156130644"
+  },
+  {
+    "variation_id": "1706791",
+    "title": "NM_170707.4(LMNA):c.767T>C (p.Val256Ala)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "V144A, V157A, V175A, V256A, V70A, W35R",
+    "gene_id": "LMNA",
+    "location": "00000000000156134932"
+  },
+  {
+    "variation_id": "1706186",
+    "title": "NM_170707.4(LMNA):c.10C>G (p.Pro4Ala)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided",
+      "Charcot-Marie-Tooth disease type 2"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "P4A",
+    "gene_id": "LMNA",
+    "location": "00000000000156114928"
+  },
+  {
+    "variation_id": "1705143",
+    "title": "NM_170707.4(LMNA):c.600G>T (p.Met200Ile)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not specified",
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "M101I, M119I, M14I, M200I, M88I",
+    "gene_id": "LMNA",
+    "location": "00000000000156134489"
+  },
+  {
+    "variation_id": "1704131",
+    "title": "NM_170707.4(LMNA):c.658C>G (p.Arg220Gly)",
+    "significance": "Conflicting classifications of pathogenicity",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided",
+      "Charcot-Marie-Tooth disease type 2"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "R108G, R139G, R220G",
+    "gene_id": "LMNA",
+    "location": "00000000000156134823"
+  },
+  {
+    "variation_id": "1696921",
+    "title": "NM_170707.4(LMNA):c.971A>G (p.Glu324Gly)",
+    "significance": "Conflicting classifications of pathogenicity",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided",
+      "Charcot-Marie-Tooth disease type 2"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "E212G, E243G, E324G",
+    "gene_id": "LMNA",
+    "location": "00000000000156135935"
+  },
+  {
+    "variation_id": "1679148",
+    "title": "NM_170707.4(LMNA):c.717C>A (p.Ser239Arg)",
+    "significance": "Conflicting classifications of pathogenicity",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Charcot-Marie-Tooth disease type 2",
+      "Familial partial lipodystrophy, Dunnigan type"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "S127R, S158R, S239R",
+    "gene_id": "LMNA",
+    "location": "00000000000156134882"
+  },
+  {
+    "variation_id": "1518015",
+    "title": "NM_170707.4(LMNA):c.244G>C (p.Glu82Gln)",
+    "significance": "Conflicting classifications of pathogenicity",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Mandibuloacral dysplasia with type A lipodystrophy",
+      "Charcot-Marie-Tooth disease type 2B1",
+      "Dilated cardiomyopathy-hypergonadotropic hypogonadism syndrome",
+      "Dilated cardiomyopathy 1A",
+      "Emery-Dreifuss muscular dystrophy 2, autosomal dominant",
+      "Heart-hand syndrome, Slovenian type",
+      "Hutchinson-Gilford syndrome",
+      "Familial partial lipodystrophy, Dunnigan type",
+      "Congenital muscular dystrophy due to LMNA mutation",
+      "Emery-Dreifuss muscular dystrophy 3, autosomal recessive",
+      "Restrictive dermopathy 2",
+      "Charcot-Marie-Tooth disease type 2",
+      "not specified"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "E82Q",
+    "gene_id": "LMNA",
+    "location": "00000000000156115162"
+  },
+  {
+    "variation_id": "1516417",
+    "title": "NM_170707.4(LMNA):c.91_92delinsAG (p.Glu31Arg)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Charcot-Marie-Tooth disease type 2"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "E31R",
+    "gene_id": "LMNA",
+    "location": "00000000000156115009"
+  },
+  {
+    "variation_id": "1513070",
+    "title": "NM_170707.4(LMNA):c.238G>C (p.Ala80Pro)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Charcot-Marie-Tooth disease type 2",
+      "Dilated cardiomyopathy 1A"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "A80P",
+    "gene_id": "LMNA",
+    "location": "00000000000156115156"
+  },
+  {
+    "variation_id": "1501721",
+    "title": "NM_170707.4(LMNA):c.11C>A (p.Pro4Gln)",
+    "significance": "Conflicting classifications of pathogenicity",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Heart-hand syndrome, Slovenian type",
+      "Charcot-Marie-Tooth disease type 2B1",
+      "Mandibuloacral dysplasia with type A lipodystrophy",
+      "Congenital muscular dystrophy due to LMNA mutation",
+      "Restrictive dermopathy 2",
+      "Emery-Dreifuss muscular dystrophy 3, autosomal recessive",
+      "Emery-Dreifuss muscular dystrophy 2, autosomal dominant",
+      "Hutchinson-Gilford syndrome",
+      "Familial partial lipodystrophy, Dunnigan type",
+      "Dilated cardiomyopathy-hypergonadotropic hypogonadism syndrome",
+      "Dilated cardiomyopathy 1A",
+      "Cardiovascular phenotype",
+      "Charcot-Marie-Tooth disease type 2"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "P4Q",
+    "gene_id": "LMNA",
+    "location": "00000000000156114929"
+  },
+  {
+    "variation_id": "1482466",
+    "title": "NM_170707.4(LMNA):c.962G>A (p.Arg321Gln)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Cardiovascular phenotype",
+      "not provided",
+      "Charcot-Marie-Tooth disease type 2",
+      "Cardiomyopathy"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "R240Q, R209Q, R321Q",
+    "gene_id": "LMNA",
+    "location": "00000000000156135926"
+  },
+  {
+    "variation_id": "1479657",
+    "title": "NM_170707.4(LMNA):c.125T>C (p.Leu42Ser)",
+    "significance": "Pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Charcot-Marie-Tooth disease type 2"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "L42S",
+    "gene_id": "LMNA",
+    "location": "00000000000156115043"
+  },
+  {
+    "variation_id": "1478493",
+    "title": "NM_170707.4(LMNA):c.19C>T (p.Arg7Trp)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Charcot-Marie-Tooth disease type 2",
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "R7W",
+    "gene_id": "LMNA",
+    "location": "00000000000156114937"
+  },
+  {
+    "variation_id": "1472188",
+    "title": "NM_170707.4(LMNA):c.593A>C (p.Gln198Pro)",
+    "significance": "Likely pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Charcot-Marie-Tooth disease type 2"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "Q117P, Q86P, Q198P",
+    "gene_id": "LMNA",
+    "location": "00000000000156134482"
+  },
+  {
+    "variation_id": "1467968",
+    "title": "NM_170707.4(LMNA):c.1115A>G (p.Glu372Gly)",
+    "significance": "Pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Charcot-Marie-Tooth disease type 2"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "E291G, E260G, E372G",
+    "gene_id": "LMNA",
+    "location": "00000000000156136079"
+  },
+  {
+    "variation_id": "1457766",
+    "title": "NM_170707.4(LMNA):c.128C>A (p.Ala43Glu)",
+    "significance": "Pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Charcot-Marie-Tooth disease type 2"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "A43E",
+    "gene_id": "LMNA",
+    "location": "00000000000156115046"
+  },
+  {
+    "variation_id": "1412639",
+    "title": "NM_170707.4(LMNA):c.203A>T (p.Glu68Val)",
+    "significance": "Pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Charcot-Marie-Tooth disease type 2"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "E68V",
+    "gene_id": "LMNA",
+    "location": "00000000000156115121"
+  },
+  {
+    "variation_id": "1403065",
+    "title": "NM_170707.4(LMNA):c.1069G>A (p.Asp357Asn)",
+    "significance": "Conflicting classifications of pathogenicity",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided",
+      "Cardiovascular phenotype",
+      "Charcot-Marie-Tooth disease type 2"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "D245N, D357N, D276N",
+    "gene_id": "LMNA",
+    "location": "00000000000156136033"
+  },
+  {
+    "variation_id": "1393122",
+    "title": "NM_170707.4(LMNA):c.11C>T (p.Pro4Leu)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Charcot-Marie-Tooth disease type 2",
+      "Primary dilated cardiomyopathy"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "P4L",
+    "gene_id": "LMNA",
+    "location": "00000000000156114929"
+  },
+  {
+    "variation_id": "1386753",
+    "title": "NM_170707.4(LMNA):c.142C>G (p.Arg48Gly)",
+    "significance": "Likely pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Charcot-Marie-Tooth disease type 2"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "R48G",
+    "gene_id": "LMNA",
+    "location": "00000000000156115060"
+  },
+  {
+    "variation_id": "1377010",
+    "title": "NM_170707.4(LMNA):c.625A>G (p.Asn209Asp)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Charcot-Marie-Tooth disease type 2",
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "N209D, N97D, N128D",
+    "gene_id": "LMNA",
+    "location": "00000000000156134514"
+  },
+  {
+    "variation_id": "1364825",
+    "title": "NM_170707.4(LMNA):c.674G>T (p.Arg225Leu)",
+    "significance": "Likely pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Charcot-Marie-Tooth disease type 2"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "R225L, R113L, R144L",
+    "gene_id": "LMNA",
+    "location": "00000000000156134839"
+  },
+  {
+    "variation_id": "1364307",
+    "title": "NM_170707.4(LMNA):c.266G>C (p.Arg89Pro)",
+    "significance": "Conflicting classifications of pathogenicity",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Charcot-Marie-Tooth disease type 2",
+      "Emery-Dreifuss muscular dystrophy 2, autosomal dominant"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "R89P",
+    "gene_id": "LMNA",
+    "location": "00000000000156115184"
+  },
+  {
+    "variation_id": "1364147",
+    "title": "NM_170707.4(LMNA):c.422T>C (p.Leu141Pro)",
+    "significance": "Pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Charcot-Marie-Tooth disease type 2"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "L141P, L29P, L60P",
+    "gene_id": "LMNA",
+    "location": "00000000000156130682"
+  },
+  {
+    "variation_id": "1357086",
+    "title": "NM_170707.4(LMNA):c.280T>C (p.Ser94Pro)",
+    "significance": "Pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Charcot-Marie-Tooth disease type 2"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "S94P",
+    "gene_id": "LMNA",
+    "location": "00000000000156115198"
+  },
+  {
+    "variation_id": "1334358",
+    "title": "NM_170707.4(LMNA):c.1698+1G>A",
+    "significance": "Conflicting classifications of pathogenicity",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Charcot-Marie-Tooth disease type 2",
+      "Primary dilated cardiomyopathy",
+      "not provided",
+      "Cardiomyopathy"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "splice donor variant",
+      "intron variant"
+    ],
+    "protein_change": "V486M, V567M, V381M, V455M",
+    "gene_id": "LMNA",
+    "location": "00000000000156137744"
+  },
+  {
+    "variation_id": "1332025",
+    "title": "NM_170707.4(LMNA):c.1525C>T (p.Pro509Ser)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided",
+      "Primary dilated cardiomyopathy",
+      "Charcot-Marie-Tooth disease type 2",
+      "Cardiomyopathy"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "P397S, P428S, P509S",
+    "gene_id": "LMNA",
+    "location": "00000000000156137149"
+  },
+  {
+    "variation_id": "1314851",
+    "title": "NM_170707.4(LMNA):c.1532A>G (p.Asp511Gly)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "D399G, D430G, D511G",
+    "gene_id": "LMNA",
+    "location": "00000000000156137156"
+  },
+  {
+    "variation_id": "1312287",
+    "title": "NM_170707.4(LMNA):c.364A>G (p.Lys122Glu)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided",
+      "Cardiomyopathy",
+      "Charcot-Marie-Tooth disease type 2"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "K10E, K122E, K41E",
+    "gene_id": "LMNA",
+    "location": "00000000000156130624"
+  },
+  {
+    "variation_id": "1304253",
+    "title": "NM_170707.4(LMNA):c.1042A>G (p.Met348Val)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "M236V, M267V, M348V",
+    "gene_id": "LMNA",
+    "location": "00000000000156136006"
+  },
+  {
+    "variation_id": "1303755",
+    "title": "NM_170707.4(LMNA):c.1472C>T (p.Ala491Val)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "A379V, A410V, A491V",
+    "gene_id": "LMNA",
+    "location": "00000000000156137012"
+  },
+  {
+    "variation_id": "1301822",
+    "title": "NM_170707.4(LMNA):c.112C>T (p.Leu38Phe)",
+    "significance": "Conflicting classifications of pathogenicity",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not specified",
+      "Charcot-Marie-Tooth disease type 2"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "L38F",
+    "gene_id": "LMNA",
+    "location": "00000000000156115030"
+  },
+  {
+    "variation_id": "1202871",
+    "title": "NM_170707.4(LMNA):c.938T>C (p.Leu313Pro)",
+    "significance": "Conflicting classifications of pathogenicity",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Charcot-Marie-Tooth disease type 2",
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "L201P, L232P, L313P",
+    "gene_id": "LMNA",
+    "location": "00000000000156135902"
+  },
+  {
+    "variation_id": "1074127",
+    "title": "NM_170707.4(LMNA):c.194A>G (p.Glu65Gly)",
+    "significance": "Pathogenic/Likely pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Charcot-Marie-Tooth disease type 2",
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "E65G",
+    "gene_id": "LMNA",
+    "location": "00000000000156115112"
+  },
+  {
+    "variation_id": "1071935",
+    "title": "NM_170707.4(LMNA):c.275T>C (p.Leu92Pro)",
+    "significance": "Pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Charcot-Marie-Tooth disease type 2"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "L92P",
+    "gene_id": "LMNA",
+    "location": "00000000000156115193"
+  },
+  {
+    "variation_id": "1069324",
+    "title": "NM_170707.4(LMNA):c.1150G>A (p.Glu384Lys)",
+    "significance": "Pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Charcot-Marie-Tooth disease type 2"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "E272K, E303K, E384K",
+    "gene_id": "LMNA",
+    "location": "00000000000156136114"
+  },
+  {
+    "variation_id": "1063701",
+    "title": "NM_170707.4(LMNA):c.1040A>C (p.Glu347Ala)",
+    "significance": "Likely pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Charcot-Marie-Tooth disease type 2"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "E235A, E266A, E347A",
+    "gene_id": "LMNA",
+    "location": "00000000000156136004"
+  },
+  {
+    "variation_id": "1058603",
+    "title": "NM_170707.4(LMNA):c.10C>T (p.Pro4Ser)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Charcot-Marie-Tooth disease type 2"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "P4S",
+    "gene_id": "LMNA",
+    "location": "00000000000156114928"
+  },
+  {
+    "variation_id": "1057529",
+    "title": "NM_170707.4(LMNA):c.1115A>T (p.Glu372Val)",
+    "significance": "Conflicting classifications of pathogenicity",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Cardiovascular phenotype",
+      "Charcot-Marie-Tooth disease type 2"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "E260V, E291V, E372V",
+    "gene_id": "LMNA",
+    "location": "00000000000156136079"
+  },
+  {
+    "variation_id": "1045317",
+    "title": "NM_170707.4(LMNA):c.1459T>C (p.Phe487Leu)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Charcot-Marie-Tooth disease type 2",
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "F406L, F375L, F487L",
+    "gene_id": "LMNA",
+    "location": "00000000000156136999"
+  },
+  {
+    "variation_id": "1029259",
+    "title": "NM_170707.4(LMNA):c.187A>C (p.Ile63Leu)",
+    "significance": "Conflicting classifications of pathogenicity",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Charcot-Marie-Tooth disease type 2",
+      "Cardiomyopathy",
+      "Dilated cardiomyopathy-hypergonadotropic hypogonadism syndrome",
+      "Dilated cardiomyopathy 1A",
+      "Emery-Dreifuss muscular dystrophy 2, autosomal dominant",
+      "Heart-hand syndrome, Slovenian type",
+      "Hutchinson-Gilford syndrome",
+      "Familial partial lipodystrophy, Dunnigan type",
+      "Mandibuloacral dysplasia with type A lipodystrophy",
+      "Restrictive dermopathy 2",
+      "Charcot-Marie-Tooth disease type 2B1",
+      "Emery-Dreifuss muscular dystrophy 3, autosomal recessive",
+      "Congenital muscular dystrophy due to LMNA mutation",
+      "not specified",
+      "Cardiovascular phenotype",
+      "Hutchinson-Gilford syndrome"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "I63L",
+    "gene_id": "LMNA",
+    "location": "00000000000156115105"
+  },
+  {
+    "variation_id": "1027845",
+    "title": "NM_170707.4(LMNA):c.133T>C (p.Tyr45His)",
+    "significance": "Conflicting classifications of pathogenicity",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Charcot-Marie-Tooth disease type 2",
+      "Congenital muscular dystrophy due to LMNA mutation",
+      "Dilated cardiomyopathy 1A"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "Y45H",
+    "gene_id": "LMNA",
+    "location": "00000000000156115051"
+  },
+  {
+    "variation_id": "1025696",
+    "title": "NM_170707.4(LMNA):c.869A>T (p.Glu290Val)",
+    "significance": "Likely pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Charcot-Marie-Tooth disease type 2"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "E178V, E209V, E290V",
+    "gene_id": "LMNA",
+    "location": "00000000000156135245"
+  },
+  {
+    "variation_id": "1000337",
+    "title": "NM_170707.4(LMNA):c.951G>T (p.Glu317Asp)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Charcot-Marie-Tooth disease type 2"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "E205D, E236D, E317D",
+    "gene_id": "LMNA",
+    "location": "00000000000156135915"
+  },
+  {
+    "variation_id": "995175",
+    "title": "NM_170707.4(LMNA):c.832G>A (p.Ala278Thr)",
+    "significance": "Conflicting classifications of pathogenicity",
+    "search_class": "pathogenic",
+    "conditions": [
+      "LMNA-related disorder",
+      "Charcot-Marie-Tooth disease type 2",
+      "Cardiomyopathy",
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "A166T, A197T, A278T",
+    "gene_id": "LMNA",
+    "location": "00000000000156135208"
+  },
+  {
+    "variation_id": "971606",
+    "title": "NM_170707.4(LMNA):c.185G>T (p.Arg62Leu)",
+    "significance": "Likely pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Charcot-Marie-Tooth disease type 2"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "R62L",
+    "gene_id": "LMNA",
+    "location": "00000000000156115103"
+  },
+  {
+    "variation_id": "964333",
+    "title": "NM_170707.4(LMNA):c.1444C>G (p.Arg482Gly)",
+    "significance": "Pathogenic/Likely pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Charcot-Marie-Tooth disease type 2",
+      "Cardiovascular phenotype"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "R401G, R482G, R370G",
+    "gene_id": "LMNA",
+    "location": "00000000000156136984"
+  },
+  {
+    "variation_id": "962895",
+    "title": "NM_170707.4(LMNA):c.1399T>A (p.Trp467Arg)",
+    "significance": "Likely pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Charcot-Marie-Tooth disease type 2"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "W355R, W386R, W467R",
+    "gene_id": "LMNA",
+    "location": "00000000000156136939"
+  },
+  {
+    "variation_id": "960703",
+    "title": "NM_170707.4(LMNA):c.622A>C (p.Lys208Gln)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided",
+      "Charcot-Marie-Tooth disease type 2"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "K127Q, K96Q, K208Q",
+    "gene_id": "LMNA",
+    "location": "00000000000156134511"
+  },
+  {
+    "variation_id": "959029",
+    "title": "NM_170707.4(LMNA):c.265C>G (p.Arg89Gly)",
+    "significance": "Likely pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Charcot-Marie-Tooth disease type 2"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "R89G",
+    "gene_id": "LMNA",
+    "location": "00000000000156115183"
+  },
+  {
+    "variation_id": "952652",
+    "title": "NM_170707.4(LMNA):c.671C>T (p.Thr224Ile)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Charcot-Marie-Tooth disease type 2"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "T112I, T143I, T224I",
+    "gene_id": "LMNA",
+    "location": "00000000000156134836"
+  },
+  {
+    "variation_id": "949101",
+    "title": "NM_170707.4(LMNA):c.1147G>A (p.Glu383Lys)",
+    "significance": "Pathogenic/Likely pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Congenital muscular dystrophy due to LMNA mutation",
+      "Charcot-Marie-Tooth disease type 2",
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "E271K, E302K, E383K",
+    "gene_id": "LMNA",
+    "location": "00000000000156136111"
+  },
+  {
+    "variation_id": "944168",
+    "title": "NM_170707.4(LMNA):c.92A>G (p.Glu31Gly)",
+    "significance": "Pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Charcot-Marie-Tooth disease type 2"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "E31G",
+    "gene_id": "LMNA",
+    "location": "00000000000156115010"
+  },
+  {
+    "variation_id": "943114",
+    "title": "NM_170707.4(LMNA):c.1558T>A (p.Trp520Arg)",
+    "significance": "Pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Charcot-Marie-Tooth disease type 2"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "W439R, W520R, W408R",
+    "gene_id": "LMNA",
+    "location": "00000000000156137182"
+  },
+  {
+    "variation_id": "941172",
+    "title": "NM_170707.4(LMNA):c.1149G>T (p.Glu383Asp)",
+    "significance": "Likely pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Charcot-Marie-Tooth disease type 2"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "E302D, E271D, E383D",
+    "gene_id": "LMNA",
+    "location": "00000000000156136113"
+  },
+  {
+    "variation_id": "939069",
+    "title": "NM_170707.4(LMNA):c.590T>C (p.Leu197Pro)",
+    "significance": "Likely pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Charcot-Marie-Tooth disease type 2"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "L116P, L85P, L197P",
+    "gene_id": "LMNA",
+    "location": "00000000000156134479"
+  },
+  {
+    "variation_id": "936743",
+    "title": "NM_170707.4(LMNA):c.1552A>G (p.Asn518Asp)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided",
+      "Charcot-Marie-Tooth disease type 2"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "N518D, N406D, N437D",
+    "gene_id": "LMNA",
+    "location": "00000000000156137176"
+  },
+  {
+    "variation_id": "935833",
+    "title": "NM_170707.4(LMNA):c.115A>C (p.Asn39His)",
+    "significance": "Likely pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Charcot-Marie-Tooth disease type 2"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "N39H",
+    "gene_id": "LMNA",
+    "location": "00000000000156115033"
+  },
+  {
+    "variation_id": "929053",
+    "title": "NM_170707.4(LMNA):c.1123G>T (p.Ala375Ser)",
+    "significance": "Conflicting classifications of pathogenicity",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Charcot-Marie-Tooth disease type 2",
+      "not specified",
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "A263S, A294S, A375S",
+    "gene_id": "LMNA",
+    "location": "00000000000156136087"
+  },
+  {
+    "variation_id": "928831",
+    "title": "NM_170707.4(LMNA):c.1237G>T (p.Gly413Cys)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Hutchinson-Gilford syndrome",
+      "Mandibuloacral dysplasia with type A lipodystrophy",
+      "Restrictive dermopathy 2",
+      "Charcot-Marie-Tooth disease type 2B1",
+      "Emery-Dreifuss muscular dystrophy 3, autosomal recessive",
+      "Dilated cardiomyopathy-hypergonadotropic hypogonadism syndrome",
+      "Dilated cardiomyopathy 1A",
+      "Emery-Dreifuss muscular dystrophy 2, autosomal dominant",
+      "Heart-hand syndrome, Slovenian type",
+      "Familial partial lipodystrophy, Dunnigan type",
+      "Congenital muscular dystrophy due to LMNA mutation",
+      "not provided",
+      "Cardiomyopathy",
+      "Charcot-Marie-Tooth disease type 2",
+      "not specified"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "G301C, G332C, G413C",
+    "gene_id": "LMNA",
+    "location": "00000000000156136293"
+  },
+  {
+    "variation_id": "927247",
+    "title": "NM_170707.4(LMNA):c.1364G>A (p.Arg455His)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Hutchinson-Gilford syndrome",
+      "Mandibuloacral dysplasia with type A lipodystrophy",
+      "Restrictive dermopathy 2",
+      "Charcot-Marie-Tooth disease type 2B1",
+      "Emery-Dreifuss muscular dystrophy 3, autosomal recessive",
+      "Dilated cardiomyopathy-hypergonadotropic hypogonadism syndrome",
+      "Dilated cardiomyopathy 1A",
+      "Emery-Dreifuss muscular dystrophy 2, autosomal dominant",
+      "Heart-hand syndrome, Slovenian type",
+      "Familial partial lipodystrophy, Dunnigan type",
+      "Congenital muscular dystrophy due to LMNA mutation",
+      "Cardiomyopathy",
+      "Cardiovascular phenotype",
+      "Primary dilated cardiomyopathy",
+      "Charcot-Marie-Tooth disease type 2"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "R343H, R374H, R455H",
+    "gene_id": "LMNA",
+    "location": "00000000000156136420"
+  },
+  {
+    "variation_id": "925440",
+    "title": "NM_170707.4(LMNA):c.1234G>C (p.Gly412Arg)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Charcot-Marie-Tooth disease type 2",
+      "Cardiomyopathy",
+      "Cardiovascular phenotype",
+      "Primary dilated cardiomyopathy",
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "G300R, G331R, G412R",
+    "gene_id": "LMNA",
+    "location": "00000000000156136290"
+  },
+  {
+    "variation_id": "924996",
+    "title": "NM_170707.4(LMNA):c.215G>A (p.Arg72His)",
+    "significance": "Conflicting classifications of pathogenicity",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Cardiovascular phenotype",
+      "Cardiomyopathy"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "R72H",
+    "gene_id": "LMNA",
+    "location": "00000000000156115133"
+  },
+  {
+    "variation_id": "923351",
+    "title": "NM_170707.4(LMNA):c.1006C>T (p.Arg336Trp)",
+    "significance": "Conflicting classifications of pathogenicity",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Dilated cardiomyopathy-hypergonadotropic hypogonadism syndrome",
+      "Dilated cardiomyopathy 1A",
+      "Emery-Dreifuss muscular dystrophy 3, autosomal recessive",
+      "Charcot-Marie-Tooth disease type 2B1",
+      "Congenital muscular dystrophy due to LMNA mutation",
+      "Emery-Dreifuss muscular dystrophy 2, autosomal dominant",
+      "Heart-hand syndrome, Slovenian type",
+      "Hutchinson-Gilford syndrome",
+      "Familial partial lipodystrophy, Dunnigan type",
+      "Mandibuloacral dysplasia with type A lipodystrophy",
+      "Restrictive dermopathy 2",
+      "Cardiovascular phenotype",
+      "not provided",
+      "Charcot-Marie-Tooth disease type 2",
+      "Cardiomyopathy",
+      "Primary dilated cardiomyopathy"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "R255W, R336W, R224W",
+    "gene_id": "LMNA",
+    "location": "00000000000156135970"
+  },
+  {
+    "variation_id": "4769993",
+    "title": "NM_170707.4(LMNA):c.1681C>A (p.Leu561Met)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Charcot-Marie-Tooth disease type 2"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "intron variant"
+    ],
+    "protein_change": "L449M, L561M, L353M, L375M, L462M, L480M",
+    "gene_id": "LMNA",
+    "location": "00000000000156137726"
+  },
+  {
+    "variation_id": "4753719",
+    "title": "NM_170707.4(LMNA):c.1662G>C (p.Glu554Asp)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Charcot-Marie-Tooth disease type 2"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "intron variant"
+    ],
+    "protein_change": "E346D, E473D, E368D, E442D, E554D, E455D",
+    "gene_id": "LMNA",
+    "location": "00000000000156137707"
+  },
+  {
+    "variation_id": "3340827",
+    "title": "NM_170707.4(LMNA):c.821C>T (p.Ala274Val)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "A162V, A175V, A193V, A274V, A88V, P53S",
+    "gene_id": "LMNA",
+    "location": "00000000000156135197"
+  },
+  {
+    "variation_id": "3073113",
+    "title": "NM_170707.4(LMNA):c.1453C>T (p.Pro485Ser)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Primary dilated cardiomyopathy",
+      "Dilated cardiomyopathy 1A",
+      "Emery-Dreifuss muscular dystrophy 3, autosomal recessive",
+      "Congenital muscular dystrophy due to LMNA mutation",
+      "Heart-hand syndrome, Slovenian type",
+      "Emery-Dreifuss muscular dystrophy 2, autosomal dominant",
+      "Hutchinson-Gilford syndrome",
+      "Dilated cardiomyopathy-hypergonadotropic hypogonadism syndrome",
+      "Restrictive dermopathy 2",
+      "Mandibuloacral dysplasia with type A lipodystrophy",
+      "Charcot-Marie-Tooth disease type 2B1",
+      "Familial partial lipodystrophy, Dunnigan type"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "P277S, P299S, P373S, P386S, P404S, P485S",
+    "gene_id": "LMNA",
+    "location": "00000000000156136993"
+  },
+  {
+    "variation_id": "3071113",
+    "title": "NM_170707.4(LMNA):c.1520G>A (p.Ser507Asn)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "not provided",
+      "Dilated cardiomyopathy 1A",
+      "Emery-Dreifuss muscular dystrophy 3, autosomal recessive",
+      "Congenital muscular dystrophy due to LMNA mutation",
+      "Heart-hand syndrome, Slovenian type",
+      "Emery-Dreifuss muscular dystrophy 2, autosomal dominant",
+      "Hutchinson-Gilford syndrome",
+      "Dilated cardiomyopathy-hypergonadotropic hypogonadism syndrome",
+      "Restrictive dermopathy 2",
+      "Mandibuloacral dysplasia with type A lipodystrophy",
+      "Familial partial lipodystrophy, Dunnigan type",
+      "Charcot-Marie-Tooth disease type 2B1",
+      "Primary dilated cardiomyopathy"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "S299N, S321N, S395N, S408N, S426N, S507N",
+    "gene_id": "LMNA",
+    "location": "00000000000156137144"
+  },
+  {
+    "variation_id": "3070790",
+    "title": "NM_170707.4(LMNA):c.190A>G (p.Thr64Ala)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Primary dilated cardiomyopathy",
+      "Dilated cardiomyopathy 1A",
+      "Emery-Dreifuss muscular dystrophy 3, autosomal recessive",
+      "Congenital muscular dystrophy due to LMNA mutation",
+      "Heart-hand syndrome, Slovenian type",
+      "Emery-Dreifuss muscular dystrophy 2, autosomal dominant",
+      "Hutchinson-Gilford syndrome",
+      "Dilated cardiomyopathy-hypergonadotropic hypogonadism syndrome",
+      "Restrictive dermopathy 2",
+      "Mandibuloacral dysplasia with type A lipodystrophy",
+      "Charcot-Marie-Tooth disease type 2B1",
+      "Familial partial lipodystrophy, Dunnigan type"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "intron variant",
+      "5 prime UTR variant"
+    ],
+    "protein_change": "T64A",
+    "gene_id": "LMNA",
+    "location": "00000000000156115108"
+  },
+  {
+    "variation_id": "3069667",
+    "title": "NM_170707.4(LMNA):c.1903G>A (p.Gly635Ser)",
+    "significance": "Conflicting classifications of pathogenicity",
+    "search_class": "benign",
+    "conditions": [
+      "Cardiomyopathy",
+      "Cardiovascular phenotype",
+      "Primary dilated cardiomyopathy"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "intron variant"
+    ],
+    "protein_change": "G427S, G449S, G523S, G536S, G554S, G605S, G635S",
+    "gene_id": "LMNA",
+    "location": "00000000000156138692"
+  },
+  {
+    "variation_id": "2977457",
+    "title": "NM_170707.4(LMNA):c.1034T>C (p.Met345Thr)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Congenital muscular dystrophy due to LMNA mutation",
+      "Dilated cardiomyopathy 1A",
+      "Dilated cardiomyopathy-hypergonadotropic hypogonadism syndrome",
+      "Emery-Dreifuss muscular dystrophy 3, autosomal recessive",
+      "Restrictive dermopathy 2",
+      "Charcot-Marie-Tooth disease type 2B1",
+      "Heart-hand syndrome, Slovenian type",
+      "Emery-Dreifuss muscular dystrophy 2, autosomal dominant",
+      "Hutchinson-Gilford syndrome",
+      "Familial partial lipodystrophy, Dunnigan type",
+      "Mandibuloacral dysplasia with type A lipodystrophy",
+      "not provided",
+      "Charcot-Marie-Tooth disease type 2",
+      "Cardiovascular phenotype",
+      "Primary dilated cardiomyopathy"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "M137T, M159T, M233T, M264T, M246T, M345T",
+    "gene_id": "LMNA",
+    "location": "00000000000156135998"
+  },
+  {
+    "variation_id": "2894607",
+    "title": "NM_170707.4(LMNA):c.1169C>T (p.Ser390Phe)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Charcot-Marie-Tooth disease type 2",
+      "not provided",
+      "Primary dilated cardiomyopathy"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "S309F, S390F, S204F, S278F, S291F, S182F",
+    "gene_id": "LMNA",
+    "location": "00000000000156136225"
+  },
+  {
+    "variation_id": "2773545",
+    "title": "NM_170707.4(LMNA):c.1498G>T (p.Ala500Ser)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Primary dilated cardiomyopathy",
+      "Charcot-Marie-Tooth disease type 2",
+      "Cardiomyopathy"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "A292S, A388S, A419S, A500S, A314S, A401S",
+    "gene_id": "LMNA",
+    "location": "00000000000156137122"
+  },
+  {
+    "variation_id": "2447223",
+    "title": "NM_170707.4(LMNA):c.1237G>A (p.Gly413Ser)",
+    "significance": "Conflicting classifications of pathogenicity",
+    "search_class": "benign",
+    "conditions": [
+      "not specified",
+      "Primary dilated cardiomyopathy",
+      "Cardiovascular phenotype",
+      "Charcot-Marie-Tooth disease type 2"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "G227S, G301S, G332S, G413S, G205S, G314S",
+    "gene_id": "LMNA",
+    "location": "00000000000156136293"
+  },
+  {
+    "variation_id": "2418851",
+    "title": "NM_170707.4(LMNA):c.887G>T (p.Arg296Leu)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Charcot-Marie-Tooth disease type 2"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "A75S, R110L, R184L, R197L, R215L, R296L",
+    "gene_id": "LMNA",
+    "location": "00000000000156135263"
+  },
+  {
+    "variation_id": "2414464",
+    "title": "NM_170707.4(LMNA):c.1666G>A (p.Glu556Lys)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Charcot-Marie-Tooth disease type 2",
+      "not specified"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "intron variant"
+    ],
+    "protein_change": "E348K, E370K, E444K, E457K, E475K, E556K",
+    "gene_id": "LMNA",
+    "location": "00000000000156137711"
+  },
+  {
+    "variation_id": "2199046",
+    "title": "NM_170707.4(LMNA):c.1016C>T (p.Ala339Val)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Congenital muscular dystrophy due to LMNA mutation",
+      "Restrictive dermopathy 2",
+      "Heart-hand syndrome, Slovenian type",
+      "Familial partial lipodystrophy, Dunnigan type",
+      "Mandibuloacral dysplasia with type A lipodystrophy",
+      "Dilated cardiomyopathy-hypergonadotropic hypogonadism syndrome",
+      "Dilated cardiomyopathy 1A",
+      "Emery-Dreifuss muscular dystrophy 2, autosomal dominant",
+      "Hutchinson-Gilford syndrome",
+      "Emery-Dreifuss muscular dystrophy 3, autosomal recessive",
+      "Charcot-Marie-Tooth disease type 2B1",
+      "Charcot-Marie-Tooth disease type 2"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "A339V, A227V, A258V",
+    "gene_id": "LMNA",
+    "location": "00000000000156135980"
+  },
+  {
+    "variation_id": "2144247",
+    "title": "NM_170707.4(LMNA):c.1883G>A (p.Ser628Asn)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Charcot-Marie-Tooth disease type 2"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "intron variant"
+    ],
+    "protein_change": "S516N, S547N, S598N, S420N, S442N, S529N, S628N",
+    "gene_id": "LMNA",
+    "location": "00000000000156138672"
+  },
+  {
+    "variation_id": "2140137",
+    "title": "NM_170707.4(LMNA):c.25G>A (p.Ala9Thr)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "not provided",
+      "Cardiomyopathy",
+      "Charcot-Marie-Tooth disease type 2",
+      "Primary dilated cardiomyopathy"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "A9T",
+    "gene_id": "LMNA",
+    "location": "00000000000156114943"
+  },
+  {
+    "variation_id": "2133401",
+    "title": "NM_170707.4(LMNA):c.878A>C (p.Gln293Pro)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Charcot-Marie-Tooth disease type 2",
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "Q107P, Q181P, Q194P, Q212P, Q293P, S72R",
+    "gene_id": "LMNA",
+    "location": "00000000000156135254"
+  },
+  {
+    "variation_id": "2132526",
+    "title": "NM_170707.4(LMNA):c.1521C>A (p.Ser507Arg)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Charcot-Marie-Tooth disease type 2"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "S408R, S426R, S507R, S395R, S299R, S321R",
+    "gene_id": "LMNA",
+    "location": "00000000000156137145"
+  },
+  {
+    "variation_id": "2116675",
+    "title": "NM_170707.4(LMNA):c.915G>C (p.Gln305His)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Charcot-Marie-Tooth disease type 2"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "Q119H, Q193H, Q224H, Q305H, Q206H, S84T",
+    "gene_id": "LMNA",
+    "location": "00000000000156135291"
+  },
+  {
+    "variation_id": "2114104",
+    "title": "NM_170707.4(LMNA):c.25G>C (p.Ala9Pro)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Charcot-Marie-Tooth disease type 2"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "A9P",
+    "gene_id": "LMNA",
+    "location": "00000000000156114943"
+  },
+  {
+    "variation_id": "2086483",
+    "title": "NM_170707.4(LMNA):c.1696C>A (p.His566Asn)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Charcot-Marie-Tooth disease type 2"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "intron variant"
+    ],
+    "protein_change": "H467N, H358N, H380N, H485N, H566N, H454N",
+    "gene_id": "LMNA",
+    "location": "00000000000156137741"
+  },
+  {
+    "variation_id": "2066264",
+    "title": "NM_170707.4(LMNA):c.843C>G (p.Asn281Lys)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Charcot-Marie-Tooth disease type 2"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "N182K, T60R, N169K, N200K, N281K, N95K",
+    "gene_id": "LMNA",
+    "location": "00000000000156135219"
+  },
+  {
+    "variation_id": "2047580",
+    "title": "NM_170707.4(LMNA):c.97G>C (p.Glu33Gln)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Charcot-Marie-Tooth disease type 2"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "E33Q",
+    "gene_id": "LMNA",
+    "location": "00000000000156115015"
+  },
+  {
+    "variation_id": "2045344",
+    "title": "NM_170707.4(LMNA):c.902G>C (p.Ser301Thr)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Primary dilated cardiomyopathy",
+      "not provided",
+      "Charcot-Marie-Tooth disease type 2"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "A80P, S115T, S189T, S220T, S202T, S301T",
+    "gene_id": "LMNA",
+    "location": "00000000000156135278"
+  },
+  {
+    "variation_id": "2004184",
+    "title": "NM_170707.4(LMNA):c.719G>T (p.Arg240Leu)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Charcot-Marie-Tooth disease type 2"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "R128L, R159L, R240L, G19C, R141L, R54L",
+    "gene_id": "LMNA",
+    "location": "00000000000156134884"
+  },
+  {
+    "variation_id": "2000946",
+    "title": "NM_170707.4(LMNA):c.22C>A (p.Arg8Ser)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Charcot-Marie-Tooth disease type 2"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "R8S",
+    "gene_id": "LMNA",
+    "location": "00000000000156114940"
+  },
+  {
+    "variation_id": "1982381",
+    "title": "NM_170707.4(LMNA):c.1423G>A (p.Asp475Asn)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Charcot-Marie-Tooth disease type 2"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "D363N, D376N, D394N, D289N, D475N, D267N",
+    "gene_id": "LMNA",
+    "location": "00000000000156136963"
+  },
+  {
+    "variation_id": "1963590",
+    "title": "NM_170707.4(LMNA):c.1988T>G (p.Ile663Ser)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "not provided",
+      "Charcot-Marie-Tooth disease type 2"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "I455S, I551S, I564S, I582S, I613S, I477S, I633S, I663S",
+    "gene_id": "LMNA",
+    "location": "00000000000156139099"
+  },
+  {
+    "variation_id": "1951878",
+    "title": "NM_170707.4(LMNA):c.301C>T (p.Arg101Cys)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Charcot-Marie-Tooth disease type 2"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "R101C",
+    "gene_id": "LMNA",
+    "location": "00000000000156115219"
+  },
+  {
+    "variation_id": "1924187",
+    "title": "NM_170707.4(LMNA):c.1894A>G (p.Ser632Gly)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Cardiomyopathy",
+      "Dilated cardiomyopathy 1A",
+      "Charcot-Marie-Tooth disease type 2B1",
+      "Mandibuloacral dysplasia with type A lipodystrophy",
+      "Emery-Dreifuss muscular dystrophy 3, autosomal recessive",
+      "Restrictive dermopathy 2",
+      "Emery-Dreifuss muscular dystrophy 2, autosomal dominant",
+      "Heart-hand syndrome, Slovenian type",
+      "Hutchinson-Gilford syndrome",
+      "Congenital muscular dystrophy due to LMNA mutation",
+      "Familial partial lipodystrophy, Dunnigan type",
+      "Dilated cardiomyopathy-hypergonadotropic hypogonadism syndrome",
+      "Charcot-Marie-Tooth disease type 2"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "intron variant"
+    ],
+    "protein_change": "S632G, S446G, S533G, S602G, S551G, S424G, S520G",
+    "gene_id": "LMNA",
+    "location": "00000000000156138683"
+  },
+  {
+    "variation_id": "1898726",
+    "title": "NM_170707.4(LMNA):c.1453C>A (p.Pro485Thr)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Charcot-Marie-Tooth disease type 2"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "P373T, P386T, P299T, P485T, P277T, P404T",
+    "gene_id": "LMNA",
+    "location": "00000000000156136993"
+  },
+  {
+    "variation_id": "1898665",
+    "title": "NM_170707.4(LMNA):c.1350G>C (p.Lys450Asn)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Charcot-Marie-Tooth disease type 2",
+      "Cardiovascular phenotype"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "K351N, K369N, K242N, K264N, K338N, K450N",
+    "gene_id": "LMNA",
+    "location": "00000000000156136406"
+  },
+  {
+    "variation_id": "1746556",
+    "title": "NM_170707.4(LMNA):c.1198G>A (p.Gly400Ser)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Dilated cardiomyopathy 1A",
+      "Emery-Dreifuss muscular dystrophy 3, autosomal recessive",
+      "Congenital muscular dystrophy due to LMNA mutation",
+      "Emery-Dreifuss muscular dystrophy 2, autosomal dominant",
+      "Restrictive dermopathy 2",
+      "Mandibuloacral dysplasia with type A lipodystrophy",
+      "Heart-hand syndrome, Slovenian type",
+      "Dilated cardiomyopathy-hypergonadotropic hypogonadism syndrome",
+      "Charcot-Marie-Tooth disease type 2B1",
+      "Familial partial lipodystrophy, Dunnigan type",
+      "Hutchinson-Gilford syndrome",
+      "Charcot-Marie-Tooth disease type 2",
+      "Cardiovascular phenotype"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "G301S, G319S, G192S, G214S, G288S, G400S",
+    "gene_id": "LMNA",
+    "location": "00000000000156136254"
+  },
+  {
+    "variation_id": "1718066",
+    "title": "NM_170707.4(LMNA):c.110A>G (p.Glu37Gly)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Charcot-Marie-Tooth disease type 2"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "E37G",
+    "gene_id": "LMNA",
+    "location": "00000000000156115028"
+  },
+  {
+    "variation_id": "1715530",
+    "title": "NM_170707.4(LMNA):c.1463C>A (p.Thr488Asn)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Charcot-Marie-Tooth disease type 2"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "T280N, T302N, T376N, T389N, T407N, T488N",
+    "gene_id": "LMNA",
+    "location": "00000000000156137003"
+  },
+  {
+    "variation_id": "1713743",
+    "title": "NM_170707.4(LMNA):c.1924G>T (p.Val642Phe)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Charcot-Marie-Tooth disease type 2"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "intron variant"
+    ],
+    "protein_change": "V434F, V456F, V530F, V543F, V561F, V612F, V642F",
+    "gene_id": "LMNA",
+    "location": "00000000000156138713"
+  },
+  {
+    "variation_id": "1677884",
+    "title": "NM_170707.4(LMNA):c.1613T>C (p.Val538Ala)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Charcot-Marie-Tooth disease type 2",
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "intron variant"
+    ],
+    "protein_change": "V426A, V457A, V538A",
+    "gene_id": "LMNA",
+    "location": "00000000000156137658"
+  },
+  {
+    "variation_id": "1677618",
+    "title": "NM_170707.4(LMNA):c.689A>G (p.Asp230Gly)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Charcot-Marie-Tooth disease type 2",
+      "not provided",
+      "Restrictive dermopathy 2",
+      "Familial partial lipodystrophy, Dunnigan type",
+      "Charcot-Marie-Tooth disease type 2B1",
+      "Emery-Dreifuss muscular dystrophy 2, autosomal dominant",
+      "Heart-hand syndrome, Slovenian type",
+      "Hutchinson-Gilford syndrome",
+      "Emery-Dreifuss muscular dystrophy 3, autosomal recessive",
+      "Dilated cardiomyopathy-hypergonadotropic hypogonadism syndrome",
+      "Dilated cardiomyopathy 1A",
+      "Mandibuloacral dysplasia with type A lipodystrophy",
+      "Congenital muscular dystrophy due to LMNA mutation",
+      "Cardiomyopathy"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "D118G, D149G, D230G",
+    "gene_id": "LMNA",
+    "location": "00000000000156134854"
+  },
+  {
+    "variation_id": "1522462",
+    "title": "NM_170707.4(LMNA):c.1424A>G (p.Asp475Gly)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Charcot-Marie-Tooth disease type 2"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "D363G, D394G, D475G",
+    "gene_id": "LMNA",
+    "location": "00000000000156136964"
+  },
+  {
+    "variation_id": "1504530",
+    "title": "NM_170707.4(LMNA):c.356G>T (p.Arg119Leu)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Heart-hand syndrome, Slovenian type",
+      "Charcot-Marie-Tooth disease type 2B1",
+      "Mandibuloacral dysplasia with type A lipodystrophy",
+      "Congenital muscular dystrophy due to LMNA mutation",
+      "Restrictive dermopathy 2",
+      "Emery-Dreifuss muscular dystrophy 3, autosomal recessive",
+      "Emery-Dreifuss muscular dystrophy 2, autosomal dominant",
+      "Hutchinson-Gilford syndrome",
+      "Familial partial lipodystrophy, Dunnigan type",
+      "Dilated cardiomyopathy-hypergonadotropic hypogonadism syndrome",
+      "Dilated cardiomyopathy 1A",
+      "Charcot-Marie-Tooth disease type 2"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "R119L",
+    "gene_id": "LMNA",
+    "location": "00000000000156115274"
+  },
+  {
+    "variation_id": "1500592",
+    "title": "NM_170707.4(LMNA):c.347T>C (p.Leu116Pro)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Emery-Dreifuss muscular dystrophy 2, autosomal dominant",
+      "Charcot-Marie-Tooth disease type 2"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "L116P",
+    "gene_id": "LMNA",
+    "location": "00000000000156115265"
+  },
+  {
+    "variation_id": "1495359",
+    "title": "NM_170707.4(LMNA):c.1814C>T (p.Ala605Val)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Charcot-Marie-Tooth disease type 2",
+      "Cardiovascular phenotype"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "A493V, A605V, A575V",
+    "gene_id": "LMNA",
+    "location": "00000000000156138603"
+  },
+  {
+    "variation_id": "1474645",
+    "title": "NM_170707.4(LMNA):c.1463C>T (p.Thr488Ile)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Charcot-Marie-Tooth disease type 2"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "T376I, T488I, T407I",
+    "gene_id": "LMNA",
+    "location": "00000000000156137003"
+  },
+  {
+    "variation_id": "1473188",
+    "title": "NM_170707.4(LMNA):c.1688A>G (p.His563Arg)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Charcot-Marie-Tooth disease type 2"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "intron variant"
+    ],
+    "protein_change": "H451R, H482R, H563R",
+    "gene_id": "LMNA",
+    "location": "00000000000156137733"
+  },
+  {
+    "variation_id": "1471137",
+    "title": "NM_170707.4(LMNA):c.339T>A (p.Phe113Leu)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "not provided",
+      "Charcot-Marie-Tooth disease type 2"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "F113L",
+    "gene_id": "LMNA",
+    "location": "00000000000156115257"
+  },
+  {
+    "variation_id": "1470674",
+    "title": "NM_170707.4(LMNA):c.931A>G (p.Lys311Glu)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Charcot-Marie-Tooth disease type 2"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "K199E, K230E, K311E",
+    "gene_id": "LMNA",
+    "location": "00000000000156135307"
+  },
+  {
+    "variation_id": "1436689",
+    "title": "NM_170707.4(LMNA):c.340A>C (p.Lys114Gln)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Charcot-Marie-Tooth disease type 2"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "K114Q",
+    "gene_id": "LMNA",
+    "location": "00000000000156115258"
+  },
+  {
+    "variation_id": "1428592",
+    "title": "NM_170707.4(LMNA):c.524C>T (p.Ala175Val)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "not provided",
+      "Charcot-Marie-Tooth disease type 2"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "A175V, A63V, A94V",
+    "gene_id": "LMNA",
+    "location": "00000000000156134413"
+  },
+  {
+    "variation_id": "1384323",
+    "title": "NM_170707.4(LMNA):c.754C>A (p.His252Asn)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Charcot-Marie-Tooth disease type 2"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "H171N, H252N, H140N",
+    "gene_id": "LMNA",
+    "location": "00000000000156134919"
+  },
+  {
+    "variation_id": "1364459",
+    "title": "NM_170707.4(LMNA):c.878A>T (p.Gln293Leu)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Charcot-Marie-Tooth disease type 2",
+      "Mandibuloacral dysplasia with type A lipodystrophy",
+      "Dilated cardiomyopathy-hypergonadotropic hypogonadism syndrome",
+      "Dilated cardiomyopathy 1A",
+      "Restrictive dermopathy 2",
+      "Heart-hand syndrome, Slovenian type",
+      "Charcot-Marie-Tooth disease type 2B1",
+      "Familial partial lipodystrophy, Dunnigan type",
+      "Emery-Dreifuss muscular dystrophy 2, autosomal dominant",
+      "Hutchinson-Gilford syndrome",
+      "Congenital muscular dystrophy due to LMNA mutation",
+      "Emery-Dreifuss muscular dystrophy 3, autosomal recessive"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "Q212L, Q181L, Q293L",
+    "gene_id": "LMNA",
+    "location": "00000000000156135254"
+  },
+  {
+    "variation_id": "1362553",
+    "title": "NM_170707.4(LMNA):c.7A>G (p.Thr3Ala)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Charcot-Marie-Tooth disease type 2",
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "T3A",
+    "gene_id": "LMNA",
+    "location": "00000000000156114925"
+  },
+  {
+    "variation_id": "1359130",
+    "title": "NM_170707.4(LMNA):c.997A>G (p.Thr333Ala)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Primary dilated cardiomyopathy",
+      "Charcot-Marie-Tooth disease type 2"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "T333A, T252A, T221A",
+    "gene_id": "LMNA",
+    "location": "00000000000156135961"
+  },
+  {
+    "variation_id": "1358355",
+    "title": "NM_170707.4(LMNA):c.1793C>T (p.Ala598Val)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Charcot-Marie-Tooth disease type 2"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "A568V, A486V, A598V",
+    "gene_id": "LMNA",
+    "location": "00000000000156138582"
+  },
+  {
+    "variation_id": "1350707",
+    "title": "NM_170707.4(LMNA):c.47C>A (p.Ala16Asp)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Cardiovascular phenotype",
+      "Primary dilated cardiomyopathy",
+      "Charcot-Marie-Tooth disease type 2B1",
+      "Familial partial lipodystrophy, Dunnigan type",
+      "Mandibuloacral dysplasia with type A lipodystrophy",
+      "Emery-Dreifuss muscular dystrophy 3, autosomal recessive",
+      "Emery-Dreifuss muscular dystrophy 2, autosomal dominant",
+      "Heart-hand syndrome, Slovenian type",
+      "Hutchinson-Gilford syndrome",
+      "Congenital muscular dystrophy due to LMNA mutation",
+      "Dilated cardiomyopathy-hypergonadotropic hypogonadism syndrome",
+      "Dilated cardiomyopathy 1A",
+      "Restrictive dermopathy 2",
+      "Charcot-Marie-Tooth disease type 2"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "A16D",
+    "gene_id": "LMNA",
+    "location": "00000000000156114965"
+  },
+  {
+    "variation_id": "1329345",
+    "title": "NM_170707.4(LMNA):c.940G>A (p.Ala314Thr)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Dilated cardiomyopathy-hypergonadotropic hypogonadism syndrome",
+      "Emery-Dreifuss muscular dystrophy 3, autosomal recessive",
+      "Dilated cardiomyopathy 1A",
+      "Emery-Dreifuss muscular dystrophy 2, autosomal dominant",
+      "Charcot-Marie-Tooth disease type 2B1",
+      "Familial partial lipodystrophy, Dunnigan type",
+      "Heart-hand syndrome, Slovenian type",
+      "Restrictive dermopathy 2",
+      "Congenital muscular dystrophy due to LMNA mutation",
+      "Hutchinson-Gilford syndrome",
+      "Mandibuloacral dysplasia with type A lipodystrophy",
+      "Charcot-Marie-Tooth disease type 2",
+      "Cardiovascular phenotype",
+      "Cardiomyopathy",
+      "Primary dilated cardiomyopathy"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "A202T, A233T, A314T",
+    "gene_id": "LMNA",
+    "location": "00000000000156135904"
+  },
+  {
+    "variation_id": "1310339",
+    "title": "NM_170707.4(LMNA):c.313_314delinsTT (p.Glu105Leu)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Charcot-Marie-Tooth disease type 2",
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "E105L",
+    "gene_id": "LMNA",
+    "location": "00000000000156115231"
+  },
+  {
+    "variation_id": "1304549",
+    "title": "NM_170707.4(LMNA):c.1016C>A (p.Ala339Glu)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Primary dilated cardiomyopathy",
+      "Charcot-Marie-Tooth disease type 2",
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "A227E, A258E, A339E",
+    "gene_id": "LMNA",
+    "location": "00000000000156135980"
+  },
+  {
+    "variation_id": "1174962",
+    "title": "NM_170707.4(LMNA):c.71C>T (p.Thr24Ile)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Primary dilated cardiomyopathy",
+      "Charcot-Marie-Tooth disease type 2B1",
+      "Mandibuloacral dysplasia with type A lipodystrophy",
+      "Emery-Dreifuss muscular dystrophy 2, autosomal dominant",
+      "Heart-hand syndrome, Slovenian type",
+      "Hutchinson-Gilford syndrome",
+      "Familial partial lipodystrophy, Dunnigan type",
+      "Restrictive dermopathy 2",
+      "Congenital muscular dystrophy due to LMNA mutation",
+      "Emery-Dreifuss muscular dystrophy 3, autosomal recessive",
+      "Dilated cardiomyopathy-hypergonadotropic hypogonadism syndrome",
+      "Dilated cardiomyopathy 1A",
+      "Cardiovascular phenotype",
+      "not provided",
+      "Charcot-Marie-Tooth disease type 2"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "T24I",
+    "gene_id": "LMNA",
+    "location": "00000000000156114989"
+  },
+  {
+    "variation_id": "1172352",
+    "title": "NM_170707.4(LMNA):c.1601C>G (p.Thr534Ser)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Charcot-Marie-Tooth disease type 2",
+      "Primary dilated cardiomyopathy",
+      "Cardiomyopathy",
+      "Charcot-Marie-Tooth disease type 2B1",
+      "Mandibuloacral dysplasia with type A lipodystrophy",
+      "Emery-Dreifuss muscular dystrophy 2, autosomal dominant",
+      "Heart-hand syndrome, Slovenian type",
+      "Hutchinson-Gilford syndrome",
+      "Familial partial lipodystrophy, Dunnigan type",
+      "Restrictive dermopathy 2",
+      "Congenital muscular dystrophy due to LMNA mutation",
+      "Emery-Dreifuss muscular dystrophy 3, autosomal recessive",
+      "Dilated cardiomyopathy-hypergonadotropic hypogonadism syndrome",
+      "Dilated cardiomyopathy 1A",
+      "Cardiovascular phenotype",
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "T422S, T453S, T534S",
+    "gene_id": "LMNA",
+    "location": "00000000000156137225"
+  },
+  {
+    "variation_id": "1172290",
+    "title": "NM_170707.4(LMNA):c.467G>A (p.Arg156His)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Primary dilated cardiomyopathy",
+      "Dilated cardiomyopathy-hypergonadotropic hypogonadism syndrome",
+      "Dilated cardiomyopathy 1A",
+      "Charcot-Marie-Tooth disease type 2B1",
+      "Emery-Dreifuss muscular dystrophy 2, autosomal dominant",
+      "Heart-hand syndrome, Slovenian type",
+      "Hutchinson-Gilford syndrome",
+      "Congenital muscular dystrophy due to LMNA mutation",
+      "Restrictive dermopathy 2",
+      "Familial partial lipodystrophy, Dunnigan type",
+      "Mandibuloacral dysplasia with type A lipodystrophy",
+      "Emery-Dreifuss muscular dystrophy 3, autosomal recessive",
+      "not provided",
+      "Cardiovascular phenotype",
+      "Charcot-Marie-Tooth disease type 2",
+      "not specified",
+      "Cardiomyopathy"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "R156H, R44H, R75H",
+    "gene_id": "LMNA",
+    "location": "00000000000156130727"
+  },
+  {
+    "variation_id": "1062693",
+    "title": "NM_170707.4(LMNA):c.1907G>A (p.Ser636Asn)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Charcot-Marie-Tooth disease type 2"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "intron variant"
+    ],
+    "protein_change": "S524N, S606N, S636N",
+    "gene_id": "LMNA",
+    "location": "00000000000156138696"
+  },
+  {
+    "variation_id": "1056234",
+    "title": "NM_170707.4(LMNA):c.1971C>A (p.Ser657Arg)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Charcot-Marie-Tooth disease type 2",
+      "Emery-Dreifuss muscular dystrophy 2, autosomal dominant",
+      "Hutchinson-Gilford syndrome",
+      "Restrictive dermopathy 2",
+      "Heart-hand syndrome, Slovenian type",
+      "Charcot-Marie-Tooth disease type 2B1",
+      "Familial partial lipodystrophy, Dunnigan type",
+      "Mandibuloacral dysplasia with type A lipodystrophy",
+      "Dilated cardiomyopathy 1A",
+      "Congenital muscular dystrophy due to LMNA mutation",
+      "Emery-Dreifuss muscular dystrophy 3, autosomal recessive",
+      "Dilated cardiomyopathy-hypergonadotropic hypogonadism syndrome",
+      "Cardiomyopathy",
+      "Primary dilated cardiomyopathy"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "S545R, S607R, S627R, S657R",
+    "gene_id": "LMNA",
+    "location": "00000000000156139082"
+  },
+  {
+    "variation_id": "1041658",
+    "title": "NM_170707.4(LMNA):c.22C>G (p.Arg8Gly)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Charcot-Marie-Tooth disease type 2"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "R8G",
+    "gene_id": "LMNA",
+    "location": "00000000000156114940"
+  },
+  {
+    "variation_id": "1025610",
+    "title": "NM_170707.4(LMNA):c.1655A>C (p.Asp552Ala)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Primary dilated cardiomyopathy",
+      "Emery-Dreifuss muscular dystrophy 2, autosomal dominant",
+      "Heart-hand syndrome, Slovenian type",
+      "Hutchinson-Gilford syndrome",
+      "Familial partial lipodystrophy, Dunnigan type",
+      "Restrictive dermopathy 2",
+      "Charcot-Marie-Tooth disease type 2B1",
+      "Mandibuloacral dysplasia with type A lipodystrophy",
+      "Congenital muscular dystrophy due to LMNA mutation",
+      "Dilated cardiomyopathy-hypergonadotropic hypogonadism syndrome",
+      "Emery-Dreifuss muscular dystrophy 3, autosomal recessive",
+      "Dilated cardiomyopathy 1A",
+      "Charcot-Marie-Tooth disease type 2",
+      "Cardiovascular phenotype"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "intron variant"
+    ],
+    "protein_change": "D440A, D471A, D552A",
+    "gene_id": "LMNA",
+    "location": "00000000000156137700"
+  },
+  {
+    "variation_id": "1021085",
+    "title": "NM_170707.4(LMNA):c.614A>G (p.Asp205Gly)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Charcot-Marie-Tooth disease type 2"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "D124G, D205G, D93G",
+    "gene_id": "LMNA",
+    "location": "00000000000156134503"
+  },
+  {
+    "variation_id": "1020974",
+    "title": "NM_170707.4(LMNA):c.343G>A (p.Glu115Lys)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "not provided",
+      "Charcot-Marie-Tooth disease type 2"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "E115K",
+    "gene_id": "LMNA",
+    "location": "00000000000156115261"
+  },
+  {
+    "variation_id": "1014606",
+    "title": "NM_170707.4(LMNA):c.32G>T (p.Arg11Leu)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Charcot-Marie-Tooth disease type 2"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "R11L",
+    "gene_id": "LMNA",
+    "location": "00000000000156114950"
+  },
+  {
+    "variation_id": "1005514",
+    "title": "NM_170707.4(LMNA):c.1051A>G (p.Arg351Gly)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Charcot-Marie-Tooth disease type 2"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "R239G, R270G, R351G",
+    "gene_id": "LMNA",
+    "location": "00000000000156136015"
+  },
+  {
+    "variation_id": "999846",
+    "title": "NM_170707.4(LMNA):c.1040A>G (p.Glu347Gly)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Charcot-Marie-Tooth disease type 2",
+      "Emery-Dreifuss muscular dystrophy 2, autosomal dominant",
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "E235G, E266G, E347G",
+    "gene_id": "LMNA",
+    "location": "00000000000156136004"
+  },
+  {
+    "variation_id": "995174",
+    "title": "NM_170707.4(LMNA):c.1970G>A (p.Ser657Asn)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "not provided",
+      "Charcot-Marie-Tooth disease type 2"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "S545N, S607N, S627N, S657N",
+    "gene_id": "LMNA",
+    "location": "00000000000156139081"
+  },
+  {
+    "variation_id": "965914",
+    "title": "NM_170707.4(LMNA):c.1234G>T (p.Gly412Trp)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Cardiovascular phenotype",
+      "Hutchinson-Gilford syndrome",
+      "Congenital muscular dystrophy due to LMNA mutation",
+      "Charcot-Marie-Tooth disease type 2B1",
+      "Familial partial lipodystrophy, Dunnigan type",
+      "Mandibuloacral dysplasia with type A lipodystrophy",
+      "Emery-Dreifuss muscular dystrophy 2, autosomal dominant",
+      "Heart-hand syndrome, Slovenian type",
+      "Emery-Dreifuss muscular dystrophy 3, autosomal recessive",
+      "Dilated cardiomyopathy-hypergonadotropic hypogonadism syndrome",
+      "Dilated cardiomyopathy 1A",
+      "Restrictive dermopathy 2",
+      "Charcot-Marie-Tooth disease type 2"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "G300W, G412W, G331W",
+    "gene_id": "LMNA",
+    "location": "00000000000156136290"
+  },
+  {
+    "variation_id": "961231",
+    "title": "NM_170707.4(LMNA):c.1892G>C (p.Gly631Ala)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Charcot-Marie-Tooth disease type 2"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "intron variant"
+    ],
+    "protein_change": "G519A, G631A, G601A",
+    "gene_id": "LMNA",
+    "location": "00000000000156138681"
+  },
+  {
+    "variation_id": "959754",
+    "title": "NM_170707.4(LMNA):c.151T>C (p.Ser51Pro)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Charcot-Marie-Tooth disease type 2",
+      "not specified"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "S51P",
+    "gene_id": "LMNA",
+    "location": "00000000000156115069"
+  },
+  {
+    "variation_id": "959267",
+    "title": "NM_170707.4(LMNA):c.983C>T (p.Ala328Val)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Restrictive dermopathy 2",
+      "Emery-Dreifuss muscular dystrophy 3, autosomal recessive",
+      "Emery-Dreifuss muscular dystrophy 2, autosomal dominant",
+      "Heart-hand syndrome, Slovenian type",
+      "Hutchinson-Gilford syndrome",
+      "Familial partial lipodystrophy, Dunnigan type",
+      "Mandibuloacral dysplasia with type A lipodystrophy",
+      "Dilated cardiomyopathy-hypergonadotropic hypogonadism syndrome",
+      "Dilated cardiomyopathy 1A",
+      "Charcot-Marie-Tooth disease type 2B1",
+      "Congenital muscular dystrophy due to LMNA mutation",
+      "Charcot-Marie-Tooth disease type 2"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "A247V, A328V, A216V",
+    "gene_id": "LMNA",
+    "location": "00000000000156135947"
+  },
+  {
+    "variation_id": "958149",
+    "title": "NM_170707.4(LMNA):c.1287C>G (p.Ser429Arg)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Restrictive dermopathy 2",
+      "Emery-Dreifuss muscular dystrophy 3, autosomal recessive",
+      "Emery-Dreifuss muscular dystrophy 2, autosomal dominant",
+      "Heart-hand syndrome, Slovenian type",
+      "Hutchinson-Gilford syndrome",
+      "Familial partial lipodystrophy, Dunnigan type",
+      "Mandibuloacral dysplasia with type A lipodystrophy",
+      "Dilated cardiomyopathy-hypergonadotropic hypogonadism syndrome",
+      "Dilated cardiomyopathy 1A",
+      "Charcot-Marie-Tooth disease type 2B1",
+      "Congenital muscular dystrophy due to LMNA mutation",
+      "Charcot-Marie-Tooth disease type 2"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "S317R, S429R, S348R",
+    "gene_id": "LMNA",
+    "location": "00000000000156136343"
+  },
+  {
+    "variation_id": "950917",
+    "title": "NM_170707.4(LMNA):c.662G>A (p.Arg221His)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Charcot-Marie-Tooth disease type 2",
+      "not provided",
+      "Cardiovascular phenotype"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "R140H, R109H, R221H",
+    "gene_id": "LMNA",
+    "location": "00000000000156134827"
+  },
+  {
+    "variation_id": "948747",
+    "title": "NM_170707.4(LMNA):c.728A>T (p.Asp243Val)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Charcot-Marie-Tooth disease type 2"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "D162V, D131V, D243V",
+    "gene_id": "LMNA",
+    "location": "00000000000156134893"
+  },
+  {
+    "variation_id": "948103",
+    "title": "NM_170707.4(LMNA):c.1282A>G (p.Ser428Gly)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Heart-hand syndrome, Slovenian type",
+      "Hutchinson-Gilford syndrome",
+      "Charcot-Marie-Tooth disease type 2B1",
+      "Congenital muscular dystrophy due to LMNA mutation",
+      "Restrictive dermopathy 2",
+      "Dilated cardiomyopathy-hypergonadotropic hypogonadism syndrome",
+      "Emery-Dreifuss muscular dystrophy 3, autosomal recessive",
+      "Emery-Dreifuss muscular dystrophy 2, autosomal dominant",
+      "Familial partial lipodystrophy, Dunnigan type",
+      "Mandibuloacral dysplasia with type A lipodystrophy",
+      "Dilated cardiomyopathy 1A",
+      "Charcot-Marie-Tooth disease type 2"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "S316G, S347G, S428G",
+    "gene_id": "LMNA",
+    "location": "00000000000156136338"
+  },
+  {
+    "variation_id": "946694",
+    "title": "NM_170707.4(LMNA):c.1640T>C (p.Val547Ala)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Charcot-Marie-Tooth disease type 2"
+    ],
+    "molecular_consequence": [
+      "missense variant",
+      "intron variant"
+    ],
+    "protein_change": "V466A, V435A, V547A",
+    "gene_id": "LMNA",
+    "location": "00000000000156137685"
+  }
+]

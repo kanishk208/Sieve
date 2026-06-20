@@ -1,0 +1,2069 @@
+[
+  {
+    "variation_id": "4812857",
+    "title": "NM_007126.5(VCP):c.478G>T (p.Ala160Ser)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Adult onset neurodegenerative disorder"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "A115S, A160S",
+    "gene_id": "VCP",
+    "location": "00000000000035065349"
+  },
+  {
+    "variation_id": "4783697",
+    "title": "NM_007126.5(VCP):c.474G>A (p.Met158Ile)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Inclusion body myopathy with Paget disease of bone and frontotemporal dementia",
+      "Frontotemporal dementia and/or amyotrophic lateral sclerosis 6"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "M113I, M158I",
+    "gene_id": "VCP",
+    "location": "00000000000035065353"
+  },
+  {
+    "variation_id": "4755778",
+    "title": "NM_007126.5(VCP):c.1919A>T (p.Asp640Val)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "D595V, D640V",
+    "gene_id": "VCP",
+    "location": "00000000000035059578"
+  },
+  {
+    "variation_id": "4539954",
+    "title": "NM_007126.5(VCP):c.784A>G (p.Thr262Ala)",
+    "significance": "Pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "T217A, T262A",
+    "gene_id": "VCP",
+    "location": "00000000000035063005"
+  },
+  {
+    "variation_id": "4082676",
+    "title": "NM_007126.5(VCP):c.574G>A (p.Glu192Lys)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "E147K, E192K",
+    "gene_id": "VCP",
+    "location": "00000000000035065253"
+  },
+  {
+    "variation_id": "4077204",
+    "title": "NM_007126.5(VCP):c.1746T>G (p.Ile582Met)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "I537M, I582M",
+    "gene_id": "VCP",
+    "location": "00000000000035059751"
+  },
+  {
+    "variation_id": "4075566",
+    "title": "NM_007126.5(VCP):c.1120G>A (p.Ala374Thr)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "A329T, A374T",
+    "gene_id": "VCP",
+    "location": "00000000000035061651"
+  },
+  {
+    "variation_id": "3979549",
+    "title": "NM_007126.5(VCP):c.1073G>A (p.Arg358Gln)",
+    "significance": "Likely pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Inborn genetic diseases"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "R313Q, R358Q",
+    "gene_id": "VCP",
+    "location": "00000000000035062011"
+  },
+  {
+    "variation_id": "3906351",
+    "title": "NM_007126.5(VCP):c.2333A>G (p.Gln778Arg)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "Q733R, Q778R",
+    "gene_id": "VCP",
+    "location": "00000000000035057205"
+  },
+  {
+    "variation_id": "3906292",
+    "title": "NM_007126.5(VCP):c.965G>A (p.Arg322Gln)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "R277Q, R322Q",
+    "gene_id": "VCP",
+    "location": "00000000000035062119"
+  },
+  {
+    "variation_id": "3903043",
+    "title": "NM_007126.5(VCP):c.308A>G (p.Gln103Arg)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "Q103R, Q58R",
+    "gene_id": "VCP",
+    "location": "00000000000035066812"
+  },
+  {
+    "variation_id": "3902947",
+    "title": "NM_007126.5(VCP):c.1000G>A (p.Gly334Ser)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "G289S, G334S",
+    "gene_id": "VCP",
+    "location": "00000000000035062084"
+  },
+  {
+    "variation_id": "3900834",
+    "title": "NM_007126.5(VCP):c.578A>G (p.Asp193Gly)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "D148G, D193G",
+    "gene_id": "VCP",
+    "location": "00000000000035064284"
+  },
+  {
+    "variation_id": "3897332",
+    "title": "NM_007126.5(VCP):c.2162A>C (p.Glu721Ala)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "E676A, E721A",
+    "gene_id": "VCP",
+    "location": "00000000000035057529"
+  },
+  {
+    "variation_id": "3897082",
+    "title": "NM_007126.5(VCP):c.830A>G (p.Lys277Arg)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Inborn genetic diseases",
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "K232R, K277R",
+    "gene_id": "VCP",
+    "location": "00000000000035062332"
+  },
+  {
+    "variation_id": "3814841",
+    "title": "NM_007126.5(VCP):c.1217A>G (p.His406Arg)",
+    "significance": "Likely pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Inborn genetic diseases"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "H361R, H406R",
+    "gene_id": "VCP",
+    "location": "00000000000035061157"
+  },
+  {
+    "variation_id": "3774172",
+    "title": "NM_007126.5(VCP):c.1594G>A (p.Ala532Thr)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "A487T, A532T",
+    "gene_id": "VCP",
+    "location": "00000000000035060414"
+  },
+  {
+    "variation_id": "3768936",
+    "title": "NM_007126.5(VCP):c.410C>T (p.Pro137Leu)",
+    "significance": "Pathogenic/Likely pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Charcot-Marie-Tooth disease type 2Y",
+      "Inclusion body myopathy with Paget disease of bone and frontotemporal dementia",
+      "Frontotemporal dementia and/or amyotrophic lateral sclerosis 6"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "P137L, P92L",
+    "gene_id": "VCP",
+    "location": "00000000000035066710"
+  },
+  {
+    "variation_id": "3767420",
+    "title": "NM_007126.5(VCP):c.1901T>A (p.Leu634His)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "L589H, L634H",
+    "gene_id": "VCP",
+    "location": "00000000000035059596"
+  },
+  {
+    "variation_id": "3602916",
+    "title": "NM_007126.5(VCP):c.2078G>T (p.Arg693Leu)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "R648L, R693L",
+    "gene_id": "VCP",
+    "location": "00000000000035059146"
+  },
+  {
+    "variation_id": "3572746",
+    "title": "NM_007126.5(VCP):c.446G>A (p.Gly149Glu)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "G104E, G149E",
+    "gene_id": "VCP",
+    "location": "00000000000035065381"
+  },
+  {
+    "variation_id": "3393784",
+    "title": "NM_007126.5(VCP):c.1063C>A (p.Pro355Thr)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "P355T, P310T",
+    "gene_id": "VCP",
+    "location": "00000000000035062021"
+  },
+  {
+    "variation_id": "3384412",
+    "title": "NM_007126.5(VCP):c.1947T>A (p.Asp649Glu)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "D604E, D649E",
+    "gene_id": "VCP",
+    "location": "00000000000035059550"
+  },
+  {
+    "variation_id": "3378245",
+    "title": "NM_007126.5(VCP):c.2248A>G (p.Asn750Asp)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "N705D, N750D",
+    "gene_id": "VCP",
+    "location": "00000000000035057443"
+  },
+  {
+    "variation_id": "3375664",
+    "title": "NM_007126.5(VCP):c.551G>A (p.Cys184Tyr)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "C139Y, C184Y",
+    "gene_id": "VCP",
+    "location": "00000000000035065276"
+  },
+  {
+    "variation_id": "3373401",
+    "title": "NM_007126.5(VCP):c.482T>G (p.Val161Gly)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "V116G, V161G",
+    "gene_id": "VCP",
+    "location": "00000000000035065345"
+  },
+  {
+    "variation_id": "3371790",
+    "title": "NM_007126.5(VCP):c.511A>G (p.Ser171Gly)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "S126G, S171G",
+    "gene_id": "VCP",
+    "location": "00000000000035065316"
+  },
+  {
+    "variation_id": "3364006",
+    "title": "NM_007126.5(VCP):c.1228G>A (p.Asp410Asn)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "D365N, D410N",
+    "gene_id": "VCP",
+    "location": "00000000000035061146"
+  },
+  {
+    "variation_id": "3342920",
+    "title": "NM_007126.5(VCP):c.1916T>A (p.Leu639His)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "L594H, L639H",
+    "gene_id": "VCP",
+    "location": "00000000000035059581"
+  },
+  {
+    "variation_id": "3068549",
+    "title": "NM_007126.5(VCP):c.563C>T (p.Pro188Leu)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Inclusion body myopathy with Paget disease of bone and frontotemporal dementia type 1"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "P143L, P188L",
+    "gene_id": "VCP",
+    "location": "00000000000035065264"
+  },
+  {
+    "variation_id": "2954479",
+    "title": "NM_007126.5(VCP):c.283C>A (p.Arg95Ser)",
+    "significance": "Likely pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Frontotemporal dementia and/or amyotrophic lateral sclerosis 6",
+      "Inclusion body myopathy with Paget disease of bone and frontotemporal dementia"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "R50S, R95S",
+    "gene_id": "VCP",
+    "location": "00000000000035067910"
+  },
+  {
+    "variation_id": "2943913",
+    "title": "NM_007126.5(VCP):c.467G>T (p.Gly156Val)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Inclusion body myopathy with Paget disease of bone and frontotemporal dementia",
+      "Frontotemporal dementia and/or amyotrophic lateral sclerosis 6"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "G156V, G111V",
+    "gene_id": "VCP",
+    "location": "00000000000035065360"
+  },
+  {
+    "variation_id": "2921716",
+    "title": "NM_007126.5(VCP):c.382G>C (p.Gly128Arg)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Frontotemporal dementia and/or amyotrophic lateral sclerosis 6",
+      "Inclusion body myopathy with Paget disease of bone and frontotemporal dementia"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "G128R, G83R",
+    "gene_id": "VCP",
+    "location": "00000000000035066738"
+  },
+  {
+    "variation_id": "2662302",
+    "title": "NM_007126.5(VCP):c.2179C>A (p.Pro727Thr)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Inclusion body myopathy with Paget disease of bone and frontotemporal dementia",
+      "Frontotemporal dementia and/or amyotrophic lateral sclerosis 6",
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "P682T, P727T",
+    "gene_id": "VCP",
+    "location": "00000000000035057512"
+  },
+  {
+    "variation_id": "2662020",
+    "title": "NM_007126.5(VCP):c.124T>C (p.Ser42Pro)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "5 prime UTR variant",
+      "missense variant"
+    ],
+    "protein_change": "S42P",
+    "gene_id": "VCP",
+    "location": "00000000000035068256"
+  },
+  {
+    "variation_id": "2579447",
+    "title": "NM_007126.5(VCP):c.1550A>G (p.Tyr517Cys)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "Y472C, Y517C",
+    "gene_id": "VCP",
+    "location": "00000000000035060458"
+  },
+  {
+    "variation_id": "2575609",
+    "title": "NM_007126.5(VCP):c.892C>T (p.Pro298Ser)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "P253S, P298S",
+    "gene_id": "VCP",
+    "location": "00000000000035062270"
+  },
+  {
+    "variation_id": "2504538",
+    "title": "NM_007126.5(VCP):c.146T>C (p.Leu49Ser)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "L49S, L4S",
+    "gene_id": "VCP",
+    "location": "00000000000035068047"
+  },
+  {
+    "variation_id": "2504537",
+    "title": "NM_007126.5(VCP):c.230G>T (p.Cys77Phe)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "C32F, C77F",
+    "gene_id": "VCP",
+    "location": "00000000000035067963"
+  },
+  {
+    "variation_id": "2444456",
+    "title": "NM_007126.5(VCP):c.1874G>C (p.Arg625Pro)",
+    "significance": "Pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Global developmental delay"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "R580P, R625P",
+    "gene_id": "VCP",
+    "location": "00000000000035059623"
+  },
+  {
+    "variation_id": "2429745",
+    "title": "NM_007126.5(VCP):c.812G>A (p.Gly271Asp)",
+    "significance": "Pathogenic/Likely pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "G226D, G271D",
+    "gene_id": "VCP",
+    "location": "00000000000035062350"
+  },
+  {
+    "variation_id": "2154906",
+    "title": "NM_007126.5(VCP):c.397G>T (p.Val133Leu)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Inclusion body myopathy with Paget disease of bone and frontotemporal dementia",
+      "Frontotemporal dementia and/or amyotrophic lateral sclerosis 6",
+      "Inclusion body myopathy with Paget disease of bone and frontotemporal dementia"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "V133L, V88L",
+    "gene_id": "VCP",
+    "location": "00000000000035066723"
+  },
+  {
+    "variation_id": "2136763",
+    "title": "NM_007126.5(VCP):c.466G>A (p.Gly156Ser)",
+    "significance": "Pathogenic/Likely pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Frontotemporal dementia and/or amyotrophic lateral sclerosis 6",
+      "Inclusion body myopathy with Paget disease of bone and frontotemporal dementia",
+      "Frontotemporal dementia and/or amyotrophic lateral sclerosis 6"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "G156S, G111S",
+    "gene_id": "VCP",
+    "location": "00000000000035065361"
+  },
+  {
+    "variation_id": "2096454",
+    "title": "NM_007126.5(VCP):c.194G>A (p.Arg65Gln)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided",
+      "Frontotemporal dementia and/or amyotrophic lateral sclerosis 6",
+      "Inclusion body myopathy with Paget disease of bone and frontotemporal dementia"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "R20Q, R65Q",
+    "gene_id": "VCP",
+    "location": "00000000000035067999"
+  },
+  {
+    "variation_id": "2051539",
+    "title": "NM_007126.5(VCP):c.266G>A (p.Arg89Gln)",
+    "significance": "Pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Frontotemporal dementia and/or amyotrophic lateral sclerosis 6",
+      "Inclusion body myopathy with Paget disease of bone and frontotemporal dementia"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "R44Q, R89Q",
+    "gene_id": "VCP",
+    "location": "00000000000035067927"
+  },
+  {
+    "variation_id": "2028838",
+    "title": "NM_007126.5(VCP):c.382G>A (p.Gly128Ser)",
+    "significance": "Likely pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Inclusion body myopathy with Paget disease of bone and frontotemporal dementia",
+      "Frontotemporal dementia and/or amyotrophic lateral sclerosis 6"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "G83S, G128S",
+    "gene_id": "VCP",
+    "location": "00000000000035066738"
+  },
+  {
+    "variation_id": "1706337",
+    "title": "NM_007126.5(VCP):c.1712C>T (p.Pro571Leu)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "P526L, P571L",
+    "gene_id": "VCP",
+    "location": "00000000000035059785"
+  },
+  {
+    "variation_id": "1704891",
+    "title": "NM_007126.5(VCP):c.338G>A (p.Arg113His)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided",
+      "Frontotemporal dementia and/or amyotrophic lateral sclerosis 6",
+      "Inclusion body myopathy with Paget disease of bone and frontotemporal dementia"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "R113H, R68H",
+    "gene_id": "VCP",
+    "location": "00000000000035066782"
+  },
+  {
+    "variation_id": "1513178",
+    "title": "NM_007126.5(VCP):c.284G>A (p.Arg95His)",
+    "significance": "Likely pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Frontotemporal dementia and/or amyotrophic lateral sclerosis 6",
+      "Inclusion body myopathy with Paget disease of bone and frontotemporal dementia"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "R50H, R95H",
+    "gene_id": "VCP",
+    "location": "00000000000035067909"
+  },
+  {
+    "variation_id": "1496153",
+    "title": "NM_007126.5(VCP):c.273C>A (p.Asn91Lys)",
+    "significance": "Likely pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Frontotemporal dementia and/or amyotrophic lateral sclerosis 6",
+      "Inclusion body myopathy with Paget disease of bone and frontotemporal dementia"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "N46K, N91K",
+    "gene_id": "VCP",
+    "location": "00000000000035067920"
+  },
+  {
+    "variation_id": "1457380",
+    "title": "NM_007126.5(VCP):c.463C>A (p.Arg155Ser)",
+    "significance": "Pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Frontotemporal dementia and/or amyotrophic lateral sclerosis 6",
+      "Inclusion body myopathy with Paget disease of bone and frontotemporal dementia"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "R155S, R110S",
+    "gene_id": "VCP",
+    "location": "00000000000035065364"
+  },
+  {
+    "variation_id": "1457379",
+    "title": "NM_007126.5(VCP):c.469G>A (p.Gly157Arg)",
+    "significance": "Pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Frontotemporal dementia and/or amyotrophic lateral sclerosis 6",
+      "Inclusion body myopathy with Paget disease of bone and frontotemporal dementia"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "G112R, G157R",
+    "gene_id": "VCP",
+    "location": "00000000000035065358"
+  },
+  {
+    "variation_id": "1457378",
+    "title": "NM_007126.5(VCP):c.472A>G (p.Met158Val)",
+    "significance": "Pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Frontotemporal dementia and/or amyotrophic lateral sclerosis 6",
+      "Inclusion body myopathy with Paget disease of bone and frontotemporal dementia"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "M158V, M113V",
+    "gene_id": "VCP",
+    "location": "00000000000035065355"
+  },
+  {
+    "variation_id": "1403085",
+    "title": "NM_007126.5(VCP):c.273C>G (p.Asn91Lys)",
+    "significance": "Likely pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Inclusion body myopathy with Paget disease of bone and frontotemporal dementia",
+      "Frontotemporal dementia and/or amyotrophic lateral sclerosis 6"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "N46K, N91K",
+    "gene_id": "VCP",
+    "location": "00000000000035067920"
+  },
+  {
+    "variation_id": "1360978",
+    "title": "NM_007126.5(VCP):c.1459C>T (p.Arg487Cys)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Frontotemporal dementia and/or amyotrophic lateral sclerosis 6",
+      "Inclusion body myopathy with Paget disease of bone and frontotemporal dementia",
+      "VCP-related disorder"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "R442C, R487C",
+    "gene_id": "VCP",
+    "location": "00000000000035060824"
+  },
+  {
+    "variation_id": "1335727",
+    "title": "NM_007126.5(VCP):c.1460G>A (p.Arg487His)",
+    "significance": "Conflicting classifications of pathogenicity",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Frontotemporal dementia and/or amyotrophic lateral sclerosis 6",
+      "Inclusion body myopathy with Paget disease of bone and frontotemporal dementia",
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "R442H, R487H",
+    "gene_id": "VCP",
+    "location": "00000000000035060823"
+  },
+  {
+    "variation_id": "1313226",
+    "title": "NM_007126.5(VCP):c.1357C>T (p.Arg453Trp)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Inclusion body myopathy with Paget disease of bone and frontotemporal dementia",
+      "Frontotemporal dementia and/or amyotrophic lateral sclerosis 6",
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "R408W, R453W",
+    "gene_id": "VCP",
+    "location": "00000000000035061017"
+  },
+  {
+    "variation_id": "1312736",
+    "title": "NM_007126.5(VCP):c.2118G>T (p.Glu706Asp)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "E661D, E706D",
+    "gene_id": "VCP",
+    "location": "00000000000035059106"
+  },
+  {
+    "variation_id": "1305544",
+    "title": "NM_007126.5(VCP):c.91G>T (p.Ala31Ser)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Inborn genetic diseases",
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "5 prime UTR variant",
+      "missense variant"
+    ],
+    "protein_change": "A31S",
+    "gene_id": "VCP",
+    "location": "00000000000035068289"
+  },
+  {
+    "variation_id": "1303647",
+    "title": "NM_007126.5(VCP):c.2257C>T (p.Arg753Trp)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "R708W, R753W",
+    "gene_id": "VCP",
+    "location": "00000000000035057434"
+  },
+  {
+    "variation_id": "1058517",
+    "title": "NM_007126.5(VCP):c.2345G>T (p.Gly782Val)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Inclusion body myopathy with Paget disease of bone and frontotemporal dementia",
+      "Frontotemporal dementia and/or amyotrophic lateral sclerosis 6",
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "G737V, G782V",
+    "gene_id": "VCP",
+    "location": "00000000000035057193"
+  },
+  {
+    "variation_id": "1022767",
+    "title": "NM_007126.5(VCP):c.1144C>G (p.Gln382Glu)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided",
+      "Frontotemporal dementia and/or amyotrophic lateral sclerosis 6",
+      "Inclusion body myopathy with Paget disease of bone and frontotemporal dementia"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "Q337E, Q382E",
+    "gene_id": "VCP",
+    "location": "00000000000035061627"
+  },
+  {
+    "variation_id": "1010487",
+    "title": "NM_007126.5(VCP):c.265C>T (p.Arg89Trp)",
+    "significance": "Conflicting classifications of pathogenicity",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Inclusion body myopathy with Paget disease of bone and frontotemporal dementia",
+      "Frontotemporal dementia and/or amyotrophic lateral sclerosis 6",
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "R44W, R89W",
+    "gene_id": "VCP",
+    "location": "00000000000035067928"
+  },
+  {
+    "variation_id": "989440",
+    "title": "NM_007126.5(VCP):c.1184A>G (p.Asp395Gly)",
+    "significance": "Likely pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "D395G, D350G",
+    "gene_id": "VCP",
+    "location": "00000000000035061587"
+  },
+  {
+    "variation_id": "963526",
+    "title": "NM_007126.5(VCP):c.1106T>C (p.Ile369Thr)",
+    "significance": "Conflicting classifications of pathogenicity",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Charcot-Marie-Tooth disease type 2Y",
+      "Inclusion body myopathy with Paget disease of bone and frontotemporal dementia",
+      "Frontotemporal dementia and/or amyotrophic lateral sclerosis 6",
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "I369T, I324T",
+    "gene_id": "VCP",
+    "location": "00000000000035061665"
+  },
+  {
+    "variation_id": "913794",
+    "title": "NM_007126.5(VCP):c.794T>C (p.Phe265Ser)",
+    "significance": "Conflicting classifications of pathogenicity",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Frontotemporal dementia and/or amyotrophic lateral sclerosis 6",
+      "Inclusion body myopathy with Paget disease of bone and frontotemporal dementia type 1",
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "F265S, F220S",
+    "gene_id": "VCP",
+    "location": "00000000000035062995"
+  },
+  {
+    "variation_id": "873223",
+    "title": "NM_007126.5(VCP):c.572G>C (p.Arg191Pro)",
+    "significance": "Pathogenic/Likely pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Frontotemporal dementia and/or amyotrophic lateral sclerosis 6",
+      "Inclusion body myopathy with Paget disease of bone and frontotemporal dementia",
+      "Frontotemporal dementia and/or amyotrophic lateral sclerosis 6"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "R146P, R191P",
+    "gene_id": "VCP",
+    "location": "00000000000035065255"
+  },
+  {
+    "variation_id": "846874",
+    "title": "NM_007126.5(VCP):c.995T>C (p.Met332Thr)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided",
+      "Inclusion body myopathy with Paget disease of bone and frontotemporal dementia",
+      "Frontotemporal dementia and/or amyotrophic lateral sclerosis 6"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "M287T, M332T",
+    "gene_id": "VCP",
+    "location": "00000000000035062089"
+  },
+  {
+    "variation_id": "837640",
+    "title": "NM_007126.5(VCP):c.2228C>T (p.Ala743Val)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Inclusion body myopathy with Paget disease of bone and frontotemporal dementia",
+      "Frontotemporal dementia and/or amyotrophic lateral sclerosis 6",
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "A698V, A743V",
+    "gene_id": "VCP",
+    "location": "00000000000035057463"
+  },
+  {
+    "variation_id": "836876",
+    "title": "NM_007126.5(VCP):c.648A>G (p.Ile216Met)",
+    "significance": "Likely pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Frontotemporal dementia and/or amyotrophic lateral sclerosis 6",
+      "Inclusion body myopathy with Paget disease of bone and frontotemporal dementia"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "I171M, I216M",
+    "gene_id": "VCP",
+    "location": "00000000000035064214"
+  },
+  {
+    "variation_id": "595911",
+    "title": "NM_007126.5(VCP):c.284G>C (p.Arg95Pro)",
+    "significance": "Conflicting classifications of pathogenicity",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Inclusion body myopathy with Paget disease of bone and frontotemporal dementia",
+      "Frontotemporal dementia and/or amyotrophic lateral sclerosis 6",
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "R95P, R50P",
+    "gene_id": "VCP",
+    "location": "00000000000035067909"
+  },
+  {
+    "variation_id": "594970",
+    "title": "NM_007126.5(VCP):c.555A>C (p.Glu185Asp)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Inclusion body myopathy with Paget disease of bone and frontotemporal dementia",
+      "Frontotemporal dementia and/or amyotrophic lateral sclerosis 6",
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "E185D, E140D",
+    "gene_id": "VCP",
+    "location": "00000000000035065272"
+  },
+  {
+    "variation_id": "593071",
+    "title": "NM_007126.5(VCP):c.277C>T (p.Arg93Cys)",
+    "significance": "Pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Frontotemporal dementia and/or amyotrophic lateral sclerosis 6",
+      "Inclusion body myopathy with Paget disease of bone and frontotemporal dementia",
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "R93C, R48C",
+    "gene_id": "VCP",
+    "location": "00000000000035067916"
+  },
+  {
+    "variation_id": "569394",
+    "title": "NM_007126.5(VCP):c.374G>A (p.Gly125Asp)",
+    "significance": "Conflicting classifications of pathogenicity",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Frontotemporal dementia and/or amyotrophic lateral sclerosis 6",
+      "Inclusion body myopathy with Paget disease of bone and frontotemporal dementia",
+      "Inclusion body myopathy with Paget disease of bone and frontotemporal dementia type 1"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "G125D, G80D",
+    "gene_id": "VCP",
+    "location": "00000000000035066746"
+  },
+  {
+    "variation_id": "532761",
+    "title": "NM_007126.5(VCP):c.478G>C (p.Ala160Pro)",
+    "significance": "Conflicting classifications of pathogenicity",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Frontotemporal dementia and/or amyotrophic lateral sclerosis 6",
+      "Inclusion body myopathy with Paget disease of bone and frontotemporal dementia",
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "A160P, A115P",
+    "gene_id": "VCP",
+    "location": "00000000000035065349"
+  },
+  {
+    "variation_id": "532758",
+    "title": "NM_007126.5(VCP):c.479C>T (p.Ala160Val)",
+    "significance": "Uncertain significance",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Inclusion body myopathy with Paget disease of bone and frontotemporal dementia",
+      "Frontotemporal dementia and/or amyotrophic lateral sclerosis 6"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "A160V, A115V",
+    "gene_id": "VCP",
+    "location": "00000000000035065348"
+  },
+  {
+    "variation_id": "452025",
+    "title": "NM_007126.5(VCP):c.2077C>T (p.Arg693Cys)",
+    "significance": "Likely pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "R693C, R648C",
+    "gene_id": "VCP",
+    "location": "00000000000035059147"
+  },
+  {
+    "variation_id": "449554",
+    "title": "NM_007126.5(VCP):c.278G>A (p.Arg93His)",
+    "significance": "Conflicting classifications of pathogenicity",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided",
+      "Frontotemporal dementia and/or amyotrophic lateral sclerosis 6",
+      "Inclusion body myopathy with Paget disease of bone and frontotemporal dementia"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "R93H, R48H",
+    "gene_id": "VCP",
+    "location": "00000000000035067915"
+  },
+  {
+    "variation_id": "432305",
+    "title": "NM_007126.5(VCP):c.383G>C (p.Gly128Ala)",
+    "significance": "Conflicting classifications of pathogenicity",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Frontotemporal dementia and/or amyotrophic lateral sclerosis 6",
+      "Inclusion body myopathy with Paget disease of bone and frontotemporal dementia",
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "G128A, G83A",
+    "gene_id": "VCP",
+    "location": "00000000000035066737"
+  },
+  {
+    "variation_id": "280124",
+    "title": "NM_007126.5(VCP):c.283C>T (p.Arg95Cys)",
+    "significance": "Conflicting classifications of pathogenicity",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Frontotemporal dementia and/or amyotrophic lateral sclerosis 6",
+      "Inclusion body myopathy with Paget disease of bone and frontotemporal dementia",
+      "Inborn genetic diseases",
+      "Spastic paraplegia",
+      "Amyotrophic lateral sclerosis",
+      "not provided",
+      "Frontotemporal dementia and/or amyotrophic lateral sclerosis 6",
+      "Inclusion body myopathy with Paget disease of bone and frontotemporal dementia type 1"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "R95C, R50C",
+    "gene_id": "VCP",
+    "location": "00000000000035067910"
+  },
+  {
+    "variation_id": "280123",
+    "title": "NM_007126.5(VCP):c.475C>T (p.Arg159Cys)",
+    "significance": "Pathogenic/Likely pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Frontotemporal dementia and/or amyotrophic lateral sclerosis 6",
+      "Inclusion body myopathy with Paget disease of bone and frontotemporal dementia",
+      "not provided",
+      "Frontotemporal dementia and/or amyotrophic lateral sclerosis 6"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "R159C, R114C",
+    "gene_id": "VCP",
+    "location": "00000000000035065352"
+  },
+  {
+    "variation_id": "218306",
+    "title": "NM_007126.5(VCP):c.290G>A (p.Gly97Glu)",
+    "significance": "Pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Frontotemporal dementia and/or amyotrophic lateral sclerosis 6",
+      "Inclusion body myopathy with Paget disease of bone and frontotemporal dementia"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "G97E, G52E",
+    "gene_id": "VCP",
+    "location": "00000000000035067903"
+  },
+  {
+    "variation_id": "218305",
+    "title": "NM_007126.5(VCP):c.553G>A (p.Glu185Lys)",
+    "significance": "Likely pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Frontotemporal dementia and/or amyotrophic lateral sclerosis 6",
+      "Inclusion body myopathy with Paget disease of bone and frontotemporal dementia",
+      "Inborn genetic diseases",
+      "Charcot-Marie-Tooth disease type 2Y"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "E185K, E140K",
+    "gene_id": "VCP",
+    "location": "00000000000035065274"
+  },
+  {
+    "variation_id": "217877",
+    "title": "NM_007126.5(VCP):c.271A>T (p.Asn91Tyr)",
+    "significance": "Pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Frontotemporal dementia and/or amyotrophic lateral sclerosis 6",
+      "Inclusion body myopathy with Paget disease of bone and frontotemporal dementia"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "N91Y, N46Y",
+    "gene_id": "VCP",
+    "location": "00000000000035067922"
+  },
+  {
+    "variation_id": "217028",
+    "title": "NM_007126.5(VCP):c.463C>G (p.Arg155Gly)",
+    "significance": "Pathogenic/Likely pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Frontotemporal dementia and/or amyotrophic lateral sclerosis 6",
+      "Inclusion body myopathy with Paget disease of bone and frontotemporal dementia",
+      "not provided",
+      "Inclusion body myopathy with Paget disease of bone and frontotemporal dementia type 1"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "R155G, R110G",
+    "gene_id": "VCP",
+    "location": "00000000000035065364"
+  },
+  {
+    "variation_id": "8474",
+    "title": "NM_007126.5(VCP):c.476G>A (p.Arg159His)",
+    "significance": "Pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Frontotemporal dementia and/or amyotrophic lateral sclerosis 6",
+      "Inclusion body myopathy with Paget disease of bone and frontotemporal dementia",
+      "not provided",
+      "Frontotemporal dementia and/or amyotrophic lateral sclerosis 6",
+      "Inclusion body myopathy with Paget disease of bone and frontotemporal dementia type 1"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "R159H, R114H",
+    "gene_id": "VCP",
+    "location": "00000000000035065351"
+  },
+  {
+    "variation_id": "8473",
+    "title": "NM_007126.5(VCP):c.572G>A (p.Arg191Gln)",
+    "significance": "Pathogenic/Likely pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Frontotemporal dementia and/or amyotrophic lateral sclerosis 6",
+      "Inclusion body myopathy with Paget disease of bone and frontotemporal dementia",
+      "Charcot-Marie-Tooth disease type 2Y",
+      "Frontotemporal dementia and/or amyotrophic lateral sclerosis 6",
+      "Inclusion body myopathy with Paget disease of bone and frontotemporal dementia type 1",
+      "not provided",
+      "Inclusion body myopathy with Paget disease of bone and frontotemporal dementia type 1"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "R191Q, R146Q",
+    "gene_id": "VCP",
+    "location": "00000000000035065255"
+  },
+  {
+    "variation_id": "8472",
+    "title": "NM_007126.5(VCP):c.464G>C (p.Arg155Pro)",
+    "significance": "Conflicting classifications of pathogenicity",
+    "search_class": "pathogenic",
+    "conditions": [
+      "not provided",
+      "Frontotemporal dementia and/or amyotrophic lateral sclerosis 6",
+      "Inclusion body myopathy with Paget disease of bone and frontotemporal dementia"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "R155P, R110P",
+    "gene_id": "VCP",
+    "location": "00000000000035065363"
+  },
+  {
+    "variation_id": "8471",
+    "title": "NM_007126.5(VCP):c.283C>G (p.Arg95Gly)",
+    "significance": "Pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Frontotemporal dementia and/or amyotrophic lateral sclerosis 6",
+      "Inclusion body myopathy with Paget disease of bone and frontotemporal dementia"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "R95G, R50G",
+    "gene_id": "VCP",
+    "location": "00000000000035067910"
+  },
+  {
+    "variation_id": "8469",
+    "title": "NM_007126.5(VCP):c.463C>T (p.Arg155Cys)",
+    "significance": "Pathogenic/Likely pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Frontotemporal dementia and/or amyotrophic lateral sclerosis 6",
+      "Inclusion body myopathy with Paget disease of bone and frontotemporal dementia",
+      "not provided",
+      "Frontotemporal dementia and/or amyotrophic lateral sclerosis 6"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "R155C, R110C",
+    "gene_id": "VCP",
+    "location": "00000000000035065364"
+  },
+  {
+    "variation_id": "8468",
+    "title": "NM_007126.5(VCP):c.464G>A (p.Arg155His)",
+    "significance": "Pathogenic",
+    "search_class": "pathogenic",
+    "conditions": [
+      "Frontotemporal dementia and/or amyotrophic lateral sclerosis 6",
+      "Inclusion body myopathy with Paget disease of bone and frontotemporal dementia",
+      "Inborn genetic diseases",
+      "not provided",
+      "Inclusion body myopathy with Paget disease of bone and frontotemporal dementia type 1"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "R155H, R110H",
+    "gene_id": "VCP",
+    "location": "00000000000035065363"
+  },
+  {
+    "variation_id": "4688427",
+    "title": "NM_007126.5(VCP):c.2008G>A (p.Val670Met)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "not specified"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "V625M, V670M",
+    "gene_id": "VCP",
+    "location": "00000000000035059216"
+  },
+  {
+    "variation_id": "4537312",
+    "title": "NM_007126.5(VCP):c.1408G>C (p.Glu470Gln)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "not specified"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "E425Q, E470Q",
+    "gene_id": "VCP",
+    "location": "00000000000035060875"
+  },
+  {
+    "variation_id": "3814842",
+    "title": "NM_007126.5(VCP):c.799T>A (p.Phe267Ile)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Inborn genetic diseases"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "F222I, F267I",
+    "gene_id": "VCP",
+    "location": "00000000000035062990"
+  },
+  {
+    "variation_id": "3366093",
+    "title": "NM_007126.5(VCP):c.1988A>G (p.Lys663Arg)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "K618R, K663R",
+    "gene_id": "VCP",
+    "location": "00000000000035059509"
+  },
+  {
+    "variation_id": "2925445",
+    "title": "NM_007126.5(VCP):c.2234G>A (p.Arg745His)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Inclusion body myopathy with Paget disease of bone and frontotemporal dementia",
+      "Frontotemporal dementia and/or amyotrophic lateral sclerosis 6",
+      "not specified"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "R745H, R700H",
+    "gene_id": "VCP",
+    "location": "00000000000035057457"
+  },
+  {
+    "variation_id": "2438522",
+    "title": "NM_007126.5(VCP):c.722T>C (p.Ile241Thr)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Frontotemporal dementia and/or amyotrophic lateral sclerosis 6",
+      "Inclusion body myopathy with Paget disease of bone and frontotemporal dementia",
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "I196T, I241T",
+    "gene_id": "VCP",
+    "location": "00000000000035063067"
+  },
+  {
+    "variation_id": "2438521",
+    "title": "NM_007126.5(VCP):c.11G>A (p.Gly4Glu)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "not provided",
+      "Frontotemporal dementia and/or amyotrophic lateral sclerosis 6",
+      "Inclusion body myopathy with Paget disease of bone and frontotemporal dementia"
+    ],
+    "molecular_consequence": [
+      "5 prime UTR variant",
+      "missense variant"
+    ],
+    "protein_change": "G4E",
+    "gene_id": "VCP",
+    "location": "00000000000035072343"
+  },
+  {
+    "variation_id": "2169829",
+    "title": "NM_007126.5(VCP):c.2221C>T (p.Arg741Cys)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Frontotemporal dementia and/or amyotrophic lateral sclerosis 6",
+      "Inclusion body myopathy with Paget disease of bone and frontotemporal dementia",
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "R696C, R741C",
+    "gene_id": "VCP",
+    "location": "00000000000035057470"
+  },
+  {
+    "variation_id": "2168433",
+    "title": "NM_007126.5(VCP):c.565A>G (p.Ile189Val)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "not provided",
+      "Frontotemporal dementia and/or amyotrophic lateral sclerosis 6",
+      "Inclusion body myopathy with Paget disease of bone and frontotemporal dementia"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "I144V, I189V",
+    "gene_id": "VCP",
+    "location": "00000000000035065262"
+  },
+  {
+    "variation_id": "1986151",
+    "title": "NM_007126.5(VCP):c.2381G>A (p.Ser794Asn)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Frontotemporal dementia and/or amyotrophic lateral sclerosis 6",
+      "Inclusion body myopathy with Paget disease of bone and frontotemporal dementia",
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "S749N, S794N",
+    "gene_id": "VCP",
+    "location": "00000000000035057157"
+  },
+  {
+    "variation_id": "1736555",
+    "title": "NM_007126.5(VCP):c.1160A>G (p.Asn387Ser)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Inclusion body myopathy with Paget disease of bone and frontotemporal dementia",
+      "Frontotemporal dementia and/or amyotrophic lateral sclerosis 6",
+      "Inborn genetic diseases",
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "N342S, N387S",
+    "gene_id": "VCP",
+    "location": "00000000000035061611"
+  },
+  {
+    "variation_id": "1715833",
+    "title": "NM_007126.5(VCP):c.380C>T (p.Thr127Ile)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Frontotemporal dementia and/or amyotrophic lateral sclerosis 6",
+      "Inclusion body myopathy with Paget disease of bone and frontotemporal dementia"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "T127I, T82I",
+    "gene_id": "VCP",
+    "location": "00000000000035066740"
+  },
+  {
+    "variation_id": "1436607",
+    "title": "NM_007126.5(VCP):c.73C>T (p.Arg25Trp)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Frontotemporal dementia and/or amyotrophic lateral sclerosis 6",
+      "Inclusion body myopathy with Paget disease of bone and frontotemporal dementia",
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "5 prime UTR variant",
+      "missense variant"
+    ],
+    "protein_change": "R25W",
+    "gene_id": "VCP",
+    "location": "00000000000035068307"
+  },
+  {
+    "variation_id": "1427125",
+    "title": "NM_007126.5(VCP):c.82G>A (p.Val28Ile)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Inclusion body myopathy with Paget disease of bone and frontotemporal dementia",
+      "Frontotemporal dementia and/or amyotrophic lateral sclerosis 6"
+    ],
+    "molecular_consequence": [
+      "5 prime UTR variant",
+      "missense variant"
+    ],
+    "protein_change": "V28I",
+    "gene_id": "VCP",
+    "location": "00000000000035068298"
+  },
+  {
+    "variation_id": "1404434",
+    "title": "NM_007126.5(VCP):c.1162A>G (p.Met388Val)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Inclusion body myopathy with Paget disease of bone and frontotemporal dementia",
+      "Frontotemporal dementia and/or amyotrophic lateral sclerosis 6",
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "M388V, M343V",
+    "gene_id": "VCP",
+    "location": "00000000000035061609"
+  },
+  {
+    "variation_id": "1390232",
+    "title": "NM_007126.5(VCP):c.1985G>A (p.Arg662His)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "not provided",
+      "Inclusion body myopathy with Paget disease of bone and frontotemporal dementia",
+      "Frontotemporal dementia and/or amyotrophic lateral sclerosis 6",
+      "Inborn genetic diseases"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "R617H, R662H",
+    "gene_id": "VCP",
+    "location": "00000000000035059512"
+  },
+  {
+    "variation_id": "1387478",
+    "title": "NM_007126.5(VCP):c.1211A>C (p.His404Pro)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Inclusion body myopathy with Paget disease of bone and frontotemporal dementia",
+      "Frontotemporal dementia and/or amyotrophic lateral sclerosis 6",
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "H404P, H359P",
+    "gene_id": "VCP",
+    "location": "00000000000035061163"
+  },
+  {
+    "variation_id": "1382557",
+    "title": "NM_007126.5(VCP):c.451A>G (p.Ile151Val)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Inclusion body myopathy with Paget disease of bone and frontotemporal dementia",
+      "Frontotemporal dementia and/or amyotrophic lateral sclerosis 6",
+      "Inborn genetic diseases"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "I151V, I106V",
+    "gene_id": "VCP",
+    "location": "00000000000035065376"
+  },
+  {
+    "variation_id": "1348994",
+    "title": "NM_007126.5(VCP):c.1186C>G (p.Leu396Val)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Frontotemporal dementia and/or amyotrophic lateral sclerosis 6",
+      "Inclusion body myopathy with Paget disease of bone and frontotemporal dementia",
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "L396V, L351V",
+    "gene_id": "VCP",
+    "location": "00000000000035061585"
+  },
+  {
+    "variation_id": "1014881",
+    "title": "NM_007126.5(VCP):c.237T>A (p.Asp79Glu)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "not provided",
+      "not specified",
+      "Frontotemporal dementia and/or amyotrophic lateral sclerosis 6",
+      "Inclusion body myopathy with Paget disease of bone and frontotemporal dementia"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "D34E, D79E",
+    "gene_id": "VCP",
+    "location": "00000000000035067956"
+  },
+  {
+    "variation_id": "1000668",
+    "title": "NM_007126.5(VCP):c.401A>G (p.Tyr134Cys)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Frontotemporal dementia and/or amyotrophic lateral sclerosis 6",
+      "Inclusion body myopathy with Paget disease of bone and frontotemporal dementia",
+      "Inborn genetic diseases",
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "Y134C, Y89C",
+    "gene_id": "VCP",
+    "location": "00000000000035066719"
+  },
+  {
+    "variation_id": "966733",
+    "title": "NM_007126.5(VCP):c.2132G>A (p.Arg711Gln)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Inborn genetic diseases",
+      "Frontotemporal dementia and/or amyotrophic lateral sclerosis 6",
+      "Inclusion body myopathy with Paget disease of bone and frontotemporal dementia"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "R666Q, R711Q",
+    "gene_id": "VCP",
+    "location": "00000000000035059092"
+  },
+  {
+    "variation_id": "961078",
+    "title": "NM_007126.5(VCP):c.1324A>G (p.Met442Val)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Frontotemporal dementia and/or amyotrophic lateral sclerosis 6",
+      "Inclusion body myopathy with Paget disease of bone and frontotemporal dementia"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "M397V, M442V",
+    "gene_id": "VCP",
+    "location": "00000000000035061050"
+  },
+  {
+    "variation_id": "942237",
+    "title": "NM_007126.5(VCP):c.377T>G (p.Ile126Ser)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Frontotemporal dementia and/or amyotrophic lateral sclerosis 6",
+      "Inclusion body myopathy with Paget disease of bone and frontotemporal dementia"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "I126S, I81S",
+    "gene_id": "VCP",
+    "location": "00000000000035066743"
+  },
+  {
+    "variation_id": "913795",
+    "title": "NM_007126.5(VCP):c.697A>G (p.Ile233Val)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Frontotemporal dementia and/or amyotrophic lateral sclerosis 6",
+      "Inclusion body myopathy with Paget disease of bone and frontotemporal dementia type 1",
+      "Inclusion body myopathy with Paget disease of bone and frontotemporal dementia",
+      "Frontotemporal dementia and/or amyotrophic lateral sclerosis 6",
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "I188V, I233V",
+    "gene_id": "VCP",
+    "location": "00000000000035064165"
+  },
+  {
+    "variation_id": "873235",
+    "title": "NM_007126.5(VCP):c.41C>T (p.Thr14Ile)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Inclusion body myopathy with Paget disease of bone and frontotemporal dementia",
+      "Frontotemporal dementia and/or amyotrophic lateral sclerosis 6",
+      "not provided",
+      "not specified",
+      "Inclusion body myopathy with Paget disease of bone and frontotemporal dementia type 1"
+    ],
+    "molecular_consequence": [
+      "5 prime UTR variant",
+      "missense variant"
+    ],
+    "protein_change": "T14I",
+    "gene_id": "VCP",
+    "location": "00000000000035068339"
+  },
+  {
+    "variation_id": "835129",
+    "title": "NM_007126.5(VCP):c.2345G>C (p.Gly782Ala)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "not provided",
+      "Frontotemporal dementia and/or amyotrophic lateral sclerosis 6",
+      "Inclusion body myopathy with Paget disease of bone and frontotemporal dementia"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "G782A, G737A",
+    "gene_id": "VCP",
+    "location": "00000000000035057193"
+  },
+  {
+    "variation_id": "656560",
+    "title": "NM_007126.5(VCP):c.1180G>A (p.Val394Met)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Inclusion body myopathy with Paget disease of bone and frontotemporal dementia",
+      "Frontotemporal dementia and/or amyotrophic lateral sclerosis 6"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "V394M, V349M",
+    "gene_id": "VCP",
+    "location": "00000000000035061591"
+  },
+  {
+    "variation_id": "647081",
+    "title": "NM_007126.5(VCP):c.2014T>G (p.Leu672Val)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Inclusion body myopathy with Paget disease of bone and frontotemporal dementia type 1",
+      "Frontotemporal dementia and/or amyotrophic lateral sclerosis 6"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "L627V, L672V",
+    "gene_id": "VCP",
+    "location": "00000000000035059210"
+  },
+  {
+    "variation_id": "594143",
+    "title": "NM_007126.5(VCP):c.1156A>G (p.Lys386Glu)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Inclusion body myopathy with Paget disease of bone and frontotemporal dementia",
+      "Frontotemporal dementia and/or amyotrophic lateral sclerosis 6",
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "K386E, K341E",
+    "gene_id": "VCP",
+    "location": "00000000000035061615"
+  },
+  {
+    "variation_id": "586925",
+    "title": "NM_007126.5(VCP):c.1973A>C (p.Lys658Thr)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Inborn genetic diseases",
+      "Inclusion body myopathy with Paget disease of bone and frontotemporal dementia",
+      "Frontotemporal dementia and/or amyotrophic lateral sclerosis 6",
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "K658T, K613T",
+    "gene_id": "VCP",
+    "location": "00000000000035059524"
+  },
+  {
+    "variation_id": "572697",
+    "title": "NM_007126.5(VCP):c.1984C>T (p.Arg662Cys)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Frontotemporal dementia and/or amyotrophic lateral sclerosis 6",
+      "Inclusion body myopathy with Paget disease of bone and frontotemporal dementia",
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "R662C, R617C",
+    "gene_id": "VCP",
+    "location": "00000000000035059513"
+  },
+  {
+    "variation_id": "532760",
+    "title": "NM_007126.5(VCP):c.1327A>C (p.Asn443His)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Inclusion body myopathy with Paget disease of bone and frontotemporal dementia",
+      "Frontotemporal dementia and/or amyotrophic lateral sclerosis 6",
+      "Inborn genetic diseases",
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "N443H, N398H",
+    "gene_id": "VCP",
+    "location": "00000000000035061047"
+  },
+  {
+    "variation_id": "502413",
+    "title": "NM_007126.5(VCP):c.1433A>G (p.Asp478Gly)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "Frontotemporal dementia and/or amyotrophic lateral sclerosis 6",
+      "Inclusion body myopathy with Paget disease of bone and frontotemporal dementia",
+      "not provided"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "D478G, D433G",
+    "gene_id": "VCP",
+    "location": "00000000000035060850"
+  },
+  {
+    "variation_id": "366720",
+    "title": "NM_007126.5(VCP):c.185A>G (p.Lys62Arg)",
+    "significance": "Uncertain significance",
+    "search_class": "benign",
+    "conditions": [
+      "not provided",
+      "Frontotemporal dementia and/or amyotrophic lateral sclerosis 6",
+      "Frontotemporal dementia and/or amyotrophic lateral sclerosis 6",
+      "Inclusion body myopathy with Paget disease of bone and frontotemporal dementia",
+      "Inclusion body myopathy with Paget disease of bone and frontotemporal dementia type 1"
+    ],
+    "molecular_consequence": [
+      "missense variant"
+    ],
+    "protein_change": "K62R, K17R",
+    "gene_id": "VCP",
+    "location": "00000000000035068008"
+  }
+]
