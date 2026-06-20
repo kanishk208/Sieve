@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Digital Patient Twin
 
 > **Computational protein variant interpretation platform.** Predicts clinical pathogenicity of missense mutations from AlphaFold structures using protein contact network topology, evolutionary conservation, and AI-powered literature mining — zero wet-lab required.
@@ -943,3 +944,7 @@ git push
 ```
 
 Never use `git add .` after the first commit — always add files explicitly to avoid accidentally committing generated data.
+=======
+# Sieve
+Predicts clinical pathogenicity of missense mutations from AlphaFold structures using protein contact network topology, evolutionary conservation, and AI-powered literature mining — zero wet-lab required.
+>>>>>>> 21399df2409e7a29e77578c677f0c030aeb053e0
